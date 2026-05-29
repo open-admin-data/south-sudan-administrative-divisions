@@ -1,0 +1,47 @@
+{
+  "id": "SS0106",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Yei",
+    "en": "Yei",
+    "slug": "yei"
+  },
+  "code": {
+    "id": "SS0106",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS01",
+    "level": 1,
+    "name": {
+      "local": "Central Equatoria",
+      "en": "Central Equatoria",
+      "slug": "central-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS01",
+      "level": 1,
+      "name": {
+        "local": "Central Equatoria",
+        "en": "Central Equatoria",
+        "slug": "central-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.243",
+    "lon": "30.363"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "SS0803",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Tonj East",
+    "en": "Tonj East",
+    "slug": "tonj-east"
+  },
+  "code": {
+    "id": "SS0803",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS08",
+    "level": 1,
+    "name": {
+      "local": "Warrap",
+      "en": "Warrap",
+      "slug": "warrap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS08",
+      "level": 1,
+      "name": {
+        "local": "Warrap",
+        "en": "Warrap",
+        "slug": "warrap"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.837",
+    "lon": "29.252"
+  },
+  "metadata": {},
+  "source": {}
+}

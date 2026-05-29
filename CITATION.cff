@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite as below"
+type: dataset
+authors:
+  - name: "jakkrapongt"
+title: "South Sudan Administrative Divisions Dataset"
+version: "2026.05"
+date-released: "2026-05-29"
+url: "https://github.com/open-admin-data/south-sudan-administrative-divisions"
+repository-code: "https://github.com/open-admin-data/south-sudan-administrative-divisions"
+license: CC-BY-4.0
+keywords:
+  - south sudan
+  - administrative-divisions
+  - geography
+  - open-data
+  - dataset
+  - multilingual
+abstract: >
+  Open dataset of South Sudan's administrative hierarchy:
+  10 states, 79 countys, 512 payams.
+  Bilingual with coordinates and postal codes where available.

@@ -1,0 +1,47 @@
+{
+  "id": "SS0603",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Koch",
+    "en": "Koch",
+    "slug": "koch"
+  },
+  "code": {
+    "id": "SS0603",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS06",
+    "level": 1,
+    "name": {
+      "local": "Unity",
+      "en": "Unity",
+      "slug": "unity"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.602",
+    "lon": "29.799"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS100301",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kozi",
+      "en": "Kozi",
+      "slug": "kozi"
+    },
+    "code": {
+      "id": "SS100301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1003",
+      "level": 2,
+      "name": {
+        "local": "Maridi",
+        "en": "Maridi",
+        "slug": "maridi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1003",
+        "level": 2,
+        "name": {
+          "local": "Maridi",
+          "en": "Maridi",
+          "slug": "maridi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.334",
+      "lon": "29.579"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100302",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Landili",
+      "en": "Landili",
+      "slug": "landili"
+    },
+    "code": {
+      "id": "SS100302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1003",
+      "level": 2,
+      "name": {
+        "local": "Maridi",
+        "en": "Maridi",
+        "slug": "maridi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1003",
+        "level": 2,
+        "name": {
+          "local": "Maridi",
+          "en": "Maridi",
+          "slug": "maridi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.671",
+      "lon": "29.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100303",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mambe",
+      "en": "Mambe",
+      "slug": "mambe"
+    },
+    "code": {
+      "id": "SS100303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1003",
+      "level": 2,
+      "name": {
+        "local": "Maridi",
+        "en": "Maridi",
+        "slug": "maridi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1003",
+        "level": 2,
+        "name": {
+          "local": "Maridi",
+          "en": "Maridi",
+          "slug": "maridi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.988",
+      "lon": "29.844"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100304",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Maridi",
+      "en": "Maridi",
+      "slug": "maridi"
+    },
+    "code": {
+      "id": "SS100304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1003",
+      "level": 2,
+      "name": {
+        "local": "Maridi",
+        "en": "Maridi",
+        "slug": "maridi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1003",
+        "level": 2,
+        "name": {
+          "local": "Maridi",
+          "en": "Maridi",
+          "slug": "maridi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.883",
+      "lon": "29.471"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100305",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ngamunde",
+      "en": "Ngamunde",
+      "slug": "ngamunde"
+    },
+    "code": {
+      "id": "SS100305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1003",
+      "level": 2,
+      "name": {
+        "local": "Maridi",
+        "en": "Maridi",
+        "slug": "maridi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1003",
+        "level": 2,
+        "name": {
+          "local": "Maridi",
+          "en": "Maridi",
+          "slug": "maridi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.735",
+      "lon": "29.556"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

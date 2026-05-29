@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS070702",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Central Malakal",
+      "en": "Central Malakal",
+      "slug": "central-malakal"
+    },
+    "code": {
+      "id": "SS070702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0707",
+      "level": 2,
+      "name": {
+        "local": "Malakal",
+        "en": "Malakal",
+        "slug": "malakal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0707",
+        "level": 2,
+        "name": {
+          "local": "Malakal",
+          "en": "Malakal",
+          "slug": "malakal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.515",
+      "lon": "31.658"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070703",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Eastern Malakal",
+      "en": "Eastern Malakal",
+      "slug": "eastern-malakal"
+    },
+    "code": {
+      "id": "SS070703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0707",
+      "level": 2,
+      "name": {
+        "local": "Malakal",
+        "en": "Malakal",
+        "slug": "malakal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0707",
+        "level": 2,
+        "name": {
+          "local": "Malakal",
+          "en": "Malakal",
+          "slug": "malakal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.523",
+      "lon": "31.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070701",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lelo",
+      "en": "Lelo",
+      "slug": "lelo"
+    },
+    "code": {
+      "id": "SS070701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0707",
+      "level": 2,
+      "name": {
+        "local": "Malakal",
+        "en": "Malakal",
+        "slug": "malakal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0707",
+        "level": 2,
+        "name": {
+          "local": "Malakal",
+          "en": "Malakal",
+          "slug": "malakal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.673",
+      "lon": "31.551"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070704",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Northern Malakal",
+      "en": "Northern Malakal",
+      "slug": "northern-malakal"
+    },
+    "code": {
+      "id": "SS070704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0707",
+      "level": 2,
+      "name": {
+        "local": "Malakal",
+        "en": "Malakal",
+        "slug": "malakal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0707",
+        "level": 2,
+        "name": {
+          "local": "Malakal",
+          "en": "Malakal",
+          "slug": "malakal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.539",
+      "lon": "31.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070706",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ogot",
+      "en": "Ogot",
+      "slug": "ogot"
+    },
+    "code": {
+      "id": "SS070706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0707",
+      "level": 2,
+      "name": {
+        "local": "Malakal",
+        "en": "Malakal",
+        "slug": "malakal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0707",
+        "level": 2,
+        "name": {
+          "local": "Malakal",
+          "en": "Malakal",
+          "slug": "malakal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.647",
+      "lon": "31.769"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070705",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Southern Malakal",
+      "en": "Southern Malakal",
+      "slug": "southern-malakal"
+    },
+    "code": {
+      "id": "SS070705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0707",
+      "level": 2,
+      "name": {
+        "local": "Malakal",
+        "en": "Malakal",
+        "slug": "malakal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0707",
+        "level": 2,
+        "name": {
+          "local": "Malakal",
+          "en": "Malakal",
+          "slug": "malakal"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.5",
+      "lon": "31.677"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

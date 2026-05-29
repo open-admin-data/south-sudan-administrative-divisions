@@ -1,0 +1,378 @@
+[
+  {
+    "id": "SS0201",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Budi",
+      "en": "Budi",
+      "slug": "budi"
+    },
+    "code": {
+      "id": "SS0201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.372",
+      "lon": "33.469"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0202",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ikotos",
+      "en": "Ikotos",
+      "slug": "ikotos"
+    },
+    "code": {
+      "id": "SS0202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.082",
+      "lon": "33.185"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0203",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kapoeta East",
+      "en": "Kapoeta East",
+      "slug": "kapoeta-east"
+    },
+    "code": {
+      "id": "SS0203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.094",
+      "lon": "34.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0204",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kapoeta North",
+      "en": "Kapoeta North",
+      "slug": "kapoeta-north"
+    },
+    "code": {
+      "id": "SS0204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.308",
+      "lon": "33.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0205",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kapoeta South",
+      "en": "Kapoeta South",
+      "slug": "kapoeta-south"
+    },
+    "code": {
+      "id": "SS0205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.545",
+      "lon": "33.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0206",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lafon",
+      "en": "Lafon",
+      "slug": "lafon"
+    },
+    "code": {
+      "id": "SS0206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.157",
+      "lon": "32.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0207",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Magwi",
+      "en": "Magwi",
+      "slug": "magwi"
+    },
+    "code": {
+      "id": "SS0207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.937",
+      "lon": "32.304"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0208",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Torit",
+      "en": "Torit",
+      "slug": "torit"
+    },
+    "code": {
+      "id": "SS0208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.383",
+      "lon": "32.53"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

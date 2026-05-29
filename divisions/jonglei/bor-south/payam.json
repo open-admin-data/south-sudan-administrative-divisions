@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS030301",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Anyidi",
+      "en": "Anyidi",
+      "slug": "anyidi"
+    },
+    "code": {
+      "id": "SS030301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0303",
+      "level": 2,
+      "name": {
+        "local": "Bor South",
+        "en": "Bor South",
+        "slug": "bor-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0303",
+        "level": 2,
+        "name": {
+          "local": "Bor South",
+          "en": "Bor South",
+          "slug": "bor-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.272",
+      "lon": "32.04"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030302",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Baidit",
+      "en": "Baidit",
+      "slug": "baidit"
+    },
+    "code": {
+      "id": "SS030302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0303",
+      "level": 2,
+      "name": {
+        "local": "Bor South",
+        "en": "Bor South",
+        "slug": "bor-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0303",
+        "level": 2,
+        "name": {
+          "local": "Bor South",
+          "en": "Bor South",
+          "slug": "bor-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.705",
+      "lon": "31.905"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030303",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bor",
+      "en": "Bor",
+      "slug": "bor"
+    },
+    "code": {
+      "id": "SS030303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0303",
+      "level": 2,
+      "name": {
+        "local": "Bor South",
+        "en": "Bor South",
+        "slug": "bor-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0303",
+        "level": 2,
+        "name": {
+          "local": "Bor South",
+          "en": "Bor South",
+          "slug": "bor-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.245",
+      "lon": "31.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030304",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jalle",
+      "en": "Jalle",
+      "slug": "jalle"
+    },
+    "code": {
+      "id": "SS030304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0303",
+      "level": 2,
+      "name": {
+        "local": "Bor South",
+        "en": "Bor South",
+        "slug": "bor-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0303",
+        "level": 2,
+        "name": {
+          "local": "Bor South",
+          "en": "Bor South",
+          "slug": "bor-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.626",
+      "lon": "31.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030305",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kolnyang",
+      "en": "Kolnyang",
+      "slug": "kolnyang"
+    },
+    "code": {
+      "id": "SS030305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0303",
+      "level": 2,
+      "name": {
+        "local": "Bor South",
+        "en": "Bor South",
+        "slug": "bor-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0303",
+        "level": 2,
+        "name": {
+          "local": "Bor South",
+          "en": "Bor South",
+          "slug": "bor-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.063",
+      "lon": "32.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030306",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Makuach",
+      "en": "Makuach",
+      "slug": "makuach"
+    },
+    "code": {
+      "id": "SS030306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0303",
+      "level": 2,
+      "name": {
+        "local": "Bor South",
+        "en": "Bor South",
+        "slug": "bor-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0303",
+        "level": 2,
+        "name": {
+          "local": "Bor South",
+          "en": "Bor South",
+          "slug": "bor-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.661",
+      "lon": "32.116"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

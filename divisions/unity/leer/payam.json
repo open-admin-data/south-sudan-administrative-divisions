@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SS060402",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Adok",
+      "en": "Adok",
+      "slug": "adok"
+    },
+    "code": {
+      "id": "SS060402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0604",
+      "level": 2,
+      "name": {
+        "local": "Leer",
+        "en": "Leer",
+        "slug": "leer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0604",
+        "level": 2,
+        "name": {
+          "local": "Leer",
+          "en": "Leer",
+          "slug": "leer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.262",
+      "lon": "30.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060403",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bou",
+      "en": "Bou",
+      "slug": "bou"
+    },
+    "code": {
+      "id": "SS060403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0604",
+      "level": 2,
+      "name": {
+        "local": "Leer",
+        "en": "Leer",
+        "slug": "leer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0604",
+        "level": 2,
+        "name": {
+          "local": "Leer",
+          "en": "Leer",
+          "slug": "leer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.35",
+      "lon": "30.189"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060404",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Guat",
+      "en": "Guat",
+      "slug": "guat"
+    },
+    "code": {
+      "id": "SS060404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0604",
+      "level": 2,
+      "name": {
+        "local": "Leer",
+        "en": "Leer",
+        "slug": "leer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0604",
+        "level": 2,
+        "name": {
+          "local": "Leer",
+          "en": "Leer",
+          "slug": "leer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.381",
+      "lon": "30.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060405",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Juong Kang",
+      "en": "Juong Kang",
+      "slug": "juong-kang"
+    },
+    "code": {
+      "id": "SS060405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0604",
+      "level": 2,
+      "name": {
+        "local": "Leer",
+        "en": "Leer",
+        "slug": "leer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0604",
+        "level": 2,
+        "name": {
+          "local": "Leer",
+          "en": "Leer",
+          "slug": "leer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.332",
+      "lon": "30.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060406",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Leer",
+      "en": "Leer",
+      "slug": "leer"
+    },
+    "code": {
+      "id": "SS060406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0604",
+      "level": 2,
+      "name": {
+        "local": "Leer",
+        "en": "Leer",
+        "slug": "leer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0604",
+        "level": 2,
+        "name": {
+          "local": "Leer",
+          "en": "Leer",
+          "slug": "leer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.258",
+      "lon": "30.113"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060401",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Padeah",
+      "en": "Padeah",
+      "slug": "padeah"
+    },
+    "code": {
+      "id": "SS060401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0604",
+      "level": 2,
+      "name": {
+        "local": "Leer",
+        "en": "Leer",
+        "slug": "leer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0604",
+        "level": 2,
+        "name": {
+          "local": "Leer",
+          "en": "Leer",
+          "slug": "leer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.411",
+      "lon": "30.279"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060407",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pilieny",
+      "en": "Pilieny",
+      "slug": "pilieny"
+    },
+    "code": {
+      "id": "SS060407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0604",
+      "level": 2,
+      "name": {
+        "local": "Leer",
+        "en": "Leer",
+        "slug": "leer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0604",
+        "level": 2,
+        "name": {
+          "local": "Leer",
+          "en": "Leer",
+          "slug": "leer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.095",
+      "lon": "30.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060408",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Yang",
+      "en": "Yang",
+      "slug": "yang"
+    },
+    "code": {
+      "id": "SS060408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0604",
+      "level": 2,
+      "name": {
+        "local": "Leer",
+        "en": "Leer",
+        "slug": "leer"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0604",
+        "level": 2,
+        "name": {
+          "local": "Leer",
+          "en": "Leer",
+          "slug": "leer"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.077",
+      "lon": "30.275"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

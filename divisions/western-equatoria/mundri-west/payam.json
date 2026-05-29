@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SS100501",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Amadi",
+      "en": "Amadi",
+      "slug": "amadi"
+    },
+    "code": {
+      "id": "SS100501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1005",
+      "level": 2,
+      "name": {
+        "local": "Mundri West",
+        "en": "Mundri West",
+        "slug": "mundri-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1005",
+        "level": 2,
+        "name": {
+          "local": "Mundri West",
+          "en": "Mundri West",
+          "slug": "mundri-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.509",
+      "lon": "30.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100502",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bangolo",
+      "en": "Bangolo",
+      "slug": "bangolo"
+    },
+    "code": {
+      "id": "SS100502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1005",
+      "level": 2,
+      "name": {
+        "local": "Mundri West",
+        "en": "Mundri West",
+        "slug": "mundri-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1005",
+        "level": 2,
+        "name": {
+          "local": "Mundri West",
+          "en": "Mundri West",
+          "slug": "mundri-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.803",
+      "lon": "30.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100503",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kotobi",
+      "en": "Kotobi",
+      "slug": "kotobi"
+    },
+    "code": {
+      "id": "SS100503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1005",
+      "level": 2,
+      "name": {
+        "local": "Mundri West",
+        "en": "Mundri West",
+        "slug": "mundri-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1005",
+        "level": 2,
+        "name": {
+          "local": "Mundri West",
+          "en": "Mundri West",
+          "slug": "mundri-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.162",
+      "lon": "30.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100504",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mundri",
+      "en": "Mundri",
+      "slug": "mundri"
+    },
+    "code": {
+      "id": "SS100504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1005",
+      "level": 2,
+      "name": {
+        "local": "Mundri West",
+        "en": "Mundri West",
+        "slug": "mundri-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1005",
+        "level": 2,
+        "name": {
+          "local": "Mundri West",
+          "en": "Mundri West",
+          "slug": "mundri-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.472",
+      "lon": "30.113"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

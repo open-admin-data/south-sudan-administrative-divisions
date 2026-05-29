@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SS030101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Alali",
+      "en": "Alali",
+      "slug": "alali"
+    },
+    "code": {
+      "id": "SS030101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0301",
+      "level": 2,
+      "name": {
+        "local": "Akobo",
+        "en": "Akobo",
+        "slug": "akobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0301",
+        "level": 2,
+        "name": {
+          "local": "Akobo",
+          "en": "Akobo",
+          "slug": "akobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.654",
+      "lon": "33.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Barmach",
+      "en": "Barmach",
+      "slug": "barmach"
+    },
+    "code": {
+      "id": "SS030102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0301",
+      "level": 2,
+      "name": {
+        "local": "Akobo",
+        "en": "Akobo",
+        "slug": "akobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0301",
+        "level": 2,
+        "name": {
+          "local": "Akobo",
+          "en": "Akobo",
+          "slug": "akobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.292",
+      "lon": "32.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bilkey",
+      "en": "Bilkey",
+      "slug": "bilkey"
+    },
+    "code": {
+      "id": "SS030103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0301",
+      "level": 2,
+      "name": {
+        "local": "Akobo",
+        "en": "Akobo",
+        "slug": "akobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0301",
+        "level": 2,
+        "name": {
+          "local": "Akobo",
+          "en": "Akobo",
+          "slug": "akobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.624",
+      "lon": "32.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Buong",
+      "en": "Buong",
+      "slug": "buong"
+    },
+    "code": {
+      "id": "SS030104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0301",
+      "level": 2,
+      "name": {
+        "local": "Akobo",
+        "en": "Akobo",
+        "slug": "akobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0301",
+        "level": 2,
+        "name": {
+          "local": "Akobo",
+          "en": "Akobo",
+          "slug": "akobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.225",
+      "lon": "32.42"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dengjok",
+      "en": "Dengjok",
+      "slug": "dengjok"
+    },
+    "code": {
+      "id": "SS030105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0301",
+      "level": 2,
+      "name": {
+        "local": "Akobo",
+        "en": "Akobo",
+        "slug": "akobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0301",
+        "level": 2,
+        "name": {
+          "local": "Akobo",
+          "en": "Akobo",
+          "slug": "akobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.851",
+      "lon": "32.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030106",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Diror",
+      "en": "Diror",
+      "slug": "diror"
+    },
+    "code": {
+      "id": "SS030106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0301",
+      "level": 2,
+      "name": {
+        "local": "Akobo",
+        "en": "Akobo",
+        "slug": "akobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0301",
+        "level": 2,
+        "name": {
+          "local": "Akobo",
+          "en": "Akobo",
+          "slug": "akobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.155",
+      "lon": "32.577"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030107",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyandit",
+      "en": "Nyandit",
+      "slug": "nyandit"
+    },
+    "code": {
+      "id": "SS030107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0301",
+      "level": 2,
+      "name": {
+        "local": "Akobo",
+        "en": "Akobo",
+        "slug": "akobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0301",
+        "level": 2,
+        "name": {
+          "local": "Akobo",
+          "en": "Akobo",
+          "slug": "akobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.472",
+      "lon": "33.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030108",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Walgak",
+      "en": "Walgak",
+      "slug": "walgak"
+    },
+    "code": {
+      "id": "SS030108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0301",
+      "level": 2,
+      "name": {
+        "local": "Akobo",
+        "en": "Akobo",
+        "slug": "akobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0301",
+        "level": 2,
+        "name": {
+          "local": "Akobo",
+          "en": "Akobo",
+          "slug": "akobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.17",
+      "lon": "32.212"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

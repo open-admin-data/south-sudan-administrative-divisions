@@ -1,0 +1,542 @@
+[
+  {
+    "id": "SS080401",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Akop",
+      "en": "Akop",
+      "slug": "akop"
+    },
+    "code": {
+      "id": "SS080401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0804",
+      "level": 2,
+      "name": {
+        "local": "Tonj North",
+        "en": "Tonj North",
+        "slug": "tonj-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0804",
+        "level": 2,
+        "name": {
+          "local": "Tonj North",
+          "en": "Tonj North",
+          "slug": "tonj-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.43",
+      "lon": "29.302"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080402",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Alabek",
+      "en": "Alabek",
+      "slug": "alabek"
+    },
+    "code": {
+      "id": "SS080402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0804",
+      "level": 2,
+      "name": {
+        "local": "Tonj North",
+        "en": "Tonj North",
+        "slug": "tonj-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0804",
+        "level": 2,
+        "name": {
+          "local": "Tonj North",
+          "en": "Tonj North",
+          "slug": "tonj-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.558",
+      "lon": "29.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080403",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Aliek",
+      "en": "Aliek",
+      "slug": "aliek"
+    },
+    "code": {
+      "id": "SS080403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0804",
+      "level": 2,
+      "name": {
+        "local": "Tonj North",
+        "en": "Tonj North",
+        "slug": "tonj-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0804",
+        "level": 2,
+        "name": {
+          "local": "Tonj North",
+          "en": "Tonj North",
+          "slug": "tonj-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.556",
+      "lon": "28.907"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080404",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Awuul",
+      "en": "Awuul",
+      "slug": "awuul"
+    },
+    "code": {
+      "id": "SS080404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0804",
+      "level": 2,
+      "name": {
+        "local": "Tonj North",
+        "en": "Tonj North",
+        "slug": "tonj-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0804",
+        "level": 2,
+        "name": {
+          "local": "Tonj North",
+          "en": "Tonj North",
+          "slug": "tonj-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.126",
+      "lon": "28.647"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080405",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kirik",
+      "en": "Kirik",
+      "slug": "kirik"
+    },
+    "code": {
+      "id": "SS080405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0804",
+      "level": 2,
+      "name": {
+        "local": "Tonj North",
+        "en": "Tonj North",
+        "slug": "tonj-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0804",
+        "level": 2,
+        "name": {
+          "local": "Tonj North",
+          "en": "Tonj North",
+          "slug": "tonj-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.893",
+      "lon": "28.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080406",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Manloor",
+      "en": "Manloor",
+      "slug": "manloor"
+    },
+    "code": {
+      "id": "SS080406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0804",
+      "level": 2,
+      "name": {
+        "local": "Tonj North",
+        "en": "Tonj North",
+        "slug": "tonj-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0804",
+        "level": 2,
+        "name": {
+          "local": "Tonj North",
+          "en": "Tonj North",
+          "slug": "tonj-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.978",
+      "lon": "28.34"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080407",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Marial-lou",
+      "en": "Marial-lou",
+      "slug": "marial-lou"
+    },
+    "code": {
+      "id": "SS080407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0804",
+      "level": 2,
+      "name": {
+        "local": "Tonj North",
+        "en": "Tonj North",
+        "slug": "tonj-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0804",
+        "level": 2,
+        "name": {
+          "local": "Tonj North",
+          "en": "Tonj North",
+          "slug": "tonj-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.185",
+      "lon": "29.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080408",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pagol",
+      "en": "Pagol",
+      "slug": "pagol"
+    },
+    "code": {
+      "id": "SS080408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0804",
+      "level": 2,
+      "name": {
+        "local": "Tonj North",
+        "en": "Tonj North",
+        "slug": "tonj-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0804",
+        "level": 2,
+        "name": {
+          "local": "Tonj North",
+          "en": "Tonj North",
+          "slug": "tonj-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.81",
+      "lon": "28.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080409",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Rual-bet",
+      "en": "Rual-bet",
+      "slug": "rual-bet"
+    },
+    "code": {
+      "id": "SS080409",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0804",
+      "level": 2,
+      "name": {
+        "local": "Tonj North",
+        "en": "Tonj North",
+        "slug": "tonj-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0804",
+        "level": 2,
+        "name": {
+          "local": "Tonj North",
+          "en": "Tonj North",
+          "slug": "tonj-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.152",
+      "lon": "28.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080410",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Warrap",
+      "en": "Warrap",
+      "slug": "warrap"
+    },
+    "code": {
+      "id": "SS080410",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0804",
+      "level": 2,
+      "name": {
+        "local": "Tonj North",
+        "en": "Tonj North",
+        "slug": "tonj-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0804",
+        "level": 2,
+        "name": {
+          "local": "Tonj North",
+          "en": "Tonj North",
+          "slug": "tonj-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.068",
+      "lon": "28.723"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

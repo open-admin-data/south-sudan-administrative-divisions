@@ -1,0 +1,47 @@
+{
+  "id": "SS0201",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Budi",
+    "en": "Budi",
+    "slug": "budi"
+  },
+  "code": {
+    "id": "SS0201",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS02",
+    "level": 1,
+    "name": {
+      "local": "Eastern Equatoria",
+      "en": "Eastern Equatoria",
+      "slug": "eastern-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.372",
+    "lon": "33.469"
+  },
+  "metadata": {},
+  "source": {}
+}

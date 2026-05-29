@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS031001",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ajuong",
+      "en": "Ajuong",
+      "slug": "ajuong"
+    },
+    "code": {
+      "id": "SS031001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0310",
+      "level": 2,
+      "name": {
+        "local": "Twic East",
+        "en": "Twic East",
+        "slug": "twic-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0310",
+        "level": 2,
+        "name": {
+          "local": "Twic East",
+          "en": "Twic East",
+          "slug": "twic-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.088",
+      "lon": "31.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031002",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kongor",
+      "en": "Kongor",
+      "slug": "kongor"
+    },
+    "code": {
+      "id": "SS031002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0310",
+      "level": 2,
+      "name": {
+        "local": "Twic East",
+        "en": "Twic East",
+        "slug": "twic-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0310",
+        "level": 2,
+        "name": {
+          "local": "Twic East",
+          "en": "Twic East",
+          "slug": "twic-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.184",
+      "lon": "31.339"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031003",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lith",
+      "en": "Lith",
+      "slug": "lith"
+    },
+    "code": {
+      "id": "SS031003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0310",
+      "level": 2,
+      "name": {
+        "local": "Twic East",
+        "en": "Twic East",
+        "slug": "twic-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0310",
+        "level": 2,
+        "name": {
+          "local": "Twic East",
+          "en": "Twic East",
+          "slug": "twic-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.316",
+      "lon": "31.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031004",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyuak",
+      "en": "Nyuak",
+      "slug": "nyuak"
+    },
+    "code": {
+      "id": "SS031004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0310",
+      "level": 2,
+      "name": {
+        "local": "Twic East",
+        "en": "Twic East",
+        "slug": "twic-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0310",
+        "level": 2,
+        "name": {
+          "local": "Twic East",
+          "en": "Twic East",
+          "slug": "twic-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.111",
+      "lon": "31.453"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031005",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pakeer",
+      "en": "Pakeer",
+      "slug": "pakeer"
+    },
+    "code": {
+      "id": "SS031005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0310",
+      "level": 2,
+      "name": {
+        "local": "Twic East",
+        "en": "Twic East",
+        "slug": "twic-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0310",
+        "level": 2,
+        "name": {
+          "local": "Twic East",
+          "en": "Twic East",
+          "slug": "twic-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.866",
+      "lon": "31.46"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

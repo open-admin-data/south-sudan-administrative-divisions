@@ -1,0 +1,223 @@
+# Central Equatoria — South Sudan Administrative Divisions
+
+> 6 countys, 46 payams
+> Code: SS01
+> Coordinates: 4.869, 30.985
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Countys
+
+### Juba
+
+Code: SS0101, Coordinates: 4.711, 31.343
+Payams: 17
+
+#### Bungu
+
+Code: SS010101, Coordinates: 4.697, 31.227
+
+#### Dolo
+
+Code: SS010102, Coordinates: 4.935, 31.066
+
+#### Ganji
+
+Code: SS010103, Coordinates: 4.511, 31.229
+
+#### Gondokoro
+
+Code: SS010104, Coordinates: 4.852, 31.766
+
+#### Juba Town
+
+Code: SS010105, Coordinates: 4.856, 31.602
+
+#### Kator
+
+Code: SS010106, Coordinates: 4.819, 31.602
+
+#### Lirya
+
+Code: SS010107, Coordinates: 4.675, 32.03
+
+#### Lobonok
+
+Code: SS010109, Coordinates: 4.334, 31.535
+
+#### Lokiliri
+
+Code: SS010108, Coordinates: 4.478, 31.882
+
+#### Mangala North
+
+Code: SS010117, Coordinates: 5.266, 31.948
+
+#### Mangala South
+
+Code: SS010110, Coordinates: 4.977, 31.929
+
+#### Munuki
+
+Code: SS010111, Coordinates: 4.835, 31.576
+
+#### Northern Bari
+
+Code: SS010112, Coordinates: 4.946, 31.465
+
+#### Rejaf
+
+Code: SS010113, Coordinates: 4.75, 31.54
+
+#### Rokon
+
+Code: SS010114, Coordinates: 5.211, 31.056
+
+#### Tijor
+
+Code: SS010115, Coordinates: 5.138, 31.407
+
+#### Wonduruba
+
+Code: SS010116, Coordinates: 4.641, 30.844
+
+### Kajo-keji
+
+Code: SS0102, Coordinates: 3.883, 31.45
+Payams: 5
+
+#### Kangapo I
+
+Code: SS010201, Coordinates: 3.828, 31.707
+
+#### Kangapo II
+
+Code: SS010202, Coordinates: 3.764, 31.563
+
+#### Lire
+
+Code: SS010203, Coordinates: 3.937, 31.639
+
+#### Liwolo
+
+Code: SS010204, Coordinates: 3.905, 31.306
+
+#### Nyepo
+
+Code: SS010205, Coordinates: 3.992, 31.511
+
+### Lainya
+
+Code: SS0103, Coordinates: 4.203, 30.836
+Payams: 5
+
+#### Kenyi
+
+Code: SS010301, Coordinates: 4.232, 30.928
+
+#### Kupera
+
+Code: SS010302, Coordinates: 4.038, 30.959
+
+#### Lainya
+
+Code: SS010303, Coordinates: 4.391, 31.008
+
+#### Mukaya
+
+Code: SS010304, Coordinates: 4.391, 30.693
+
+#### Wuji
+
+Code: SS010305, Coordinates: 3.945, 31.086
+
+### Morobo
+
+Code: SS0104, Coordinates: 3.718, 30.828
+Payams: 5
+
+#### Gulumbi
+
+Code: SS010401, Coordinates: 3.688, 30.819
+
+#### Kimba
+
+Code: SS010402, Coordinates: 3.606, 30.892
+
+#### Lujulo
+
+Code: SS010403, Coordinates: 3.709, 30.693
+
+#### Panyume
+
+Code: SS010404, Coordinates: 3.818, 30.968
+
+#### Wudabi
+
+Code: SS010405, Coordinates: 3.716, 30.623
+
+### Terekeka
+
+Code: SS0105, Coordinates: 5.687, 31.209
+Payams: 9
+
+#### Gameiza
+
+Code: SS010501, Coordinates: 5.621, 31.888
+
+#### Muni
+
+Code: SS010502, Coordinates: 5.649, 31.716
+
+#### Nyori
+
+Code: SS010503, Coordinates: 5.246, 31.654
+
+#### Reggo
+
+Code: SS010504, Coordinates: 5.429, 31.483
+
+#### Rijong
+
+Code: SS010505, Coordinates: 5.586, 31.244
+
+#### Tali
+
+Code: SS010506, Coordinates: 5.942, 30.64
+
+#### Terekeka
+
+Code: SS010507, Coordinates: 5.461, 31.756
+
+#### Tindilo
+
+Code: SS010508, Coordinates: 5.675, 31.053
+
+#### Tombek
+
+Code: SS010509, Coordinates: 5.753, 31.644
+
+### Yei
+
+Code: SS0106, Coordinates: 4.243, 30.363
+Payams: 5
+
+#### Lasu
+
+Code: SS010601, Coordinates: 4.015, 30.365
+
+#### Mugwo
+
+Code: SS010602, Coordinates: 3.906, 30.757
+
+#### Otogo
+
+Code: SS010603, Coordinates: 3.975, 30.589
+
+#### Tore
+
+Code: SS010604, Coordinates: 4.376, 30.214
+
+#### Yei
+
+Code: SS010605, Coordinates: 4.071, 30.72
+

@@ -1,0 +1,488 @@
+[
+  {
+    "id": "SS080202",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Akon North",
+      "en": "Akon North",
+      "slug": "akon-north"
+    },
+    "code": {
+      "id": "SS080202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0802",
+      "level": 2,
+      "name": {
+        "local": "Gogrial West",
+        "en": "Gogrial West",
+        "slug": "gogrial-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0802",
+        "level": 2,
+        "name": {
+          "local": "Gogrial West",
+          "en": "Gogrial West",
+          "slug": "gogrial-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.036",
+      "lon": "27.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080201",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Akon South",
+      "en": "Akon South",
+      "slug": "akon-south"
+    },
+    "code": {
+      "id": "SS080201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0802",
+      "level": 2,
+      "name": {
+        "local": "Gogrial West",
+        "en": "Gogrial West",
+        "slug": "gogrial-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0802",
+        "level": 2,
+        "name": {
+          "local": "Gogrial West",
+          "en": "Gogrial West",
+          "slug": "gogrial-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.92",
+      "lon": "27.987"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080203",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Alek North",
+      "en": "Alek North",
+      "slug": "alek-north"
+    },
+    "code": {
+      "id": "SS080203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0802",
+      "level": 2,
+      "name": {
+        "local": "Gogrial West",
+        "en": "Gogrial West",
+        "slug": "gogrial-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0802",
+        "level": 2,
+        "name": {
+          "local": "Gogrial West",
+          "en": "Gogrial West",
+          "slug": "gogrial-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.731",
+      "lon": "28.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080204",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Alek South",
+      "en": "Alek South",
+      "slug": "alek-south"
+    },
+    "code": {
+      "id": "SS080204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0802",
+      "level": 2,
+      "name": {
+        "local": "Gogrial West",
+        "en": "Gogrial West",
+        "slug": "gogrial-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0802",
+        "level": 2,
+        "name": {
+          "local": "Gogrial West",
+          "en": "Gogrial West",
+          "slug": "gogrial-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.614",
+      "lon": "28.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080205",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Alek West",
+      "en": "Alek West",
+      "slug": "alek-west"
+    },
+    "code": {
+      "id": "SS080205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0802",
+      "level": 2,
+      "name": {
+        "local": "Gogrial West",
+        "en": "Gogrial West",
+        "slug": "gogrial-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0802",
+        "level": 2,
+        "name": {
+          "local": "Gogrial West",
+          "en": "Gogrial West",
+          "slug": "gogrial-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.832",
+      "lon": "28.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080206",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Gogrial",
+      "en": "Gogrial",
+      "slug": "gogrial"
+    },
+    "code": {
+      "id": "SS080206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0802",
+      "level": 2,
+      "name": {
+        "local": "Gogrial West",
+        "en": "Gogrial West",
+        "slug": "gogrial-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0802",
+        "level": 2,
+        "name": {
+          "local": "Gogrial West",
+          "en": "Gogrial West",
+          "slug": "gogrial-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.504",
+      "lon": "28.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080207",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kuac North",
+      "en": "Kuac North",
+      "slug": "kuac-north"
+    },
+    "code": {
+      "id": "SS080207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0802",
+      "level": 2,
+      "name": {
+        "local": "Gogrial West",
+        "en": "Gogrial West",
+        "slug": "gogrial-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0802",
+        "level": 2,
+        "name": {
+          "local": "Gogrial West",
+          "en": "Gogrial West",
+          "slug": "gogrial-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.338",
+      "lon": "28.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080208",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kuac South",
+      "en": "Kuac South",
+      "slug": "kuac-south"
+    },
+    "code": {
+      "id": "SS080208",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0802",
+      "level": 2,
+      "name": {
+        "local": "Gogrial West",
+        "en": "Gogrial West",
+        "slug": "gogrial-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0802",
+        "level": 2,
+        "name": {
+          "local": "Gogrial West",
+          "en": "Gogrial West",
+          "slug": "gogrial-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.137",
+      "lon": "28.034"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080209",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Riau",
+      "en": "Riau",
+      "slug": "riau"
+    },
+    "code": {
+      "id": "SS080209",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0802",
+      "level": 2,
+      "name": {
+        "local": "Gogrial West",
+        "en": "Gogrial West",
+        "slug": "gogrial-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0802",
+        "level": 2,
+        "name": {
+          "local": "Gogrial West",
+          "en": "Gogrial West",
+          "slug": "gogrial-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.866",
+      "lon": "28.226"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

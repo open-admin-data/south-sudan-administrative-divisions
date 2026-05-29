@@ -1,0 +1,31 @@
+# South Sudan Administrative Divisions — Full Reference
+
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Per-State Data Files
+
+- [Central Equatoria](https://github.com/open-admin-data/south-sudan-administrative-divisions/blob/main/docs/llms-full/central-equatoria.txt) — 6 countys, 46 payams
+- [Eastern Equatoria](https://github.com/open-admin-data/south-sudan-administrative-divisions/blob/main/docs/llms-full/eastern-equatoria.txt) — 8 countys, 53 payams
+- [Jonglei](https://github.com/open-admin-data/south-sudan-administrative-divisions/blob/main/docs/llms-full/jonglei.txt) — 11 countys, 72 payams
+- [Lakes](https://github.com/open-admin-data/south-sudan-administrative-divisions/blob/main/docs/llms-full/lakes.txt) — 8 countys, 50 payams
+- [Northern Bahr el Ghazal](https://github.com/open-admin-data/south-sudan-administrative-divisions/blob/main/docs/llms-full/northern-bahr-el-ghazal.txt) — 5 countys, 39 payams
+- [Unity](https://github.com/open-admin-data/south-sudan-administrative-divisions/blob/main/docs/llms-full/unity.txt) — 9 countys, 73 payams
+- [Upper Nile](https://github.com/open-admin-data/south-sudan-administrative-divisions/blob/main/docs/llms-full/upper-nile.txt) — 12 countys, 69 payams
+- [Warrap](https://github.com/open-admin-data/south-sudan-administrative-divisions/blob/main/docs/llms-full/warrap.txt) — 6 countys, 47 payams
+- [Western Bahr el Ghazal](https://github.com/open-admin-data/south-sudan-administrative-divisions/blob/main/docs/llms-full/western-bahr-el-ghazal.txt) — 3 countys, 15 payams
+- [Western Equatoria](https://github.com/open-admin-data/south-sudan-administrative-divisions/blob/main/docs/llms-full/western-equatoria.txt) — 10 countys, 47 payams
+
+## Summary
+
+| State | Countys | Payams | 
+|---|---|---|
+| Central Equatoria | 6 | 46 | 
+| Eastern Equatoria | 8 | 53 | 
+| Jonglei | 11 | 72 | 
+| Lakes | 8 | 50 | 
+| Northern Bahr el Ghazal | 5 | 39 | 
+| Unity | 9 | 73 | 
+| Upper Nile | 12 | 69 | 
+| Warrap | 6 | 47 | 
+| Western Bahr el Ghazal | 3 | 15 | 
+| Western Equatoria | 10 | 47 | 

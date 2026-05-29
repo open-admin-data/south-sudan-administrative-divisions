@@ -1,0 +1,47 @@
+{
+  "id": "SS0403",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Rumbek Centre",
+    "en": "Rumbek Centre",
+    "slug": "rumbek-centre"
+  },
+  "code": {
+    "id": "SS0403",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS04",
+    "level": 1,
+    "name": {
+      "local": "Lakes",
+      "en": "Lakes",
+      "slug": "lakes"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.986",
+    "lon": "29.798"
+  },
+  "metadata": {},
+  "source": {}
+}

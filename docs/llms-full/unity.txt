@@ -1,0 +1,346 @@
+# Unity — South Sudan Administrative Divisions
+
+> 9 countys, 73 payams
+> Code: SS06
+> Coordinates: 8.678, 29.77
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Countys
+
+### Abiemnhom
+
+Code: SS0601, Coordinates: 9.53, 29.153
+Payams: 4
+
+#### Abiemnhom
+
+Code: SS060101, Coordinates: 9.409, 28.902
+
+#### Aworpiny
+
+Code: SS060102, Coordinates: 9.485, 29.044
+
+#### Manjonga
+
+Code: SS060103, Coordinates: 9.595, 29.387
+
+#### Panyang 2
+
+Code: SS060104, Coordinates: 9.645, 29.108
+
+### Guit
+
+Code: SS0602, Coordinates: 9.198, 30.103
+Payams: 7
+
+#### Guit
+
+Code: SS060201, Coordinates: 9.158, 29.915
+
+#### Kedad
+
+Code: SS060202, Coordinates: 9.134, 30.16
+
+#### Kuach
+
+Code: SS060203, Coordinates: 9.014, 30.031
+
+#### Kuerguini
+
+Code: SS060204, Coordinates: 9.248, 29.912
+
+#### Niemni
+
+Code: SS060205, Coordinates: 9.365, 30.193
+
+#### Nyathoar
+
+Code: SS060206, Coordinates: 9.313, 29.951
+
+#### Wathnyona
+
+Code: SS060207, Coordinates: 9.425, 29.922
+
+### Koch
+
+Code: SS0603, Coordinates: 8.602, 29.799
+Payams: 7
+
+#### Boaw
+
+Code: SS060301, Coordinates: 8.766, 29.792
+
+#### Gany
+
+Code: SS060302, Coordinates: 8.535, 29.858
+
+#### Jaak
+
+Code: SS060303, Coordinates: 8.722, 30.089
+
+#### Kuachlual
+
+Code: SS060304, Coordinates: 8.603, 29.976
+
+#### Ngony
+
+Code: SS060305, Coordinates: 8.577, 30.163
+
+#### Norbor
+
+Code: SS060306, Coordinates: 8.39, 29.818
+
+#### Pakur
+
+Code: SS060307, Coordinates: 8.629, 29.519
+
+### Leer
+
+Code: SS0604, Coordinates: 8.189, 30.246
+Payams: 8
+
+#### Adok
+
+Code: SS060402, Coordinates: 8.262, 30.26
+
+#### Bou
+
+Code: SS060403, Coordinates: 8.35, 30.189
+
+#### Guat
+
+Code: SS060404, Coordinates: 8.381, 30.157
+
+#### Juong Kang
+
+Code: SS060405, Coordinates: 8.332, 30.146
+
+#### Leer
+
+Code: SS060406, Coordinates: 8.258, 30.113
+
+#### Padeah
+
+Code: SS060401, Coordinates: 8.411, 30.279
+
+#### Pilieny
+
+Code: SS060407, Coordinates: 8.095, 30.123
+
+#### Yang
+
+Code: SS060408, Coordinates: 8.077, 30.275
+
+### Mayendit
+
+Code: SS0605, Coordinates: 8.125, 30.01
+Payams: 9
+
+#### Bor 2
+
+Code: SS060502, Coordinates: 8.12, 30.036
+
+#### Dablual
+
+Code: SS060503, Coordinates: 8.297, 30.032
+
+#### Luom
+
+Code: SS060504, Coordinates: 8.467, 30.228
+
+#### Maal
+
+Code: SS060505, Coordinates: 8.115, 29.839
+
+#### Pabuong
+
+Code: SS060501, Coordinates: 7.912, 29.893
+
+#### Rubkuay
+
+Code: SS060506, Coordinates: 8.411, 30.076
+
+#### Thaker
+
+Code: SS060507, Coordinates: 8.402, 30.018
+
+#### Tharjiath
+
+Code: SS060508, Coordinates: 8.267, 29.835
+
+#### Tutnyang
+
+Code: SS060509, Coordinates: 8.357, 30.096
+
+### Mayom
+
+Code: SS0606, Coordinates: 9.075, 29.151
+Payams: 12
+
+#### Bieh
+
+Code: SS060601, Coordinates: 9.168, 28.765
+
+#### Kuerbuone
+
+Code: SS060602, Coordinates: 9.152, 29.283
+
+#### Kueryiek
+
+Code: SS060603, Coordinates: 9.171, 28.838
+
+#### Mankien
+
+Code: SS060604, Coordinates: 9.048, 29.066
+
+#### Ngop 2
+
+Code: SS060605, Coordinates: 9.139, 28.958
+
+#### Pup
+
+Code: SS060606, Coordinates: 9.281, 29.057
+
+#### Riak
+
+Code: SS060607, Coordinates: 8.88, 29.36
+
+#### Ruathnyibuol
+
+Code: SS060608, Coordinates: 9.073, 28.931
+
+#### Wangbuor I
+
+Code: SS060610, Coordinates: 8.893, 29.176
+
+#### Wangbuor II
+
+Code: SS060609, Coordinates: 8.825, 29.572
+
+#### Wangbuor III
+
+Code: SS060611, Coordinates: 9.201, 29.273
+
+#### Wangkei
+
+Code: SS060612, Coordinates: 9.049, 29.382
+
+### Panyijiar
+
+Code: SS0607, Coordinates: 7.529, 30.342
+Payams: 10
+
+#### Ganyliel
+
+Code: SS060701, Coordinates: 7.392, 30.537
+
+#### Kol
+
+Code: SS060702, Coordinates: 7.622, 30.356
+
+#### Mayom 2
+
+Code: SS060703, Coordinates: 7.787, 30.122
+
+#### Nyal
+
+Code: SS060704, Coordinates: 7.696, 30.288
+
+#### Pachaar
+
+Code: SS060706, Coordinates: 7.265, 30.301
+
+#### Pachak
+
+Code: SS060705, Coordinates: 7.207, 30.404
+
+#### Pachienjok
+
+Code: SS060707, Coordinates: 7.284, 30.582
+
+#### Panyijiar
+
+Code: SS060708, Coordinates: 7.42, 30.225
+
+#### Thoarnhoum
+
+Code: SS060709, Coordinates: 7.402, 30.417
+
+#### Tiap
+
+Code: SS060710, Coordinates: 7.515, 30.455
+
+### Pariang
+
+Code: SS0608, Coordinates: 9.838, 30.192
+Payams: 7
+
+#### Aliiny
+
+Code: SS060801, Coordinates: 9.9, 29.764
+
+#### Biu
+
+Code: SS060802, Coordinates: 9.598, 30.201
+
+#### Jamjang
+
+Code: SS060803, Coordinates: 9.876, 30.27
+
+#### Nyeel
+
+Code: SS060804, Coordinates: 9.718, 29.855
+
+#### Pariang
+
+Code: SS060805, Coordinates: 9.912, 29.969
+
+#### Werthen
+
+Code: SS060806, Coordinates: 10.119, 29.957
+
+#### Wunkur
+
+Code: SS060807, Coordinates: 9.702, 30.654
+
+### Rubkona
+
+Code: SS0609, Coordinates: 9.304, 29.632
+Payams: 9
+
+#### Bentiu Town
+
+Code: SS060901, Coordinates: 9.23, 29.789
+
+#### Budaang
+
+Code: SS060902, Coordinates: 9.366, 29.553
+
+#### Dhorbor
+
+Code: SS060903, Coordinates: 9.325, 29.679
+
+#### Kaljak
+
+Code: SS060904, Coordinates: 9.156, 29.619
+
+#### Ngop
+
+Code: SS060905, Coordinates: 9.095, 29.527
+
+#### Nhialdiu
+
+Code: SS060906, Coordinates: 8.99, 29.654
+
+#### Panhiany
+
+Code: SS060907, Coordinates: 9.067, 29.815
+
+#### Rubkotne
+
+Code: SS060908, Coordinates: 9.364, 29.757
+
+#### Wathjaak
+
+Code: SS060909, Coordinates: 9.108, 29.612
+

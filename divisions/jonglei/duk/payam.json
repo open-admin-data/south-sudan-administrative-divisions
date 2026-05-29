@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS030501",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ageer",
+      "en": "Ageer",
+      "slug": "ageer"
+    },
+    "code": {
+      "id": "SS030501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0305",
+      "level": 2,
+      "name": {
+        "local": "Duk",
+        "en": "Duk",
+        "slug": "duk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0305",
+        "level": 2,
+        "name": {
+          "local": "Duk",
+          "en": "Duk",
+          "slug": "duk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.448",
+      "lon": "31.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030502",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dongchak",
+      "en": "Dongchak",
+      "slug": "dongchak"
+    },
+    "code": {
+      "id": "SS030502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0305",
+      "level": 2,
+      "name": {
+        "local": "Duk",
+        "en": "Duk",
+        "slug": "duk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0305",
+        "level": 2,
+        "name": {
+          "local": "Duk",
+          "en": "Duk",
+          "slug": "duk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.556",
+      "lon": "30.966"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030503",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Padiet",
+      "en": "Padiet",
+      "slug": "padiet"
+    },
+    "code": {
+      "id": "SS030503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0305",
+      "level": 2,
+      "name": {
+        "local": "Duk",
+        "en": "Duk",
+        "slug": "duk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0305",
+        "level": 2,
+        "name": {
+          "local": "Duk",
+          "en": "Duk",
+          "slug": "duk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.825",
+      "lon": "31.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030505",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pagak",
+      "en": "Pagak",
+      "slug": "pagak"
+    },
+    "code": {
+      "id": "SS030505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0305",
+      "level": 2,
+      "name": {
+        "local": "Duk",
+        "en": "Duk",
+        "slug": "duk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0305",
+        "level": 2,
+        "name": {
+          "local": "Duk",
+          "en": "Duk",
+          "slug": "duk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.898",
+      "lon": "31.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030506",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Panyang",
+      "en": "Panyang",
+      "slug": "panyang"
+    },
+    "code": {
+      "id": "SS030506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0305",
+      "level": 2,
+      "name": {
+        "local": "Duk",
+        "en": "Duk",
+        "slug": "duk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0305",
+        "level": 2,
+        "name": {
+          "local": "Duk",
+          "en": "Duk",
+          "slug": "duk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.692",
+      "lon": "31.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030504",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Payuel",
+      "en": "Payuel",
+      "slug": "payuel"
+    },
+    "code": {
+      "id": "SS030504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0305",
+      "level": 2,
+      "name": {
+        "local": "Duk",
+        "en": "Duk",
+        "slug": "duk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0305",
+        "level": 2,
+        "name": {
+          "local": "Duk",
+          "en": "Duk",
+          "slug": "duk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.544",
+      "lon": "31.483"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

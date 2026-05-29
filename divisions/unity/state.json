@@ -1,0 +1,30 @@
+{
+  "id": "SS06",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Unity",
+    "en": "Unity",
+    "slug": "unity"
+  },
+  "code": {
+    "id": "SS06",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 9,
+    "payam": 73
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.678",
+    "lon": "29.77"
+  },
+  "metadata": {},
+  "source": {}
+}

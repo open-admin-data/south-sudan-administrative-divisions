@@ -1,0 +1,488 @@
+[
+  {
+    "id": "SS050401",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ayai",
+      "en": "Ayai",
+      "slug": "ayai"
+    },
+    "code": {
+      "id": "SS050401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0504",
+      "level": 2,
+      "name": {
+        "local": "Aweil South",
+        "en": "Aweil South",
+        "slug": "aweil-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0504",
+        "level": 2,
+        "name": {
+          "local": "Aweil South",
+          "en": "Aweil South",
+          "slug": "aweil-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.781",
+      "lon": "27.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050402",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Gakrol",
+      "en": "Gakrol",
+      "slug": "gakrol"
+    },
+    "code": {
+      "id": "SS050402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0504",
+      "level": 2,
+      "name": {
+        "local": "Aweil South",
+        "en": "Aweil South",
+        "slug": "aweil-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0504",
+        "level": 2,
+        "name": {
+          "local": "Aweil South",
+          "en": "Aweil South",
+          "slug": "aweil-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.577",
+      "lon": "27.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050403",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyieth",
+      "en": "Nyieth",
+      "slug": "nyieth"
+    },
+    "code": {
+      "id": "SS050403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0504",
+      "level": 2,
+      "name": {
+        "local": "Aweil South",
+        "en": "Aweil South",
+        "slug": "aweil-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0504",
+        "level": 2,
+        "name": {
+          "local": "Aweil South",
+          "en": "Aweil South",
+          "slug": "aweil-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.808",
+      "lon": "27.779"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050404",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyocawany I",
+      "en": "Nyocawany I",
+      "slug": "nyocawany-i"
+    },
+    "code": {
+      "id": "SS050404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0504",
+      "level": 2,
+      "name": {
+        "local": "Aweil South",
+        "en": "Aweil South",
+        "slug": "aweil-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0504",
+        "level": 2,
+        "name": {
+          "local": "Aweil South",
+          "en": "Aweil South",
+          "slug": "aweil-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.717",
+      "lon": "27.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050405",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyocawany II",
+      "en": "Nyocawany II",
+      "slug": "nyocawany-ii"
+    },
+    "code": {
+      "id": "SS050405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0504",
+      "level": 2,
+      "name": {
+        "local": "Aweil South",
+        "en": "Aweil South",
+        "slug": "aweil-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0504",
+        "level": 2,
+        "name": {
+          "local": "Aweil South",
+          "en": "Aweil South",
+          "slug": "aweil-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.526",
+      "lon": "27.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050406",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Panthou",
+      "en": "Panthou",
+      "slug": "panthou"
+    },
+    "code": {
+      "id": "SS050406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0504",
+      "level": 2,
+      "name": {
+        "local": "Aweil South",
+        "en": "Aweil South",
+        "slug": "aweil-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0504",
+        "level": 2,
+        "name": {
+          "local": "Aweil South",
+          "en": "Aweil South",
+          "slug": "aweil-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.722",
+      "lon": "27.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050407",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tar-weng",
+      "en": "Tar-weng",
+      "slug": "tar-weng"
+    },
+    "code": {
+      "id": "SS050407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0504",
+      "level": 2,
+      "name": {
+        "local": "Aweil South",
+        "en": "Aweil South",
+        "slug": "aweil-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0504",
+        "level": 2,
+        "name": {
+          "local": "Aweil South",
+          "en": "Aweil South",
+          "slug": "aweil-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.594",
+      "lon": "27.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050408",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tiar-aleit",
+      "en": "Tiar-aleit",
+      "slug": "tiar-aleit"
+    },
+    "code": {
+      "id": "SS050408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0504",
+      "level": 2,
+      "name": {
+        "local": "Aweil South",
+        "en": "Aweil South",
+        "slug": "aweil-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0504",
+        "level": 2,
+        "name": {
+          "local": "Aweil South",
+          "en": "Aweil South",
+          "slug": "aweil-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.796",
+      "lon": "27.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050409",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wathmuok",
+      "en": "Wathmuok",
+      "slug": "wathmuok"
+    },
+    "code": {
+      "id": "SS050409",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0504",
+      "level": 2,
+      "name": {
+        "local": "Aweil South",
+        "en": "Aweil South",
+        "slug": "aweil-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0504",
+        "level": 2,
+        "name": {
+          "local": "Aweil South",
+          "en": "Aweil South",
+          "slug": "aweil-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.657",
+      "lon": "27.552"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

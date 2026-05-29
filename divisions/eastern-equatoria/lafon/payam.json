@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SS020601",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Arihilo",
+      "en": "Arihilo",
+      "slug": "arihilo"
+    },
+    "code": {
+      "id": "SS020601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0206",
+      "level": 2,
+      "name": {
+        "local": "Lafon",
+        "en": "Lafon",
+        "slug": "lafon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0206",
+        "level": 2,
+        "name": {
+          "local": "Lafon",
+          "en": "Lafon",
+          "slug": "lafon"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.914",
+      "lon": "32.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020602",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Burgilo",
+      "en": "Burgilo",
+      "slug": "burgilo"
+    },
+    "code": {
+      "id": "SS020602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0206",
+      "level": 2,
+      "name": {
+        "local": "Lafon",
+        "en": "Lafon",
+        "slug": "lafon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0206",
+        "level": 2,
+        "name": {
+          "local": "Lafon",
+          "en": "Lafon",
+          "slug": "lafon"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.388",
+      "lon": "32.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020603",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Imehejek",
+      "en": "Imehejek",
+      "slug": "imehejek"
+    },
+    "code": {
+      "id": "SS020603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0206",
+      "level": 2,
+      "name": {
+        "local": "Lafon",
+        "en": "Lafon",
+        "slug": "lafon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0206",
+        "level": 2,
+        "name": {
+          "local": "Lafon",
+          "en": "Lafon",
+          "slug": "lafon"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.766",
+      "lon": "32.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020604",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kurumi",
+      "en": "Kurumi",
+      "slug": "kurumi"
+    },
+    "code": {
+      "id": "SS020604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0206",
+      "level": 2,
+      "name": {
+        "local": "Lafon",
+        "en": "Lafon",
+        "slug": "lafon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0206",
+        "level": 2,
+        "name": {
+          "local": "Lafon",
+          "en": "Lafon",
+          "slug": "lafon"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.896",
+      "lon": "32.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020605",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lohutok",
+      "en": "Lohutok",
+      "slug": "lohutok"
+    },
+    "code": {
+      "id": "SS020605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0206",
+      "level": 2,
+      "name": {
+        "local": "Lafon",
+        "en": "Lafon",
+        "slug": "lafon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0206",
+        "level": 2,
+        "name": {
+          "local": "Lafon",
+          "en": "Lafon",
+          "slug": "lafon"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.595",
+      "lon": "32.932"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020606",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Longiro",
+      "en": "Longiro",
+      "slug": "longiro"
+    },
+    "code": {
+      "id": "SS020606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0206",
+      "level": 2,
+      "name": {
+        "local": "Lafon",
+        "en": "Lafon",
+        "slug": "lafon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0206",
+        "level": 2,
+        "name": {
+          "local": "Lafon",
+          "en": "Lafon",
+          "slug": "lafon"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.81",
+      "lon": "32.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020607",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Marguna",
+      "en": "Marguna",
+      "slug": "marguna"
+    },
+    "code": {
+      "id": "SS020607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0206",
+      "level": 2,
+      "name": {
+        "local": "Lafon",
+        "en": "Lafon",
+        "slug": "lafon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0206",
+        "level": 2,
+        "name": {
+          "local": "Lafon",
+          "en": "Lafon",
+          "slug": "lafon"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.058",
+      "lon": "32.72"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020608",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pachidi",
+      "en": "Pachidi",
+      "slug": "pachidi"
+    },
+    "code": {
+      "id": "SS020608",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0206",
+      "level": 2,
+      "name": {
+        "local": "Lafon",
+        "en": "Lafon",
+        "slug": "lafon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0206",
+        "level": 2,
+        "name": {
+          "local": "Lafon",
+          "en": "Lafon",
+          "slug": "lafon"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.72",
+      "lon": "32.314"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

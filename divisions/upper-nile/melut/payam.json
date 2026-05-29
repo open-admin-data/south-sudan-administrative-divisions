@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS070901",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bimachuk",
+      "en": "Bimachuk",
+      "slug": "bimachuk"
+    },
+    "code": {
+      "id": "SS070901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0709",
+      "level": 2,
+      "name": {
+        "local": "Melut",
+        "en": "Melut",
+        "slug": "melut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0709",
+        "level": 2,
+        "name": {
+          "local": "Melut",
+          "en": "Melut",
+          "slug": "melut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.663",
+      "lon": "32.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070902",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Galdora",
+      "en": "Galdora",
+      "slug": "galdora"
+    },
+    "code": {
+      "id": "SS070902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0709",
+      "level": 2,
+      "name": {
+        "local": "Melut",
+        "en": "Melut",
+        "slug": "melut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0709",
+        "level": 2,
+        "name": {
+          "local": "Melut",
+          "en": "Melut",
+          "slug": "melut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.146",
+      "lon": "32.428"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070903",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Melut",
+      "en": "Melut",
+      "slug": "melut"
+    },
+    "code": {
+      "id": "SS070903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0709",
+      "level": 2,
+      "name": {
+        "local": "Melut",
+        "en": "Melut",
+        "slug": "melut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0709",
+        "level": 2,
+        "name": {
+          "local": "Melut",
+          "en": "Melut",
+          "slug": "melut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.612",
+      "lon": "32.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070905",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Paloch",
+      "en": "Paloch",
+      "slug": "paloch"
+    },
+    "code": {
+      "id": "SS070905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0709",
+      "level": 2,
+      "name": {
+        "local": "Melut",
+        "en": "Melut",
+        "slug": "melut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0709",
+        "level": 2,
+        "name": {
+          "local": "Melut",
+          "en": "Melut",
+          "slug": "melut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.549",
+      "lon": "32.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070904",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Panomdit",
+      "en": "Panomdit",
+      "slug": "panomdit"
+    },
+    "code": {
+      "id": "SS070904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0709",
+      "level": 2,
+      "name": {
+        "local": "Melut",
+        "en": "Melut",
+        "slug": "melut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0709",
+        "level": 2,
+        "name": {
+          "local": "Melut",
+          "en": "Melut",
+          "slug": "melut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.03",
+      "lon": "32.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070906",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wunamum",
+      "en": "Wunamum",
+      "slug": "wunamum"
+    },
+    "code": {
+      "id": "SS070906",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0709",
+      "level": 2,
+      "name": {
+        "local": "Melut",
+        "en": "Melut",
+        "slug": "melut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0709",
+        "level": 2,
+        "name": {
+          "local": "Melut",
+          "en": "Melut",
+          "slug": "melut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.226",
+      "lon": "32.774"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

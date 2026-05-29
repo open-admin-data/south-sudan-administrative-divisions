@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SS030401",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Alam",
+      "en": "Alam",
+      "slug": "alam"
+    },
+    "code": {
+      "id": "SS030401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0304",
+      "level": 2,
+      "name": {
+        "local": "Canal/Pigi",
+        "en": "Canal/Pigi",
+        "slug": "canalpigi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0304",
+        "level": 2,
+        "name": {
+          "local": "Canal/Pigi",
+          "en": "Canal/Pigi",
+          "slug": "canalpigi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.988",
+      "lon": "31.29"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030402",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Atar",
+      "en": "Atar",
+      "slug": "atar"
+    },
+    "code": {
+      "id": "SS030402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0304",
+      "level": 2,
+      "name": {
+        "local": "Canal/Pigi",
+        "en": "Canal/Pigi",
+        "slug": "canalpigi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0304",
+        "level": 2,
+        "name": {
+          "local": "Canal/Pigi",
+          "en": "Canal/Pigi",
+          "slug": "canalpigi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.25",
+      "lon": "31.314"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030403",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Belewach",
+      "en": "Belewach",
+      "slug": "belewach"
+    },
+    "code": {
+      "id": "SS030403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0304",
+      "level": 2,
+      "name": {
+        "local": "Canal/Pigi",
+        "en": "Canal/Pigi",
+        "slug": "canalpigi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0304",
+        "level": 2,
+        "name": {
+          "local": "Canal/Pigi",
+          "en": "Canal/Pigi",
+          "slug": "canalpigi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.137",
+      "lon": "31.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030404",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kaldak",
+      "en": "Kaldak",
+      "slug": "kaldak"
+    },
+    "code": {
+      "id": "SS030404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0304",
+      "level": 2,
+      "name": {
+        "local": "Canal/Pigi",
+        "en": "Canal/Pigi",
+        "slug": "canalpigi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0304",
+        "level": 2,
+        "name": {
+          "local": "Canal/Pigi",
+          "en": "Canal/Pigi",
+          "slug": "canalpigi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.321",
+      "lon": "31.509"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030405",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Korwach",
+      "en": "Korwach",
+      "slug": "korwach"
+    },
+    "code": {
+      "id": "SS030405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0304",
+      "level": 2,
+      "name": {
+        "local": "Canal/Pigi",
+        "en": "Canal/Pigi",
+        "slug": "canalpigi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0304",
+        "level": 2,
+        "name": {
+          "local": "Canal/Pigi",
+          "en": "Canal/Pigi",
+          "slug": "canalpigi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.237",
+      "lon": "31.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030406",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mareng",
+      "en": "Mareng",
+      "slug": "mareng"
+    },
+    "code": {
+      "id": "SS030406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0304",
+      "level": 2,
+      "name": {
+        "local": "Canal/Pigi",
+        "en": "Canal/Pigi",
+        "slug": "canalpigi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0304",
+        "level": 2,
+        "name": {
+          "local": "Canal/Pigi",
+          "en": "Canal/Pigi",
+          "slug": "canalpigi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.113",
+      "lon": "31.628"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030407",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyainthokmalual",
+      "en": "Nyainthokmalual",
+      "slug": "nyainthokmalual"
+    },
+    "code": {
+      "id": "SS030407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0304",
+      "level": 2,
+      "name": {
+        "local": "Canal/Pigi",
+        "en": "Canal/Pigi",
+        "slug": "canalpigi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0304",
+        "level": 2,
+        "name": {
+          "local": "Canal/Pigi",
+          "en": "Canal/Pigi",
+          "slug": "canalpigi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.313",
+      "lon": "31.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030408",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wunlem",
+      "en": "Wunlem",
+      "slug": "wunlem"
+    },
+    "code": {
+      "id": "SS030408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0304",
+      "level": 2,
+      "name": {
+        "local": "Canal/Pigi",
+        "en": "Canal/Pigi",
+        "slug": "canalpigi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0304",
+        "level": 2,
+        "name": {
+          "local": "Canal/Pigi",
+          "en": "Canal/Pigi",
+          "slug": "canalpigi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.944",
+      "lon": "31.627"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

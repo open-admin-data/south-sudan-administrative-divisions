@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SS070801",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Adhidwoi",
+      "en": "Adhidwoi",
+      "slug": "adhidwoi"
+    },
+    "code": {
+      "id": "SS070801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0708",
+      "level": 2,
+      "name": {
+        "local": "Manyo",
+        "en": "Manyo",
+        "slug": "manyo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0708",
+        "level": 2,
+        "name": {
+          "local": "Manyo",
+          "en": "Manyo",
+          "slug": "manyo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.289",
+      "lon": "32.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070802",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kaka",
+      "en": "Kaka",
+      "slug": "kaka"
+    },
+    "code": {
+      "id": "SS070802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0708",
+      "level": 2,
+      "name": {
+        "local": "Manyo",
+        "en": "Manyo",
+        "slug": "manyo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0708",
+        "level": 2,
+        "name": {
+          "local": "Manyo",
+          "en": "Manyo",
+          "slug": "manyo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.741",
+      "lon": "32.263"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070803",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Magenist",
+      "en": "Magenist",
+      "slug": "magenist"
+    },
+    "code": {
+      "id": "SS070803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0708",
+      "level": 2,
+      "name": {
+        "local": "Manyo",
+        "en": "Manyo",
+        "slug": "manyo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0708",
+        "level": 2,
+        "name": {
+          "local": "Manyo",
+          "en": "Manyo",
+          "slug": "manyo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.498",
+      "lon": "32.286"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070804",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wedakona",
+      "en": "Wedakona",
+      "slug": "wedakona"
+    },
+    "code": {
+      "id": "SS070804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0708",
+      "level": 2,
+      "name": {
+        "local": "Manyo",
+        "en": "Manyo",
+        "slug": "manyo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0708",
+        "level": 2,
+        "name": {
+          "local": "Manyo",
+          "en": "Manyo",
+          "slug": "manyo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.471",
+      "lon": "32.605"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

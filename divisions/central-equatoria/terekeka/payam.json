@@ -1,0 +1,488 @@
+[
+  {
+    "id": "SS010501",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Gameiza",
+      "en": "Gameiza",
+      "slug": "gameiza"
+    },
+    "code": {
+      "id": "SS010501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0105",
+      "level": 2,
+      "name": {
+        "local": "Terekeka",
+        "en": "Terekeka",
+        "slug": "terekeka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0105",
+        "level": 2,
+        "name": {
+          "local": "Terekeka",
+          "en": "Terekeka",
+          "slug": "terekeka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.621",
+      "lon": "31.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010502",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Muni",
+      "en": "Muni",
+      "slug": "muni"
+    },
+    "code": {
+      "id": "SS010502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0105",
+      "level": 2,
+      "name": {
+        "local": "Terekeka",
+        "en": "Terekeka",
+        "slug": "terekeka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0105",
+        "level": 2,
+        "name": {
+          "local": "Terekeka",
+          "en": "Terekeka",
+          "slug": "terekeka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.649",
+      "lon": "31.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010503",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyori",
+      "en": "Nyori",
+      "slug": "nyori"
+    },
+    "code": {
+      "id": "SS010503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0105",
+      "level": 2,
+      "name": {
+        "local": "Terekeka",
+        "en": "Terekeka",
+        "slug": "terekeka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0105",
+        "level": 2,
+        "name": {
+          "local": "Terekeka",
+          "en": "Terekeka",
+          "slug": "terekeka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.246",
+      "lon": "31.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010504",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Reggo",
+      "en": "Reggo",
+      "slug": "reggo"
+    },
+    "code": {
+      "id": "SS010504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0105",
+      "level": 2,
+      "name": {
+        "local": "Terekeka",
+        "en": "Terekeka",
+        "slug": "terekeka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0105",
+        "level": 2,
+        "name": {
+          "local": "Terekeka",
+          "en": "Terekeka",
+          "slug": "terekeka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.429",
+      "lon": "31.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010505",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Rijong",
+      "en": "Rijong",
+      "slug": "rijong"
+    },
+    "code": {
+      "id": "SS010505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0105",
+      "level": 2,
+      "name": {
+        "local": "Terekeka",
+        "en": "Terekeka",
+        "slug": "terekeka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0105",
+        "level": 2,
+        "name": {
+          "local": "Terekeka",
+          "en": "Terekeka",
+          "slug": "terekeka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.586",
+      "lon": "31.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010506",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tali",
+      "en": "Tali",
+      "slug": "tali"
+    },
+    "code": {
+      "id": "SS010506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0105",
+      "level": 2,
+      "name": {
+        "local": "Terekeka",
+        "en": "Terekeka",
+        "slug": "terekeka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0105",
+        "level": 2,
+        "name": {
+          "local": "Terekeka",
+          "en": "Terekeka",
+          "slug": "terekeka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.942",
+      "lon": "30.64"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010507",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Terekeka",
+      "en": "Terekeka",
+      "slug": "terekeka"
+    },
+    "code": {
+      "id": "SS010507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0105",
+      "level": 2,
+      "name": {
+        "local": "Terekeka",
+        "en": "Terekeka",
+        "slug": "terekeka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0105",
+        "level": 2,
+        "name": {
+          "local": "Terekeka",
+          "en": "Terekeka",
+          "slug": "terekeka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.461",
+      "lon": "31.756"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010508",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tindilo",
+      "en": "Tindilo",
+      "slug": "tindilo"
+    },
+    "code": {
+      "id": "SS010508",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0105",
+      "level": 2,
+      "name": {
+        "local": "Terekeka",
+        "en": "Terekeka",
+        "slug": "terekeka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0105",
+        "level": 2,
+        "name": {
+          "local": "Terekeka",
+          "en": "Terekeka",
+          "slug": "terekeka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.675",
+      "lon": "31.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010509",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tombek",
+      "en": "Tombek",
+      "slug": "tombek"
+    },
+    "code": {
+      "id": "SS010509",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0105",
+      "level": 2,
+      "name": {
+        "local": "Terekeka",
+        "en": "Terekeka",
+        "slug": "terekeka"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0105",
+        "level": 2,
+        "name": {
+          "local": "Terekeka",
+          "en": "Terekeka",
+          "slug": "terekeka"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.753",
+      "lon": "31.644"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

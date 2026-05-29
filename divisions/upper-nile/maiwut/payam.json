@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS070601",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jekow",
+      "en": "Jekow",
+      "slug": "jekow"
+    },
+    "code": {
+      "id": "SS070601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0706",
+      "level": 2,
+      "name": {
+        "local": "Maiwut",
+        "en": "Maiwut",
+        "slug": "maiwut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0706",
+        "level": 2,
+        "name": {
+          "local": "Maiwut",
+          "en": "Maiwut",
+          "slug": "maiwut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.488",
+      "lon": "33.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070602",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jotoma",
+      "en": "Jotoma",
+      "slug": "jotoma"
+    },
+    "code": {
+      "id": "SS070602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0706",
+      "level": 2,
+      "name": {
+        "local": "Maiwut",
+        "en": "Maiwut",
+        "slug": "maiwut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0706",
+        "level": 2,
+        "name": {
+          "local": "Maiwut",
+          "en": "Maiwut",
+          "slug": "maiwut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.672",
+      "lon": "33.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070603",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kigila",
+      "en": "Kigila",
+      "slug": "kigila"
+    },
+    "code": {
+      "id": "SS070603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0706",
+      "level": 2,
+      "name": {
+        "local": "Maiwut",
+        "en": "Maiwut",
+        "slug": "maiwut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0706",
+        "level": 2,
+        "name": {
+          "local": "Maiwut",
+          "en": "Maiwut",
+          "slug": "maiwut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.847",
+      "lon": "34.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070604",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Maiwut",
+      "en": "Maiwut",
+      "slug": "maiwut"
+    },
+    "code": {
+      "id": "SS070604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0706",
+      "level": 2,
+      "name": {
+        "local": "Maiwut",
+        "en": "Maiwut",
+        "slug": "maiwut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0706",
+        "level": 2,
+        "name": {
+          "local": "Maiwut",
+          "en": "Maiwut",
+          "slug": "maiwut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.777",
+      "lon": "33.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070605",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Olang",
+      "en": "Olang",
+      "slug": "olang"
+    },
+    "code": {
+      "id": "SS070605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0706",
+      "level": 2,
+      "name": {
+        "local": "Maiwut",
+        "en": "Maiwut",
+        "slug": "maiwut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0706",
+        "level": 2,
+        "name": {
+          "local": "Maiwut",
+          "en": "Maiwut",
+          "slug": "maiwut"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.745",
+      "lon": "33.655"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

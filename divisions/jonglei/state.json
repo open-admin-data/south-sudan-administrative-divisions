@@ -1,0 +1,30 @@
+{
+  "id": "SS03",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Jonglei",
+    "en": "Jonglei",
+    "slug": "jonglei"
+  },
+  "code": {
+    "id": "SS03",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 11,
+    "payam": 72
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.62",
+    "lon": "32.616"
+  },
+  "metadata": {},
+  "source": {}
+}

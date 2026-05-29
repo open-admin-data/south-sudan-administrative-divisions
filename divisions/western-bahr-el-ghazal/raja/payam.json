@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SS090201",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ere",
+      "en": "Ere",
+      "slug": "ere"
+    },
+    "code": {
+      "id": "SS090201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0902",
+      "level": 2,
+      "name": {
+        "local": "Raja",
+        "en": "Raja",
+        "slug": "raja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0902",
+        "level": 2,
+        "name": {
+          "local": "Raja",
+          "en": "Raja",
+          "slug": "raja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.514",
+      "lon": "25.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090202",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Raga",
+      "en": "Raga",
+      "slug": "raga"
+    },
+    "code": {
+      "id": "SS090202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0902",
+      "level": 2,
+      "name": {
+        "local": "Raja",
+        "en": "Raja",
+        "slug": "raja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0902",
+        "level": 2,
+        "name": {
+          "local": "Raja",
+          "en": "Raja",
+          "slug": "raja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.531",
+      "lon": "25.697"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090203",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ringi",
+      "en": "Ringi",
+      "slug": "ringi"
+    },
+    "code": {
+      "id": "SS090203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0902",
+      "level": 2,
+      "name": {
+        "local": "Raja",
+        "en": "Raja",
+        "slug": "raja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0902",
+        "level": 2,
+        "name": {
+          "local": "Raja",
+          "en": "Raja",
+          "slug": "raja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.536",
+      "lon": "24.801"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090204",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Uyujuku",
+      "en": "Uyujuku",
+      "slug": "uyujuku"
+    },
+    "code": {
+      "id": "SS090204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0902",
+      "level": 2,
+      "name": {
+        "local": "Raja",
+        "en": "Raja",
+        "slug": "raja"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0902",
+        "level": 2,
+        "name": {
+          "local": "Raja",
+          "en": "Raja",
+          "slug": "raja"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.541",
+      "lon": "26.048"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

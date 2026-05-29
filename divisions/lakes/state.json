@@ -1,0 +1,30 @@
+{
+  "id": "SS04",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Lakes",
+    "en": "Lakes",
+    "slug": "lakes"
+  },
+  "code": {
+    "id": "SS04",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 8,
+    "payam": 50
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.754",
+    "lon": "30.08"
+  },
+  "metadata": {},
+  "source": {}
+}

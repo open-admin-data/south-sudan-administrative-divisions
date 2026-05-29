@@ -1,0 +1,47 @@
+{
+  "id": "SS0604",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Leer",
+    "en": "Leer",
+    "slug": "leer"
+  },
+  "code": {
+    "id": "SS0604",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS06",
+    "level": 1,
+    "name": {
+      "local": "Unity",
+      "en": "Unity",
+      "slug": "unity"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.189",
+    "lon": "30.246"
+  },
+  "metadata": {},
+  "source": {}
+}

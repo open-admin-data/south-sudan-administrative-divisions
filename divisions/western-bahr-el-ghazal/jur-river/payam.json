@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS090101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kangi",
+      "en": "Kangi",
+      "slug": "kangi"
+    },
+    "code": {
+      "id": "SS090101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0901",
+      "level": 2,
+      "name": {
+        "local": "Jur River",
+        "en": "Jur River",
+        "slug": "jur-river"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0901",
+        "level": 2,
+        "name": {
+          "local": "Jur River",
+          "en": "Jur River",
+          "slug": "jur-river"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.222",
+      "lon": "27.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kuajiena",
+      "en": "Kuajiena",
+      "slug": "kuajiena"
+    },
+    "code": {
+      "id": "SS090103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0901",
+      "level": 2,
+      "name": {
+        "local": "Jur River",
+        "en": "Jur River",
+        "slug": "jur-river"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0901",
+        "level": 2,
+        "name": {
+          "local": "Jur River",
+          "en": "Jur River",
+          "slug": "jur-river"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.22",
+      "lon": "28.259"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Marial Bai",
+      "en": "Marial Bai",
+      "slug": "marial-bai"
+    },
+    "code": {
+      "id": "SS090104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0901",
+      "level": 2,
+      "name": {
+        "local": "Jur River",
+        "en": "Jur River",
+        "slug": "jur-river"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0901",
+        "level": 2,
+        "name": {
+          "local": "Jur River",
+          "en": "Jur River",
+          "slug": "jur-river"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.849",
+      "lon": "28.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Rocrocdong",
+      "en": "Rocrocdong",
+      "slug": "rocrocdong"
+    },
+    "code": {
+      "id": "SS090105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0901",
+      "level": 2,
+      "name": {
+        "local": "Jur River",
+        "en": "Jur River",
+        "slug": "jur-river"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0901",
+        "level": 2,
+        "name": {
+          "local": "Jur River",
+          "en": "Jur River",
+          "slug": "jur-river"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.484",
+      "lon": "28.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090106",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Udici",
+      "en": "Udici",
+      "slug": "udici"
+    },
+    "code": {
+      "id": "SS090106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0901",
+      "level": 2,
+      "name": {
+        "local": "Jur River",
+        "en": "Jur River",
+        "slug": "jur-river"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0901",
+        "level": 2,
+        "name": {
+          "local": "Jur River",
+          "en": "Jur River",
+          "slug": "jur-river"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.953",
+      "lon": "27.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090107",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wau Bai",
+      "en": "Wau Bai",
+      "slug": "wau-bai"
+    },
+    "code": {
+      "id": "SS090107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0901",
+      "level": 2,
+      "name": {
+        "local": "Jur River",
+        "en": "Jur River",
+        "slug": "jur-river"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0901",
+        "level": 2,
+        "name": {
+          "local": "Jur River",
+          "en": "Jur River",
+          "slug": "jur-river"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.942",
+      "lon": "28.019"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

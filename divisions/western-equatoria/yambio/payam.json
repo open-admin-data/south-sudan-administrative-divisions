@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS101001",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bangasu",
+      "en": "Bangasu",
+      "slug": "bangasu"
+    },
+    "code": {
+      "id": "SS101001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1010",
+      "level": 2,
+      "name": {
+        "local": "Yambio",
+        "en": "Yambio",
+        "slug": "yambio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1010",
+        "level": 2,
+        "name": {
+          "local": "Yambio",
+          "en": "Yambio",
+          "slug": "yambio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.723",
+      "lon": "28.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS101002",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Gangura",
+      "en": "Gangura",
+      "slug": "gangura"
+    },
+    "code": {
+      "id": "SS101002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1010",
+      "level": 2,
+      "name": {
+        "local": "Yambio",
+        "en": "Yambio",
+        "slug": "yambio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1010",
+        "level": 2,
+        "name": {
+          "local": "Yambio",
+          "en": "Yambio",
+          "slug": "yambio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.415",
+      "lon": "28.447"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS101003",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nadiangere",
+      "en": "Nadiangere",
+      "slug": "nadiangere"
+    },
+    "code": {
+      "id": "SS101003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1010",
+      "level": 2,
+      "name": {
+        "local": "Yambio",
+        "en": "Yambio",
+        "slug": "yambio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1010",
+        "level": 2,
+        "name": {
+          "local": "Yambio",
+          "en": "Yambio",
+          "slug": "yambio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.598",
+      "lon": "28.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS101004",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ri-rangu",
+      "en": "Ri-rangu",
+      "slug": "ri-rangu"
+    },
+    "code": {
+      "id": "SS101004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1010",
+      "level": 2,
+      "name": {
+        "local": "Yambio",
+        "en": "Yambio",
+        "slug": "yambio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1010",
+        "level": 2,
+        "name": {
+          "local": "Yambio",
+          "en": "Yambio",
+          "slug": "yambio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.901",
+      "lon": "28.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS101005",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Yambio Town",
+      "en": "Yambio Town",
+      "slug": "yambio-town"
+    },
+    "code": {
+      "id": "SS101005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1010",
+      "level": 2,
+      "name": {
+        "local": "Yambio",
+        "en": "Yambio",
+        "slug": "yambio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1010",
+        "level": 2,
+        "name": {
+          "local": "Yambio",
+          "en": "Yambio",
+          "slug": "yambio"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.618",
+      "lon": "28.43"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

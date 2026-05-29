@@ -1,0 +1,47 @@
+{
+  "id": "SS1010",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Yambio",
+    "en": "Yambio",
+    "slug": "yambio"
+  },
+  "code": {
+    "id": "SS1010",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS10",
+    "level": 1,
+    "name": {
+      "local": "Western Equatoria",
+      "en": "Western Equatoria",
+      "slug": "western-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.178",
+    "lon": "28.559"
+  },
+  "metadata": {},
+  "source": {}
+}

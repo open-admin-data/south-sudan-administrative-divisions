@@ -1,0 +1,472 @@
+[
+  {
+    "id": "SS1001",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ezo",
+      "en": "Ezo",
+      "slug": "ezo"
+    },
+    "code": {
+      "id": "SS1001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.603",
+      "lon": "27.878"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS1002",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ibba",
+      "en": "Ibba",
+      "slug": "ibba"
+    },
+    "code": {
+      "id": "SS1002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.058",
+      "lon": "29.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS1003",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Maridi",
+      "en": "Maridi",
+      "slug": "maridi"
+    },
+    "code": {
+      "id": "SS1003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.135",
+      "lon": "29.76"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS1004",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mundri East",
+      "en": "Mundri East",
+      "slug": "mundri-east"
+    },
+    "code": {
+      "id": "SS1004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.301",
+      "lon": "30.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS1005",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mundri West",
+      "en": "Mundri West",
+      "slug": "mundri-west"
+    },
+    "code": {
+      "id": "SS1005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.152",
+      "lon": "30.175"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS1006",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mvolo",
+      "en": "Mvolo",
+      "slug": "mvolo"
+    },
+    "code": {
+      "id": "SS1006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.951",
+      "lon": "30.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS1007",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nagero",
+      "en": "Nagero",
+      "slug": "nagero"
+    },
+    "code": {
+      "id": "SS1007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 2
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.148",
+      "lon": "27.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS1008",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Nzara",
+      "en": "Nzara",
+      "slug": "nzara"
+    },
+    "code": {
+      "id": "SS1008",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.312",
+      "lon": "28.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS1009",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tambura",
+      "en": "Tambura",
+      "slug": "tambura"
+    },
+    "code": {
+      "id": "SS1009",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.721",
+      "lon": "27.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS1010",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yambio",
+      "en": "Yambio",
+      "slug": "yambio"
+    },
+    "code": {
+      "id": "SS1010",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.178",
+      "lon": "28.559"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

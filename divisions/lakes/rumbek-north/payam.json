@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS040501",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Aloor",
+      "en": "Aloor",
+      "slug": "aloor"
+    },
+    "code": {
+      "id": "SS040501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0405",
+      "level": 2,
+      "name": {
+        "local": "Rumbek North",
+        "en": "Rumbek North",
+        "slug": "rumbek-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0405",
+        "level": 2,
+        "name": {
+          "local": "Rumbek North",
+          "en": "Rumbek North",
+          "slug": "rumbek-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.786",
+      "lon": "29.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040502",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Madol",
+      "en": "Madol",
+      "slug": "madol"
+    },
+    "code": {
+      "id": "SS040502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0405",
+      "level": 2,
+      "name": {
+        "local": "Rumbek North",
+        "en": "Rumbek North",
+        "slug": "rumbek-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0405",
+        "level": 2,
+        "name": {
+          "local": "Rumbek North",
+          "en": "Rumbek North",
+          "slug": "rumbek-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.745",
+      "lon": "29.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040503",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Malueeth",
+      "en": "Malueeth",
+      "slug": "malueeth"
+    },
+    "code": {
+      "id": "SS040503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0405",
+      "level": 2,
+      "name": {
+        "local": "Rumbek North",
+        "en": "Rumbek North",
+        "slug": "rumbek-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0405",
+        "level": 2,
+        "name": {
+          "local": "Rumbek North",
+          "en": "Rumbek North",
+          "slug": "rumbek-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.617",
+      "lon": "29.461"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040504",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Maper",
+      "en": "Maper",
+      "slug": "maper"
+    },
+    "code": {
+      "id": "SS040504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0405",
+      "level": 2,
+      "name": {
+        "local": "Rumbek North",
+        "en": "Rumbek North",
+        "slug": "rumbek-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0405",
+        "level": 2,
+        "name": {
+          "local": "Rumbek North",
+          "en": "Rumbek North",
+          "slug": "rumbek-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.707",
+      "lon": "29.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040505",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mayen",
+      "en": "Mayen",
+      "slug": "mayen"
+    },
+    "code": {
+      "id": "SS040505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0405",
+      "level": 2,
+      "name": {
+        "local": "Rumbek North",
+        "en": "Rumbek North",
+        "slug": "rumbek-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0405",
+        "level": 2,
+        "name": {
+          "local": "Rumbek North",
+          "en": "Rumbek North",
+          "slug": "rumbek-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.473",
+      "lon": "29.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040506",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wun-rieng",
+      "en": "Wun-rieng",
+      "slug": "wun-rieng"
+    },
+    "code": {
+      "id": "SS040506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0405",
+      "level": 2,
+      "name": {
+        "local": "Rumbek North",
+        "en": "Rumbek North",
+        "slug": "rumbek-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0405",
+        "level": 2,
+        "name": {
+          "local": "Rumbek North",
+          "en": "Rumbek North",
+          "slug": "rumbek-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.652",
+      "lon": "29.715"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

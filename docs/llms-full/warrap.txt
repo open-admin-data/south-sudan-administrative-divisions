@@ -1,0 +1,227 @@
+# Warrap — South Sudan Administrative Divisions
+
+> 6 countys, 47 payams
+> Code: SS08
+> Coordinates: 7.87, 28.78
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Countys
+
+### Gogrial East
+
+Code: SS0801, Coordinates: 8.516, 28.659
+Payams: 6
+
+#### Nyang
+
+Code: SS080101, Coordinates: 8.588, 28.608
+
+#### Pathuon East
+
+Code: SS080102, Coordinates: 8.334, 28.526
+
+#### Pathuon West
+
+Code: SS080103, Coordinates: 8.18, 28.312
+
+#### Toch East
+
+Code: SS080104, Coordinates: 8.681, 28.782
+
+#### Toch North
+
+Code: SS080105, Coordinates: 8.679, 28.537
+
+#### Toch West
+
+Code: SS080106, Coordinates: 8.482, 28.321
+
+### Gogrial West
+
+Code: SS0802, Coordinates: 8.576, 28.161
+Payams: 9
+
+#### Akon North
+
+Code: SS080202, Coordinates: 9.036, 27.937
+
+#### Akon South
+
+Code: SS080201, Coordinates: 8.92, 27.987
+
+#### Alek North
+
+Code: SS080203, Coordinates: 8.731, 28.265
+
+#### Alek South
+
+Code: SS080204, Coordinates: 8.614, 28.132
+
+#### Alek West
+
+Code: SS080205, Coordinates: 8.832, 28.029
+
+#### Gogrial
+
+Code: SS080206, Coordinates: 8.504, 28.032
+
+#### Kuac North
+
+Code: SS080207, Coordinates: 8.338, 28.097
+
+#### Kuac South
+
+Code: SS080208, Coordinates: 8.137, 28.034
+
+#### Riau
+
+Code: SS080209, Coordinates: 8.866, 28.226
+
+### Tonj East
+
+Code: SS0803, Coordinates: 7.837, 29.252
+Payams: 11
+
+#### Ananatak
+
+Code: SS080301, Coordinates: 7.72, 29.095
+
+#### Makuac
+
+Code: SS080302, Coordinates: 7.911, 29.536
+
+#### Malualcum
+
+Code: SS080303, Coordinates: 7.95, 29.144
+
+#### Maparah
+
+Code: SS080304, Coordinates: 7.847, 29.443
+
+#### Mayen 2
+
+Code: SS080305, Coordinates: 7.784, 29.391
+
+#### Pagor 2
+
+Code: SS080306, Coordinates: 8.048, 29.558
+
+#### Palal
+
+Code: SS080307, Coordinates: 7.69, 28.98
+
+#### Paliang
+
+Code: SS080308, Coordinates: 7.958, 29.317
+
+#### Pannhial
+
+Code: SS080309, Coordinates: 8.055, 29.321
+
+#### Paweng
+
+Code: SS080310, Coordinates: 8.112, 29.408
+
+#### Wun-liit
+
+Code: SS080311, Coordinates: 7.717, 29.221
+
+### Tonj North
+
+Code: SS0804, Coordinates: 8.246, 28.924
+Payams: 10
+
+#### Akop
+
+Code: SS080401, Coordinates: 8.43, 29.302
+
+#### Alabek
+
+Code: SS080402, Coordinates: 8.558, 29.027
+
+#### Aliek
+
+Code: SS080403, Coordinates: 8.556, 28.907
+
+#### Awuul
+
+Code: SS080404, Coordinates: 8.126, 28.647
+
+#### Kirik
+
+Code: SS080405, Coordinates: 7.893, 28.794
+
+#### Manloor
+
+Code: SS080406, Coordinates: 7.978, 28.34
+
+#### Marial-lou
+
+Code: SS080407, Coordinates: 8.185, 29.359
+
+#### Pagol
+
+Code: SS080408, Coordinates: 7.81, 28.494
+
+#### Rual-bet
+
+Code: SS080409, Coordinates: 8.152, 28.971
+
+#### Warrap
+
+Code: SS080410, Coordinates: 8.068, 28.723
+
+### Tonj South
+
+Code: SS0805, Coordinates: 7.089, 28.763
+Payams: 5
+
+#### Jak
+
+Code: SS080501, Coordinates: 7.657, 28.686
+
+#### Manyang-ngok
+
+Code: SS080502, Coordinates: 7.364, 28.961
+
+#### Thiet
+
+Code: SS080503, Coordinates: 7.653, 28.867
+
+#### Tonj
+
+Code: SS080504, Coordinates: 6.932, 28.747
+
+#### Wath-alel
+
+Code: SS080505, Coordinates: 7.543, 28.632
+
+### Twic
+
+Code: SS0806, Coordinates: 9.063, 28.374
+Payams: 6
+
+#### Ajak-kuac
+
+Code: SS080601, Coordinates: 9.237, 28.685
+
+#### Akoc
+
+Code: SS080602, Coordinates: 9.172, 28.031
+
+#### Aweeng
+
+Code: SS080603, Coordinates: 9.067, 28.621
+
+#### Pannyok
+
+Code: SS080604, Coordinates: 9.145, 28.156
+
+#### Turalei
+
+Code: SS080605, Coordinates: 9.061, 28.451
+
+#### Wunrok
+
+Code: SS080606, Coordinates: 9.117, 28.358
+

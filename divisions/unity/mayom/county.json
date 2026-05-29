@@ -1,0 +1,47 @@
+{
+  "id": "SS0606",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Mayom",
+    "en": "Mayom",
+    "slug": "mayom"
+  },
+  "code": {
+    "id": "SS0606",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS06",
+    "level": 1,
+    "name": {
+      "local": "Unity",
+      "en": "Unity",
+      "slug": "unity"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.075",
+    "lon": "29.151"
+  },
+  "metadata": {},
+  "source": {}
+}

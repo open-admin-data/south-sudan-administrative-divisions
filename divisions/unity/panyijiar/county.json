@@ -1,0 +1,47 @@
+{
+  "id": "SS0607",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Panyijiar",
+    "en": "Panyijiar",
+    "slug": "panyijiar"
+  },
+  "code": {
+    "id": "SS0607",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS06",
+    "level": 1,
+    "name": {
+      "local": "Unity",
+      "en": "Unity",
+      "slug": "unity"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.529",
+    "lon": "30.342"
+  },
+  "metadata": {},
+  "source": {}
+}

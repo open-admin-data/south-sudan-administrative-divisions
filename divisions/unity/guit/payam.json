@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS060201",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Guit",
+      "en": "Guit",
+      "slug": "guit"
+    },
+    "code": {
+      "id": "SS060201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0602",
+      "level": 2,
+      "name": {
+        "local": "Guit",
+        "en": "Guit",
+        "slug": "guit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0602",
+        "level": 2,
+        "name": {
+          "local": "Guit",
+          "en": "Guit",
+          "slug": "guit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.158",
+      "lon": "29.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060202",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kedad",
+      "en": "Kedad",
+      "slug": "kedad"
+    },
+    "code": {
+      "id": "SS060202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0602",
+      "level": 2,
+      "name": {
+        "local": "Guit",
+        "en": "Guit",
+        "slug": "guit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0602",
+        "level": 2,
+        "name": {
+          "local": "Guit",
+          "en": "Guit",
+          "slug": "guit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.134",
+      "lon": "30.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060203",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kuach",
+      "en": "Kuach",
+      "slug": "kuach"
+    },
+    "code": {
+      "id": "SS060203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0602",
+      "level": 2,
+      "name": {
+        "local": "Guit",
+        "en": "Guit",
+        "slug": "guit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0602",
+        "level": 2,
+        "name": {
+          "local": "Guit",
+          "en": "Guit",
+          "slug": "guit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.014",
+      "lon": "30.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060204",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kuerguini",
+      "en": "Kuerguini",
+      "slug": "kuerguini"
+    },
+    "code": {
+      "id": "SS060204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0602",
+      "level": 2,
+      "name": {
+        "local": "Guit",
+        "en": "Guit",
+        "slug": "guit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0602",
+        "level": 2,
+        "name": {
+          "local": "Guit",
+          "en": "Guit",
+          "slug": "guit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.248",
+      "lon": "29.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060205",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Niemni",
+      "en": "Niemni",
+      "slug": "niemni"
+    },
+    "code": {
+      "id": "SS060205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0602",
+      "level": 2,
+      "name": {
+        "local": "Guit",
+        "en": "Guit",
+        "slug": "guit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0602",
+        "level": 2,
+        "name": {
+          "local": "Guit",
+          "en": "Guit",
+          "slug": "guit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.365",
+      "lon": "30.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060206",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyathoar",
+      "en": "Nyathoar",
+      "slug": "nyathoar"
+    },
+    "code": {
+      "id": "SS060206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0602",
+      "level": 2,
+      "name": {
+        "local": "Guit",
+        "en": "Guit",
+        "slug": "guit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0602",
+        "level": 2,
+        "name": {
+          "local": "Guit",
+          "en": "Guit",
+          "slug": "guit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.313",
+      "lon": "29.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060207",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wathnyona",
+      "en": "Wathnyona",
+      "slug": "wathnyona"
+    },
+    "code": {
+      "id": "SS060207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0602",
+      "level": 2,
+      "name": {
+        "local": "Guit",
+        "en": "Guit",
+        "slug": "guit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0602",
+        "level": 2,
+        "name": {
+          "local": "Guit",
+          "en": "Guit",
+          "slug": "guit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.425",
+      "lon": "29.922"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

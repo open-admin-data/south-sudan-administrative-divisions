@@ -1,0 +1,47 @@
+{
+  "id": "SS1006",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Mvolo",
+    "en": "Mvolo",
+    "slug": "mvolo"
+  },
+  "code": {
+    "id": "SS1006",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS10",
+    "level": 1,
+    "name": {
+      "local": "Western Equatoria",
+      "en": "Western Equatoria",
+      "slug": "western-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.951",
+    "lon": "30.086"
+  },
+  "metadata": {},
+  "source": {}
+}

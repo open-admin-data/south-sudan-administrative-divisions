@@ -1,0 +1,47 @@
+{
+  "id": "SS1007",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Nagero",
+    "en": "Nagero",
+    "slug": "nagero"
+  },
+  "code": {
+    "id": "SS1007",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS10",
+    "level": 1,
+    "name": {
+      "local": "Western Equatoria",
+      "en": "Western Equatoria",
+      "slug": "western-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.148",
+    "lon": "27.393"
+  },
+  "metadata": {},
+  "source": {}
+}

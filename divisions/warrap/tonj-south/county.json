@@ -1,0 +1,47 @@
+{
+  "id": "SS0805",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Tonj South",
+    "en": "Tonj South",
+    "slug": "tonj-south"
+  },
+  "code": {
+    "id": "SS0805",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS08",
+    "level": 1,
+    "name": {
+      "local": "Warrap",
+      "en": "Warrap",
+      "slug": "warrap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS08",
+      "level": 1,
+      "name": {
+        "local": "Warrap",
+        "en": "Warrap",
+        "slug": "warrap"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.089",
+    "lon": "28.763"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS010601",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lasu",
+      "en": "Lasu",
+      "slug": "lasu"
+    },
+    "code": {
+      "id": "SS010601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0106",
+      "level": 2,
+      "name": {
+        "local": "Yei",
+        "en": "Yei",
+        "slug": "yei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0106",
+        "level": 2,
+        "name": {
+          "local": "Yei",
+          "en": "Yei",
+          "slug": "yei"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.015",
+      "lon": "30.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010602",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mugwo",
+      "en": "Mugwo",
+      "slug": "mugwo"
+    },
+    "code": {
+      "id": "SS010602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0106",
+      "level": 2,
+      "name": {
+        "local": "Yei",
+        "en": "Yei",
+        "slug": "yei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0106",
+        "level": 2,
+        "name": {
+          "local": "Yei",
+          "en": "Yei",
+          "slug": "yei"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.906",
+      "lon": "30.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010603",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Otogo",
+      "en": "Otogo",
+      "slug": "otogo"
+    },
+    "code": {
+      "id": "SS010603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0106",
+      "level": 2,
+      "name": {
+        "local": "Yei",
+        "en": "Yei",
+        "slug": "yei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0106",
+        "level": 2,
+        "name": {
+          "local": "Yei",
+          "en": "Yei",
+          "slug": "yei"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.975",
+      "lon": "30.589"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010604",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tore",
+      "en": "Tore",
+      "slug": "tore"
+    },
+    "code": {
+      "id": "SS010604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0106",
+      "level": 2,
+      "name": {
+        "local": "Yei",
+        "en": "Yei",
+        "slug": "yei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0106",
+        "level": 2,
+        "name": {
+          "local": "Yei",
+          "en": "Yei",
+          "slug": "yei"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.376",
+      "lon": "30.214"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010605",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Yei",
+      "en": "Yei",
+      "slug": "yei"
+    },
+    "code": {
+      "id": "SS010605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0106",
+      "level": 2,
+      "name": {
+        "local": "Yei",
+        "en": "Yei",
+        "slug": "yei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0106",
+        "level": 2,
+        "name": {
+          "local": "Yei",
+          "en": "Yei",
+          "slug": "yei"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.071",
+      "lon": "30.72"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

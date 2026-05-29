@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS070501",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Banashowa",
+      "en": "Banashowa",
+      "slug": "banashowa"
+    },
+    "code": {
+      "id": "SS070501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0705",
+      "level": 2,
+      "name": {
+        "local": "Maban",
+        "en": "Maban",
+        "slug": "maban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0705",
+        "level": 2,
+        "name": {
+          "local": "Maban",
+          "en": "Maban",
+          "slug": "maban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.737",
+      "lon": "33.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070502",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Boung",
+      "en": "Boung",
+      "slug": "boung"
+    },
+    "code": {
+      "id": "SS070502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0705",
+      "level": 2,
+      "name": {
+        "local": "Maban",
+        "en": "Maban",
+        "slug": "maban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0705",
+        "level": 2,
+        "name": {
+          "local": "Maban",
+          "en": "Maban",
+          "slug": "maban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.716",
+      "lon": "33.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070503",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jinkuata",
+      "en": "Jinkuata",
+      "slug": "jinkuata"
+    },
+    "code": {
+      "id": "SS070503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0705",
+      "level": 2,
+      "name": {
+        "local": "Maban",
+        "en": "Maban",
+        "slug": "maban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0705",
+        "level": 2,
+        "name": {
+          "local": "Maban",
+          "en": "Maban",
+          "slug": "maban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.004",
+      "lon": "33.361"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070504",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jinmakda",
+      "en": "Jinmakda",
+      "slug": "jinmakda"
+    },
+    "code": {
+      "id": "SS070504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0705",
+      "level": 2,
+      "name": {
+        "local": "Maban",
+        "en": "Maban",
+        "slug": "maban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0705",
+        "level": 2,
+        "name": {
+          "local": "Maban",
+          "en": "Maban",
+          "slug": "maban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.237",
+      "lon": "33.311"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070505",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Khor El Amer",
+      "en": "Khor El Amer",
+      "slug": "khor-el-amer"
+    },
+    "code": {
+      "id": "SS070505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0705",
+      "level": 2,
+      "name": {
+        "local": "Maban",
+        "en": "Maban",
+        "slug": "maban"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0705",
+        "level": 2,
+        "name": {
+          "local": "Maban",
+          "en": "Maban",
+          "slug": "maban"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.231",
+      "lon": "33.772"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

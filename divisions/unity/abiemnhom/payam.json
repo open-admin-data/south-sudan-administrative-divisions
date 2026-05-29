@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SS060101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Abiemnhom",
+      "en": "Abiemnhom",
+      "slug": "abiemnhom"
+    },
+    "code": {
+      "id": "SS060101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0601",
+      "level": 2,
+      "name": {
+        "local": "Abiemnhom",
+        "en": "Abiemnhom",
+        "slug": "abiemnhom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0601",
+        "level": 2,
+        "name": {
+          "local": "Abiemnhom",
+          "en": "Abiemnhom",
+          "slug": "abiemnhom"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.409",
+      "lon": "28.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Aworpiny",
+      "en": "Aworpiny",
+      "slug": "aworpiny"
+    },
+    "code": {
+      "id": "SS060102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0601",
+      "level": 2,
+      "name": {
+        "local": "Abiemnhom",
+        "en": "Abiemnhom",
+        "slug": "abiemnhom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0601",
+        "level": 2,
+        "name": {
+          "local": "Abiemnhom",
+          "en": "Abiemnhom",
+          "slug": "abiemnhom"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.485",
+      "lon": "29.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Manjonga",
+      "en": "Manjonga",
+      "slug": "manjonga"
+    },
+    "code": {
+      "id": "SS060103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0601",
+      "level": 2,
+      "name": {
+        "local": "Abiemnhom",
+        "en": "Abiemnhom",
+        "slug": "abiemnhom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0601",
+        "level": 2,
+        "name": {
+          "local": "Abiemnhom",
+          "en": "Abiemnhom",
+          "slug": "abiemnhom"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.595",
+      "lon": "29.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Panyang 2",
+      "en": "Panyang 2",
+      "slug": "panyang-2"
+    },
+    "code": {
+      "id": "SS060104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0601",
+      "level": 2,
+      "name": {
+        "local": "Abiemnhom",
+        "en": "Abiemnhom",
+        "slug": "abiemnhom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0601",
+        "level": 2,
+        "name": {
+          "local": "Abiemnhom",
+          "en": "Abiemnhom",
+          "slug": "abiemnhom"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.645",
+      "lon": "29.108"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS100401",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kediba",
+      "en": "Kediba",
+      "slug": "kediba"
+    },
+    "code": {
+      "id": "SS100401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1004",
+      "level": 2,
+      "name": {
+        "local": "Mundri East",
+        "en": "Mundri East",
+        "slug": "mundri-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1004",
+        "level": 2,
+        "name": {
+          "local": "Mundri East",
+          "en": "Mundri East",
+          "slug": "mundri-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.509",
+      "lon": "30.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100402",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lakamadi",
+      "en": "Lakamadi",
+      "slug": "lakamadi"
+    },
+    "code": {
+      "id": "SS100402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1004",
+      "level": 2,
+      "name": {
+        "local": "Mundri East",
+        "en": "Mundri East",
+        "slug": "mundri-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1004",
+        "level": 2,
+        "name": {
+          "local": "Mundri East",
+          "en": "Mundri East",
+          "slug": "mundri-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.671",
+      "lon": "30.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100403",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lozoh",
+      "en": "Lozoh",
+      "slug": "lozoh"
+    },
+    "code": {
+      "id": "SS100403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1004",
+      "level": 2,
+      "name": {
+        "local": "Mundri East",
+        "en": "Mundri East",
+        "slug": "mundri-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1004",
+        "level": 2,
+        "name": {
+          "local": "Mundri East",
+          "en": "Mundri East",
+          "slug": "mundri-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.101",
+      "lon": "30.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100404",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Minga",
+      "en": "Minga",
+      "slug": "minga"
+    },
+    "code": {
+      "id": "SS100404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1004",
+      "level": 2,
+      "name": {
+        "local": "Mundri East",
+        "en": "Mundri East",
+        "slug": "mundri-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1004",
+        "level": 2,
+        "name": {
+          "local": "Mundri East",
+          "en": "Mundri East",
+          "slug": "mundri-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.346",
+      "lon": "30.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100405",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Witto",
+      "en": "Witto",
+      "slug": "witto"
+    },
+    "code": {
+      "id": "SS100405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1004",
+      "level": 2,
+      "name": {
+        "local": "Mundri East",
+        "en": "Mundri East",
+        "slug": "mundri-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1004",
+        "level": 2,
+        "name": {
+          "local": "Mundri East",
+          "en": "Mundri East",
+          "slug": "mundri-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.04",
+      "lon": "30.732"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

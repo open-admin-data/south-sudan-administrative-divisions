@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS090301",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bagari",
+      "en": "Bagari",
+      "slug": "bagari"
+    },
+    "code": {
+      "id": "SS090301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0903",
+      "level": 2,
+      "name": {
+        "local": "Wau",
+        "en": "Wau",
+        "slug": "wau"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0903",
+        "level": 2,
+        "name": {
+          "local": "Wau",
+          "en": "Wau",
+          "slug": "wau"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.227",
+      "lon": "27.255"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090302",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Besselia",
+      "en": "Besselia",
+      "slug": "besselia"
+    },
+    "code": {
+      "id": "SS090302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0903",
+      "level": 2,
+      "name": {
+        "local": "Wau",
+        "en": "Wau",
+        "slug": "wau"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0903",
+        "level": 2,
+        "name": {
+          "local": "Wau",
+          "en": "Wau",
+          "slug": "wau"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.872",
+      "lon": "27.431"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090303",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kpaile",
+      "en": "Kpaile",
+      "slug": "kpaile"
+    },
+    "code": {
+      "id": "SS090303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0903",
+      "level": 2,
+      "name": {
+        "local": "Wau",
+        "en": "Wau",
+        "slug": "wau"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0903",
+        "level": 2,
+        "name": {
+          "local": "Wau",
+          "en": "Wau",
+          "slug": "wau"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.094",
+      "lon": "27.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090304",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wau North",
+      "en": "Wau North",
+      "slug": "wau-north"
+    },
+    "code": {
+      "id": "SS090304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0903",
+      "level": 2,
+      "name": {
+        "local": "Wau",
+        "en": "Wau",
+        "slug": "wau"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0903",
+        "level": 2,
+        "name": {
+          "local": "Wau",
+          "en": "Wau",
+          "slug": "wau"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.713",
+      "lon": "27.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS090305",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wau South",
+      "en": "Wau South",
+      "slug": "wau-south"
+    },
+    "code": {
+      "id": "SS090305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0903",
+      "level": 2,
+      "name": {
+        "local": "Wau",
+        "en": "Wau",
+        "slug": "wau"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS09",
+        "level": 1,
+        "name": {
+          "local": "Western Bahr el Ghazal",
+          "en": "Western Bahr el Ghazal",
+          "slug": "western-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0903",
+        "level": 2,
+        "name": {
+          "local": "Wau",
+          "en": "Wau",
+          "slug": "wau"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.655",
+      "lon": "28.005"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

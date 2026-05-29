@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS020801",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bur",
+      "en": "Bur",
+      "slug": "bur"
+    },
+    "code": {
+      "id": "SS020801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0208",
+      "level": 2,
+      "name": {
+        "local": "Torit",
+        "en": "Torit",
+        "slug": "torit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0208",
+        "level": 2,
+        "name": {
+          "local": "Torit",
+          "en": "Torit",
+          "slug": "torit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.685",
+      "lon": "32.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020803",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Himodonge",
+      "en": "Himodonge",
+      "slug": "himodonge"
+    },
+    "code": {
+      "id": "SS020803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0208",
+      "level": 2,
+      "name": {
+        "local": "Torit",
+        "en": "Torit",
+        "slug": "torit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0208",
+        "level": 2,
+        "name": {
+          "local": "Torit",
+          "en": "Torit",
+          "slug": "torit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.133",
+      "lon": "32.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020802",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Hiyala",
+      "en": "Hiyala",
+      "slug": "hiyala"
+    },
+    "code": {
+      "id": "SS020802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0208",
+      "level": 2,
+      "name": {
+        "local": "Torit",
+        "en": "Torit",
+        "slug": "torit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0208",
+        "level": 2,
+        "name": {
+          "local": "Torit",
+          "en": "Torit",
+          "slug": "torit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.451",
+      "lon": "32.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020804",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ifwotu",
+      "en": "Ifwotu",
+      "slug": "ifwotu"
+    },
+    "code": {
+      "id": "SS020804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0208",
+      "level": 2,
+      "name": {
+        "local": "Torit",
+        "en": "Torit",
+        "slug": "torit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0208",
+        "level": 2,
+        "name": {
+          "local": "Torit",
+          "en": "Torit",
+          "slug": "torit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.111",
+      "lon": "32.596"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020805",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Imurok",
+      "en": "Imurok",
+      "slug": "imurok"
+    },
+    "code": {
+      "id": "SS020805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0208",
+      "level": 2,
+      "name": {
+        "local": "Torit",
+        "en": "Torit",
+        "slug": "torit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0208",
+        "level": 2,
+        "name": {
+          "local": "Torit",
+          "en": "Torit",
+          "slug": "torit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.333",
+      "lon": "32.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020806",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kudo",
+      "en": "Kudo",
+      "slug": "kudo"
+    },
+    "code": {
+      "id": "SS020806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0208",
+      "level": 2,
+      "name": {
+        "local": "Torit",
+        "en": "Torit",
+        "slug": "torit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0208",
+        "level": 2,
+        "name": {
+          "local": "Torit",
+          "en": "Torit",
+          "slug": "torit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.387",
+      "lon": "32.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020807",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Torit",
+      "en": "Torit",
+      "slug": "torit"
+    },
+    "code": {
+      "id": "SS020807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0208",
+      "level": 2,
+      "name": {
+        "local": "Torit",
+        "en": "Torit",
+        "slug": "torit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0208",
+        "level": 2,
+        "name": {
+          "local": "Torit",
+          "en": "Torit",
+          "slug": "torit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.412",
+      "lon": "32.559"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

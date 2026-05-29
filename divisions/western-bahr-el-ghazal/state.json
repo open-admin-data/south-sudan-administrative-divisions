@@ -1,0 +1,30 @@
+{
+  "id": "SS09",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Western Bahr el Ghazal",
+    "en": "Western Bahr el Ghazal",
+    "slug": "western-bahr-el-ghazal"
+  },
+  "code": {
+    "id": "SS09",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 3,
+    "payam": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.541",
+    "lon": "26.343"
+  },
+  "metadata": {},
+  "source": {}
+}

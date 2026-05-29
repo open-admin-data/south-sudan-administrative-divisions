@@ -1,0 +1,47 @@
+{
+  "id": "SS1001",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Ezo",
+    "en": "Ezo",
+    "slug": "ezo"
+  },
+  "code": {
+    "id": "SS1001",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS10",
+    "level": 1,
+    "name": {
+      "local": "Western Equatoria",
+      "en": "Western Equatoria",
+      "slug": "western-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.603",
+    "lon": "27.878"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS071104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Chemmedi",
+      "en": "Chemmedi",
+      "slug": "chemmedi"
+    },
+    "code": {
+      "id": "SS071104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0711",
+      "level": 2,
+      "name": {
+        "local": "Renk",
+        "en": "Renk",
+        "slug": "renk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0711",
+        "level": 2,
+        "name": {
+          "local": "Renk",
+          "en": "Renk",
+          "slug": "renk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.57",
+      "lon": "32.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Geger",
+      "en": "Geger",
+      "slug": "geger"
+    },
+    "code": {
+      "id": "SS071101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0711",
+      "level": 2,
+      "name": {
+        "local": "Renk",
+        "en": "Renk",
+        "slug": "renk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0711",
+        "level": 2,
+        "name": {
+          "local": "Renk",
+          "en": "Renk",
+          "slug": "renk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.98",
+      "lon": "33.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jalhak",
+      "en": "Jalhak",
+      "slug": "jalhak"
+    },
+    "code": {
+      "id": "SS071102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0711",
+      "level": 2,
+      "name": {
+        "local": "Renk",
+        "en": "Renk",
+        "slug": "renk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0711",
+        "level": 2,
+        "name": {
+          "local": "Renk",
+          "en": "Renk",
+          "slug": "renk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.964",
+      "lon": "32.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "North Renk",
+      "en": "North Renk",
+      "slug": "north-renk"
+    },
+    "code": {
+      "id": "SS071103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0711",
+      "level": 2,
+      "name": {
+        "local": "Renk",
+        "en": "Renk",
+        "slug": "renk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0711",
+        "level": 2,
+        "name": {
+          "local": "Renk",
+          "en": "Renk",
+          "slug": "renk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.711",
+      "lon": "32.955"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "South Renk",
+      "en": "South Renk",
+      "slug": "south-renk"
+    },
+    "code": {
+      "id": "SS071105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0711",
+      "level": 2,
+      "name": {
+        "local": "Renk",
+        "en": "Renk",
+        "slug": "renk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0711",
+        "level": 2,
+        "name": {
+          "local": "Renk",
+          "en": "Renk",
+          "slug": "renk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.671",
+      "lon": "32.796"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS040201",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Abiriu",
+      "en": "Abiriu",
+      "slug": "abiriu"
+    },
+    "code": {
+      "id": "SS040201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0402",
+      "level": 2,
+      "name": {
+        "local": "Cueibet",
+        "en": "Cueibet",
+        "slug": "cueibet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0402",
+        "level": 2,
+        "name": {
+          "local": "Cueibet",
+          "en": "Cueibet",
+          "slug": "cueibet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.891",
+      "lon": "29.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040202",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Citcok",
+      "en": "Citcok",
+      "slug": "citcok"
+    },
+    "code": {
+      "id": "SS040202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0402",
+      "level": 2,
+      "name": {
+        "local": "Cueibet",
+        "en": "Cueibet",
+        "slug": "cueibet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0402",
+        "level": 2,
+        "name": {
+          "local": "Cueibet",
+          "en": "Cueibet",
+          "slug": "cueibet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.302",
+      "lon": "29.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040203",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Duony",
+      "en": "Duony",
+      "slug": "duony"
+    },
+    "code": {
+      "id": "SS040203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0402",
+      "level": 2,
+      "name": {
+        "local": "Cueibet",
+        "en": "Cueibet",
+        "slug": "cueibet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0402",
+        "level": 2,
+        "name": {
+          "local": "Cueibet",
+          "en": "Cueibet",
+          "slug": "cueibet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.952",
+      "lon": "29.413"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040204",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Malou Pec",
+      "en": "Malou Pec",
+      "slug": "malou-pec"
+    },
+    "code": {
+      "id": "SS040204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0402",
+      "level": 2,
+      "name": {
+        "local": "Cueibet",
+        "en": "Cueibet",
+        "slug": "cueibet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0402",
+        "level": 2,
+        "name": {
+          "local": "Cueibet",
+          "en": "Cueibet",
+          "slug": "cueibet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.113",
+      "lon": "29.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040205",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ngap",
+      "en": "Ngap",
+      "slug": "ngap"
+    },
+    "code": {
+      "id": "SS040205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0402",
+      "level": 2,
+      "name": {
+        "local": "Cueibet",
+        "en": "Cueibet",
+        "slug": "cueibet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0402",
+        "level": 2,
+        "name": {
+          "local": "Cueibet",
+          "en": "Cueibet",
+          "slug": "cueibet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.841",
+      "lon": "29.191"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040207",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ngap 1",
+      "en": "Ngap 1",
+      "slug": "ngap-1"
+    },
+    "code": {
+      "id": "SS040207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0402",
+      "level": 2,
+      "name": {
+        "local": "Cueibet",
+        "en": "Cueibet",
+        "slug": "cueibet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0402",
+        "level": 2,
+        "name": {
+          "local": "Cueibet",
+          "en": "Cueibet",
+          "slug": "cueibet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.778",
+      "lon": "29.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040206",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pagor",
+      "en": "Pagor",
+      "slug": "pagor"
+    },
+    "code": {
+      "id": "SS040206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0402",
+      "level": 2,
+      "name": {
+        "local": "Cueibet",
+        "en": "Cueibet",
+        "slug": "cueibet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0402",
+        "level": 2,
+        "name": {
+          "local": "Cueibet",
+          "en": "Cueibet",
+          "slug": "cueibet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.222",
+      "lon": "29.415"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

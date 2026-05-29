@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS030901",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Adongo",
+      "en": "Adongo",
+      "slug": "adongo"
+    },
+    "code": {
+      "id": "SS030901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0309",
+      "level": 2,
+      "name": {
+        "local": "Pochalla",
+        "en": "Pochalla",
+        "slug": "pochalla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0309",
+        "level": 2,
+        "name": {
+          "local": "Pochalla",
+          "en": "Pochalla",
+          "slug": "pochalla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.161",
+      "lon": "33.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030902",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Akiela",
+      "en": "Akiela",
+      "slug": "akiela"
+    },
+    "code": {
+      "id": "SS030902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0309",
+      "level": 2,
+      "name": {
+        "local": "Pochalla",
+        "en": "Pochalla",
+        "slug": "pochalla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0309",
+        "level": 2,
+        "name": {
+          "local": "Pochalla",
+          "en": "Pochalla",
+          "slug": "pochalla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "34.393"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030903",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Burator",
+      "en": "Burator",
+      "slug": "burator"
+    },
+    "code": {
+      "id": "SS030903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0309",
+      "level": 2,
+      "name": {
+        "local": "Pochalla",
+        "en": "Pochalla",
+        "slug": "pochalla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0309",
+        "level": 2,
+        "name": {
+          "local": "Pochalla",
+          "en": "Pochalla",
+          "slug": "pochalla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.421",
+      "lon": "33.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030904",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Omiela",
+      "en": "Omiela",
+      "slug": "omiela"
+    },
+    "code": {
+      "id": "SS030904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0309",
+      "level": 2,
+      "name": {
+        "local": "Pochalla",
+        "en": "Pochalla",
+        "slug": "pochalla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0309",
+        "level": 2,
+        "name": {
+          "local": "Pochalla",
+          "en": "Pochalla",
+          "slug": "pochalla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.528",
+      "lon": "33.644"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030905",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pochalla",
+      "en": "Pochalla",
+      "slug": "pochalla"
+    },
+    "code": {
+      "id": "SS030905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0309",
+      "level": 2,
+      "name": {
+        "local": "Pochalla",
+        "en": "Pochalla",
+        "slug": "pochalla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0309",
+        "level": 2,
+        "name": {
+          "local": "Pochalla",
+          "en": "Pochalla",
+          "slug": "pochalla"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.949",
+      "lon": "33.939"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

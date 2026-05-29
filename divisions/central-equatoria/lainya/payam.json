@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS010301",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kenyi",
+      "en": "Kenyi",
+      "slug": "kenyi"
+    },
+    "code": {
+      "id": "SS010301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0103",
+      "level": 2,
+      "name": {
+        "local": "Lainya",
+        "en": "Lainya",
+        "slug": "lainya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0103",
+        "level": 2,
+        "name": {
+          "local": "Lainya",
+          "en": "Lainya",
+          "slug": "lainya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.232",
+      "lon": "30.928"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010302",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kupera",
+      "en": "Kupera",
+      "slug": "kupera"
+    },
+    "code": {
+      "id": "SS010302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0103",
+      "level": 2,
+      "name": {
+        "local": "Lainya",
+        "en": "Lainya",
+        "slug": "lainya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0103",
+        "level": 2,
+        "name": {
+          "local": "Lainya",
+          "en": "Lainya",
+          "slug": "lainya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.038",
+      "lon": "30.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010303",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lainya",
+      "en": "Lainya",
+      "slug": "lainya"
+    },
+    "code": {
+      "id": "SS010303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0103",
+      "level": 2,
+      "name": {
+        "local": "Lainya",
+        "en": "Lainya",
+        "slug": "lainya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0103",
+        "level": 2,
+        "name": {
+          "local": "Lainya",
+          "en": "Lainya",
+          "slug": "lainya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.391",
+      "lon": "31.008"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010304",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mukaya",
+      "en": "Mukaya",
+      "slug": "mukaya"
+    },
+    "code": {
+      "id": "SS010304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0103",
+      "level": 2,
+      "name": {
+        "local": "Lainya",
+        "en": "Lainya",
+        "slug": "lainya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0103",
+        "level": 2,
+        "name": {
+          "local": "Lainya",
+          "en": "Lainya",
+          "slug": "lainya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.391",
+      "lon": "30.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010305",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wuji",
+      "en": "Wuji",
+      "slug": "wuji"
+    },
+    "code": {
+      "id": "SS010305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0103",
+      "level": 2,
+      "name": {
+        "local": "Lainya",
+        "en": "Lainya",
+        "slug": "lainya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0103",
+        "level": 2,
+        "name": {
+          "local": "Lainya",
+          "en": "Lainya",
+          "slug": "lainya"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.945",
+      "lon": "31.086"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

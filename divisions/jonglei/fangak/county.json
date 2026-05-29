@@ -1,0 +1,47 @@
+{
+  "id": "SS0306",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Fangak",
+    "en": "Fangak",
+    "slug": "fangak"
+  },
+  "code": {
+    "id": "SS0306",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS03",
+    "level": 1,
+    "name": {
+      "local": "Jonglei",
+      "en": "Jonglei",
+      "slug": "jonglei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS03",
+      "level": 1,
+      "name": {
+        "local": "Jonglei",
+        "en": "Jonglei",
+        "slug": "jonglei"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.045",
+    "lon": "30.693"
+  },
+  "metadata": {},
+  "source": {}
+}

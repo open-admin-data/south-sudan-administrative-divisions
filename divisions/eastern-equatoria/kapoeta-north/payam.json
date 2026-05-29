@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS020401",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Chumakori",
+      "en": "Chumakori",
+      "slug": "chumakori"
+    },
+    "code": {
+      "id": "SS020401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0204",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta North",
+        "en": "Kapoeta North",
+        "slug": "kapoeta-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0204",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta North",
+          "en": "Kapoeta North",
+          "slug": "kapoeta-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.931",
+      "lon": "33.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020402",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Karukomuge",
+      "en": "Karukomuge",
+      "slug": "karukomuge"
+    },
+    "code": {
+      "id": "SS020402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0204",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta North",
+        "en": "Kapoeta North",
+        "slug": "kapoeta-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0204",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta North",
+          "en": "Kapoeta North",
+          "slug": "kapoeta-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.399",
+      "lon": "33.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020403",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lomeyen",
+      "en": "Lomeyen",
+      "slug": "lomeyen"
+    },
+    "code": {
+      "id": "SS020403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0204",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta North",
+        "en": "Kapoeta North",
+        "slug": "kapoeta-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0204",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta North",
+          "en": "Kapoeta North",
+          "slug": "kapoeta-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.011",
+      "lon": "33.352"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020404",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mosingo",
+      "en": "Mosingo",
+      "slug": "mosingo"
+    },
+    "code": {
+      "id": "SS020404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0204",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta North",
+        "en": "Kapoeta North",
+        "slug": "kapoeta-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0204",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta North",
+          "en": "Kapoeta North",
+          "slug": "kapoeta-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.886",
+      "lon": "33.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020405",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Najie",
+      "en": "Najie",
+      "slug": "najie"
+    },
+    "code": {
+      "id": "SS020405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0204",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta North",
+        "en": "Kapoeta North",
+        "slug": "kapoeta-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0204",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta North",
+          "en": "Kapoeta North",
+          "slug": "kapoeta-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.938",
+      "lon": "33.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020406",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Paringa",
+      "en": "Paringa",
+      "slug": "paringa"
+    },
+    "code": {
+      "id": "SS020406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0204",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta North",
+        "en": "Kapoeta North",
+        "slug": "kapoeta-north"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0204",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta North",
+          "en": "Kapoeta North",
+          "slug": "kapoeta-north"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.889",
+      "lon": "33.62"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

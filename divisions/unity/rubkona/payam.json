@@ -1,0 +1,488 @@
+[
+  {
+    "id": "SS060901",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bentiu Town",
+      "en": "Bentiu Town",
+      "slug": "bentiu-town"
+    },
+    "code": {
+      "id": "SS060901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0609",
+      "level": 2,
+      "name": {
+        "local": "Rubkona",
+        "en": "Rubkona",
+        "slug": "rubkona"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0609",
+        "level": 2,
+        "name": {
+          "local": "Rubkona",
+          "en": "Rubkona",
+          "slug": "rubkona"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.23",
+      "lon": "29.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060902",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Budaang",
+      "en": "Budaang",
+      "slug": "budaang"
+    },
+    "code": {
+      "id": "SS060902",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0609",
+      "level": 2,
+      "name": {
+        "local": "Rubkona",
+        "en": "Rubkona",
+        "slug": "rubkona"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0609",
+        "level": 2,
+        "name": {
+          "local": "Rubkona",
+          "en": "Rubkona",
+          "slug": "rubkona"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.366",
+      "lon": "29.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060903",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dhorbor",
+      "en": "Dhorbor",
+      "slug": "dhorbor"
+    },
+    "code": {
+      "id": "SS060903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0609",
+      "level": 2,
+      "name": {
+        "local": "Rubkona",
+        "en": "Rubkona",
+        "slug": "rubkona"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0609",
+        "level": 2,
+        "name": {
+          "local": "Rubkona",
+          "en": "Rubkona",
+          "slug": "rubkona"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.325",
+      "lon": "29.679"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060904",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kaljak",
+      "en": "Kaljak",
+      "slug": "kaljak"
+    },
+    "code": {
+      "id": "SS060904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0609",
+      "level": 2,
+      "name": {
+        "local": "Rubkona",
+        "en": "Rubkona",
+        "slug": "rubkona"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0609",
+        "level": 2,
+        "name": {
+          "local": "Rubkona",
+          "en": "Rubkona",
+          "slug": "rubkona"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.156",
+      "lon": "29.619"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060905",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ngop",
+      "en": "Ngop",
+      "slug": "ngop"
+    },
+    "code": {
+      "id": "SS060905",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0609",
+      "level": 2,
+      "name": {
+        "local": "Rubkona",
+        "en": "Rubkona",
+        "slug": "rubkona"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0609",
+        "level": 2,
+        "name": {
+          "local": "Rubkona",
+          "en": "Rubkona",
+          "slug": "rubkona"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.095",
+      "lon": "29.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060906",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nhialdiu",
+      "en": "Nhialdiu",
+      "slug": "nhialdiu"
+    },
+    "code": {
+      "id": "SS060906",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0609",
+      "level": 2,
+      "name": {
+        "local": "Rubkona",
+        "en": "Rubkona",
+        "slug": "rubkona"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0609",
+        "level": 2,
+        "name": {
+          "local": "Rubkona",
+          "en": "Rubkona",
+          "slug": "rubkona"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.99",
+      "lon": "29.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060907",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Panhiany",
+      "en": "Panhiany",
+      "slug": "panhiany"
+    },
+    "code": {
+      "id": "SS060907",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0609",
+      "level": 2,
+      "name": {
+        "local": "Rubkona",
+        "en": "Rubkona",
+        "slug": "rubkona"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0609",
+        "level": 2,
+        "name": {
+          "local": "Rubkona",
+          "en": "Rubkona",
+          "slug": "rubkona"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.067",
+      "lon": "29.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060908",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Rubkotne",
+      "en": "Rubkotne",
+      "slug": "rubkotne"
+    },
+    "code": {
+      "id": "SS060908",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0609",
+      "level": 2,
+      "name": {
+        "local": "Rubkona",
+        "en": "Rubkona",
+        "slug": "rubkona"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0609",
+        "level": 2,
+        "name": {
+          "local": "Rubkona",
+          "en": "Rubkona",
+          "slug": "rubkona"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.364",
+      "lon": "29.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060909",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wathjaak",
+      "en": "Wathjaak",
+      "slug": "wathjaak"
+    },
+    "code": {
+      "id": "SS060909",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0609",
+      "level": 2,
+      "name": {
+        "local": "Rubkona",
+        "en": "Rubkona",
+        "slug": "rubkona"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0609",
+        "level": 2,
+        "name": {
+          "local": "Rubkona",
+          "en": "Rubkona",
+          "slug": "rubkona"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.108",
+      "lon": "29.612"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "SS0502",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Aweil East",
+    "en": "Aweil East",
+    "slug": "aweil-east"
+  },
+  "code": {
+    "id": "SS0502",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS05",
+    "level": 1,
+    "name": {
+      "local": "Northern Bahr el Ghazal",
+      "en": "Northern Bahr el Ghazal",
+      "slug": "northern-bahr-el-ghazal"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS05",
+      "level": 1,
+      "name": {
+        "local": "Northern Bahr el Ghazal",
+        "en": "Northern Bahr el Ghazal",
+        "slug": "northern-bahr-el-ghazal"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.179",
+    "lon": "27.608"
+  },
+  "metadata": {},
+  "source": {}
+}

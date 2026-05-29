@@ -1,0 +1,542 @@
+[
+  {
+    "id": "SS060701",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ganyliel",
+      "en": "Ganyliel",
+      "slug": "ganyliel"
+    },
+    "code": {
+      "id": "SS060701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0607",
+      "level": 2,
+      "name": {
+        "local": "Panyijiar",
+        "en": "Panyijiar",
+        "slug": "panyijiar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0607",
+        "level": 2,
+        "name": {
+          "local": "Panyijiar",
+          "en": "Panyijiar",
+          "slug": "panyijiar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.392",
+      "lon": "30.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060702",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kol",
+      "en": "Kol",
+      "slug": "kol"
+    },
+    "code": {
+      "id": "SS060702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0607",
+      "level": 2,
+      "name": {
+        "local": "Panyijiar",
+        "en": "Panyijiar",
+        "slug": "panyijiar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0607",
+        "level": 2,
+        "name": {
+          "local": "Panyijiar",
+          "en": "Panyijiar",
+          "slug": "panyijiar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.622",
+      "lon": "30.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060703",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mayom 2",
+      "en": "Mayom 2",
+      "slug": "mayom-2"
+    },
+    "code": {
+      "id": "SS060703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0607",
+      "level": 2,
+      "name": {
+        "local": "Panyijiar",
+        "en": "Panyijiar",
+        "slug": "panyijiar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0607",
+        "level": 2,
+        "name": {
+          "local": "Panyijiar",
+          "en": "Panyijiar",
+          "slug": "panyijiar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.787",
+      "lon": "30.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060704",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyal",
+      "en": "Nyal",
+      "slug": "nyal"
+    },
+    "code": {
+      "id": "SS060704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0607",
+      "level": 2,
+      "name": {
+        "local": "Panyijiar",
+        "en": "Panyijiar",
+        "slug": "panyijiar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0607",
+        "level": 2,
+        "name": {
+          "local": "Panyijiar",
+          "en": "Panyijiar",
+          "slug": "panyijiar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.696",
+      "lon": "30.288"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060706",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pachaar",
+      "en": "Pachaar",
+      "slug": "pachaar"
+    },
+    "code": {
+      "id": "SS060706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0607",
+      "level": 2,
+      "name": {
+        "local": "Panyijiar",
+        "en": "Panyijiar",
+        "slug": "panyijiar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0607",
+        "level": 2,
+        "name": {
+          "local": "Panyijiar",
+          "en": "Panyijiar",
+          "slug": "panyijiar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.265",
+      "lon": "30.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060705",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pachak",
+      "en": "Pachak",
+      "slug": "pachak"
+    },
+    "code": {
+      "id": "SS060705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0607",
+      "level": 2,
+      "name": {
+        "local": "Panyijiar",
+        "en": "Panyijiar",
+        "slug": "panyijiar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0607",
+        "level": 2,
+        "name": {
+          "local": "Panyijiar",
+          "en": "Panyijiar",
+          "slug": "panyijiar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.207",
+      "lon": "30.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060707",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pachienjok",
+      "en": "Pachienjok",
+      "slug": "pachienjok"
+    },
+    "code": {
+      "id": "SS060707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0607",
+      "level": 2,
+      "name": {
+        "local": "Panyijiar",
+        "en": "Panyijiar",
+        "slug": "panyijiar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0607",
+        "level": 2,
+        "name": {
+          "local": "Panyijiar",
+          "en": "Panyijiar",
+          "slug": "panyijiar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.284",
+      "lon": "30.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060708",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Panyijiar",
+      "en": "Panyijiar",
+      "slug": "panyijiar"
+    },
+    "code": {
+      "id": "SS060708",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0607",
+      "level": 2,
+      "name": {
+        "local": "Panyijiar",
+        "en": "Panyijiar",
+        "slug": "panyijiar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0607",
+        "level": 2,
+        "name": {
+          "local": "Panyijiar",
+          "en": "Panyijiar",
+          "slug": "panyijiar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.42",
+      "lon": "30.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060709",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Thoarnhoum",
+      "en": "Thoarnhoum",
+      "slug": "thoarnhoum"
+    },
+    "code": {
+      "id": "SS060709",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0607",
+      "level": 2,
+      "name": {
+        "local": "Panyijiar",
+        "en": "Panyijiar",
+        "slug": "panyijiar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0607",
+        "level": 2,
+        "name": {
+          "local": "Panyijiar",
+          "en": "Panyijiar",
+          "slug": "panyijiar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.402",
+      "lon": "30.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060710",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tiap",
+      "en": "Tiap",
+      "slug": "tiap"
+    },
+    "code": {
+      "id": "SS060710",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0607",
+      "level": 2,
+      "name": {
+        "local": "Panyijiar",
+        "en": "Panyijiar",
+        "slug": "panyijiar"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0607",
+        "level": 2,
+        "name": {
+          "local": "Panyijiar",
+          "en": "Panyijiar",
+          "slug": "panyijiar"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.515",
+      "lon": "30.455"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,345 @@
+# Upper Nile — South Sudan Administrative Divisions
+
+> 12 countys, 69 payams
+> Code: SS07
+> Coordinates: 10.112, 32.452
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Countys
+
+### Baliet
+
+Code: SS0701, Coordinates: 9.407, 32.351
+Payams: 9
+
+#### Abwong
+
+Code: SS070101, Coordinates: 8.933, 32.056
+
+#### Adong
+
+Code: SS070102, Coordinates: 9.191, 32.129
+
+#### Akoka
+
+Code: SS070103, Coordinates: 9.612, 32.084
+
+#### Akotweng
+
+Code: SS070104, Coordinates: 9.595, 32.539
+
+#### Gel Achiel
+
+Code: SS070105, Coordinates: 9.083, 32.321
+
+#### Nyongkuach
+
+Code: SS070106, Coordinates: 9.276, 32.075
+
+#### Nyongrial
+
+Code: SS070107, Coordinates: 9.47, 31.896
+
+#### Rom
+
+Code: SS070108, Coordinates: 9.829, 32.167
+
+#### Wunthow
+
+Code: SS070109, Coordinates: 9.766, 32.168
+
+### Fashoda
+
+Code: SS0702, Coordinates: 9.988, 31.858
+Payams: 4
+
+#### Dethok
+
+Code: SS070201, Coordinates: 10.07, 32.186
+
+#### Kodok
+
+Code: SS070202, Coordinates: 10.058, 31.921
+
+#### Kodok Town
+
+Code: SS070203, Coordinates: 9.883, 32.102
+
+#### Lul
+
+Code: SS070204, Coordinates: 9.922, 31.72
+
+### Longochuk
+
+Code: SS0703, Coordinates: 9.303, 33.525
+Payams: 6
+
+#### Dajo
+
+Code: SS070301, Coordinates: 9.205, 33.951
+
+#### Guelguk
+
+Code: SS070302, Coordinates: 9.359, 33.366
+
+#### Longochuk
+
+Code: SS070303, Coordinates: 8.965, 33.422
+
+#### Malual
+
+Code: SS070304, Coordinates: 8.968, 33.531
+
+#### Pamach
+
+Code: SS070305, Coordinates: 9.025, 33.545
+
+#### Wudier
+
+Code: SS070306, Coordinates: 9.291, 33.715
+
+### Luakpiny/Nasir
+
+Code: SS0704, Coordinates: 8.902, 33.216
+Payams: 8
+
+#### Dingkar
+
+Code: SS070401, Coordinates: 8.751, 32.986
+
+#### Jikmir
+
+Code: SS070402, Coordinates: 8.58, 33.229
+
+#### Kiech Kuon
+
+Code: SS070403, Coordinates: 8.969, 33.003
+
+#### Kuerenge-Ke
+
+Code: SS070404, Coordinates: 8.514, 33.145
+
+#### Mading
+
+Code: SS070405, Coordinates: 8.884, 33.269
+
+#### Maker
+
+Code: SS070406, Coordinates: 8.642, 33.465
+
+#### Nasir
+
+Code: SS070407, Coordinates: 8.63, 33.03
+
+#### Roam
+
+Code: SS070408, Coordinates: 8.917, 33.079
+
+### Maban
+
+Code: SS0705, Coordinates: 10.017, 33.478
+Payams: 5
+
+#### Banashowa
+
+Code: SS070501, Coordinates: 9.737, 33.366
+
+#### Boung
+
+Code: SS070502, Coordinates: 9.716, 33.764
+
+#### Jinkuata
+
+Code: SS070503, Coordinates: 10.004, 33.361
+
+#### Jinmakda
+
+Code: SS070504, Coordinates: 10.237, 33.311
+
+#### Khor El Amer
+
+Code: SS070505, Coordinates: 10.231, 33.772
+
+### Maiwut
+
+Code: SS0706, Coordinates: 8.784, 33.805
+Payams: 5
+
+#### Jekow
+
+Code: SS070601, Coordinates: 8.488, 33.848
+
+#### Jotoma
+
+Code: SS070602, Coordinates: 8.672, 33.758
+
+#### Kigila
+
+Code: SS070603, Coordinates: 8.847, 34.043
+
+#### Maiwut
+
+Code: SS070604, Coordinates: 8.777, 33.959
+
+#### Olang
+
+Code: SS070605, Coordinates: 8.745, 33.655
+
+### Malakal
+
+Code: SS0707, Coordinates: 9.673, 31.617
+Payams: 6
+
+#### Central Malakal
+
+Code: SS070702, Coordinates: 9.515, 31.658
+
+#### Eastern Malakal
+
+Code: SS070703, Coordinates: 9.523, 31.675
+
+#### Lelo
+
+Code: SS070701, Coordinates: 9.673, 31.551
+
+#### Northern Malakal
+
+Code: SS070704, Coordinates: 9.539, 31.664
+
+#### Ogot
+
+Code: SS070706, Coordinates: 9.647, 31.769
+
+#### Southern Malakal
+
+Code: SS070705, Coordinates: 9.5, 31.677
+
+### Manyo
+
+Code: SS0708, Coordinates: 11.036, 32.289
+Payams: 4
+
+#### Adhidwoi
+
+Code: SS070801, Coordinates: 10.289, 32.044
+
+#### Kaka
+
+Code: SS070802, Coordinates: 10.741, 32.263
+
+#### Magenist
+
+Code: SS070803, Coordinates: 11.498, 32.286
+
+#### Wedakona
+
+Code: SS070804, Coordinates: 11.471, 32.605
+
+### Melut
+
+Code: SS0709, Coordinates: 10.371, 32.557
+Payams: 6
+
+#### Bimachuk
+
+Code: SS070901, Coordinates: 10.663, 32.428
+
+#### Galdora
+
+Code: SS070902, Coordinates: 10.146, 32.428
+
+#### Melut
+
+Code: SS070903, Coordinates: 10.612, 32.263
+
+#### Paloch
+
+Code: SS070905, Coordinates: 10.549, 32.581
+
+#### Panomdit
+
+Code: SS070904, Coordinates: 10.03, 32.358
+
+#### Wunamum
+
+Code: SS070906, Coordinates: 10.226, 32.774
+
+### Panyikang
+
+Code: SS0710, Coordinates: 9.347, 31.417
+Payams: 7
+
+#### Anakdiar
+
+Code: SS071007, Coordinates: 9.377, 31.758
+
+#### Dheteim
+
+Code: SS071001, Coordinates: 9.592, 31.483
+
+#### Kuel
+
+Code: SS071002, Coordinates: 9.106, 31.909
+
+#### Pakang
+
+Code: SS071003, Coordinates: 9.557, 31.378
+
+#### Panyidwoi
+
+Code: SS071004, Coordinates: 9.353, 31.599
+
+#### Panyikang
+
+Code: SS071005, Coordinates: 9.551, 31.251
+
+#### Tonga
+
+Code: SS071006, Coordinates: 9.582, 30.981
+
+### Renk
+
+Code: SS0711, Coordinates: 11.291, 32.914
+Payams: 5
+
+#### Chemmedi
+
+Code: SS071104, Coordinates: 11.57, 32.896
+
+#### Geger
+
+Code: SS071101, Coordinates: 11.98, 33.014
+
+#### Jalhak
+
+Code: SS071102, Coordinates: 10.964, 32.914
+
+#### North Renk
+
+Code: SS071103, Coordinates: 11.711, 32.955
+
+#### South Renk
+
+Code: SS071105, Coordinates: 11.671, 32.796
+
+### Ulang
+
+Code: SS0712, Coordinates: 8.552, 32.815
+Payams: 4
+
+#### Doma
+
+Code: SS071201, Coordinates: 8.975, 32.642
+
+#### Kurmuot
+
+Code: SS071202, Coordinates: 8.345, 32.964
+
+#### Ulang
+
+Code: SS071203, Coordinates: 8.694, 32.752
+
+#### Yomding
+
+Code: SS071204, Coordinates: 8.555, 32.762
+

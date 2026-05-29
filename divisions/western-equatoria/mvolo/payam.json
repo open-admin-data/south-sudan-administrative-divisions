@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS100602",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bagori",
+      "en": "Bagori",
+      "slug": "bagori"
+    },
+    "code": {
+      "id": "SS100602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1006",
+      "level": 2,
+      "name": {
+        "local": "Mvolo",
+        "en": "Mvolo",
+        "slug": "mvolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1006",
+        "level": 2,
+        "name": {
+          "local": "Mvolo",
+          "en": "Mvolo",
+          "slug": "mvolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.878",
+      "lon": "29.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100601",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bahr El Grindi",
+      "en": "Bahr El Grindi",
+      "slug": "bahr-el-grindi"
+    },
+    "code": {
+      "id": "SS100601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1006",
+      "level": 2,
+      "name": {
+        "local": "Mvolo",
+        "en": "Mvolo",
+        "slug": "mvolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1006",
+        "level": 2,
+        "name": {
+          "local": "Mvolo",
+          "en": "Mvolo",
+          "slug": "mvolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.18",
+      "lon": "30.085"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100603",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dari",
+      "en": "Dari",
+      "slug": "dari"
+    },
+    "code": {
+      "id": "SS100603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1006",
+      "level": 2,
+      "name": {
+        "local": "Mvolo",
+        "en": "Mvolo",
+        "slug": "mvolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1006",
+        "level": 2,
+        "name": {
+          "local": "Mvolo",
+          "en": "Mvolo",
+          "slug": "mvolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.801",
+      "lon": "30.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100604",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kokori",
+      "en": "Kokori",
+      "slug": "kokori"
+    },
+    "code": {
+      "id": "SS100604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1006",
+      "level": 2,
+      "name": {
+        "local": "Mvolo",
+        "en": "Mvolo",
+        "slug": "mvolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1006",
+        "level": 2,
+        "name": {
+          "local": "Mvolo",
+          "en": "Mvolo",
+          "slug": "mvolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.233",
+      "lon": "29.954"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100605",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lessi",
+      "en": "Lessi",
+      "slug": "lessi"
+    },
+    "code": {
+      "id": "SS100605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1006",
+      "level": 2,
+      "name": {
+        "local": "Mvolo",
+        "en": "Mvolo",
+        "slug": "mvolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1006",
+        "level": 2,
+        "name": {
+          "local": "Mvolo",
+          "en": "Mvolo",
+          "slug": "mvolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.945",
+      "lon": "30.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100606",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mvolo",
+      "en": "Mvolo",
+      "slug": "mvolo"
+    },
+    "code": {
+      "id": "SS100606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1006",
+      "level": 2,
+      "name": {
+        "local": "Mvolo",
+        "en": "Mvolo",
+        "slug": "mvolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1006",
+        "level": 2,
+        "name": {
+          "local": "Mvolo",
+          "en": "Mvolo",
+          "slug": "mvolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.998",
+      "lon": "29.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100607",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Yeri",
+      "en": "Yeri",
+      "slug": "yeri"
+    },
+    "code": {
+      "id": "SS100607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1006",
+      "level": 2,
+      "name": {
+        "local": "Mvolo",
+        "en": "Mvolo",
+        "slug": "mvolo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1006",
+        "level": 2,
+        "name": {
+          "local": "Mvolo",
+          "en": "Mvolo",
+          "slug": "mvolo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.784",
+      "lon": "30.089"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

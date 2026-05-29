@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS050101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Abul",
+      "en": "Abul",
+      "slug": "abul"
+    },
+    "code": {
+      "id": "SS050101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0501",
+      "level": 2,
+      "name": {
+        "local": "Aweil Centre",
+        "en": "Aweil Centre",
+        "slug": "aweil-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0501",
+        "level": 2,
+        "name": {
+          "local": "Aweil Centre",
+          "en": "Aweil Centre",
+          "slug": "aweil-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.191",
+      "lon": "26.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Achana",
+      "en": "Achana",
+      "slug": "achana"
+    },
+    "code": {
+      "id": "SS050102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0501",
+      "level": 2,
+      "name": {
+        "local": "Aweil Centre",
+        "en": "Aweil Centre",
+        "slug": "aweil-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0501",
+        "level": 2,
+        "name": {
+          "local": "Aweil Centre",
+          "en": "Aweil Centre",
+          "slug": "aweil-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.435",
+      "lon": "26.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Aroyo",
+      "en": "Aroyo",
+      "slug": "aroyo"
+    },
+    "code": {
+      "id": "SS050103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0501",
+      "level": 2,
+      "name": {
+        "local": "Aweil Centre",
+        "en": "Aweil Centre",
+        "slug": "aweil-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0501",
+        "level": 2,
+        "name": {
+          "local": "Aweil Centre",
+          "en": "Aweil Centre",
+          "slug": "aweil-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.58",
+      "lon": "26.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Awiil",
+      "en": "Awiil",
+      "slug": "awiil"
+    },
+    "code": {
+      "id": "SS050104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0501",
+      "level": 2,
+      "name": {
+        "local": "Aweil Centre",
+        "en": "Aweil Centre",
+        "slug": "aweil-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0501",
+        "level": 2,
+        "name": {
+          "local": "Aweil Centre",
+          "en": "Aweil Centre",
+          "slug": "aweil-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.691",
+      "lon": "27.379"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bahr Mayen",
+      "en": "Bahr Mayen",
+      "slug": "bahr-mayen"
+    },
+    "code": {
+      "id": "SS050105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0501",
+      "level": 2,
+      "name": {
+        "local": "Aweil Centre",
+        "en": "Aweil Centre",
+        "slug": "aweil-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0501",
+        "level": 2,
+        "name": {
+          "local": "Aweil Centre",
+          "en": "Aweil Centre",
+          "slug": "aweil-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.45",
+      "lon": "27.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050106",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Chel South",
+      "en": "Chel South",
+      "slug": "chel-south"
+    },
+    "code": {
+      "id": "SS050106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0501",
+      "level": 2,
+      "name": {
+        "local": "Aweil Centre",
+        "en": "Aweil Centre",
+        "slug": "aweil-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0501",
+        "level": 2,
+        "name": {
+          "local": "Aweil Centre",
+          "en": "Aweil Centre",
+          "slug": "aweil-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.765",
+      "lon": "26.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS050107",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyalath",
+      "en": "Nyalath",
+      "slug": "nyalath"
+    },
+    "code": {
+      "id": "SS050107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0501",
+      "level": 2,
+      "name": {
+        "local": "Aweil Centre",
+        "en": "Aweil Centre",
+        "slug": "aweil-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      },
+      {
+        "id": "SS0501",
+        "level": 2,
+        "name": {
+          "local": "Aweil Centre",
+          "en": "Aweil Centre",
+          "slug": "aweil-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.476",
+      "lon": "27.273"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

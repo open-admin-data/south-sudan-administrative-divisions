@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS070301",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dajo",
+      "en": "Dajo",
+      "slug": "dajo"
+    },
+    "code": {
+      "id": "SS070301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0703",
+      "level": 2,
+      "name": {
+        "local": "Longochuk",
+        "en": "Longochuk",
+        "slug": "longochuk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0703",
+        "level": 2,
+        "name": {
+          "local": "Longochuk",
+          "en": "Longochuk",
+          "slug": "longochuk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.205",
+      "lon": "33.951"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070302",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Guelguk",
+      "en": "Guelguk",
+      "slug": "guelguk"
+    },
+    "code": {
+      "id": "SS070302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0703",
+      "level": 2,
+      "name": {
+        "local": "Longochuk",
+        "en": "Longochuk",
+        "slug": "longochuk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0703",
+        "level": 2,
+        "name": {
+          "local": "Longochuk",
+          "en": "Longochuk",
+          "slug": "longochuk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.359",
+      "lon": "33.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070303",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Longochuk",
+      "en": "Longochuk",
+      "slug": "longochuk"
+    },
+    "code": {
+      "id": "SS070303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0703",
+      "level": 2,
+      "name": {
+        "local": "Longochuk",
+        "en": "Longochuk",
+        "slug": "longochuk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0703",
+        "level": 2,
+        "name": {
+          "local": "Longochuk",
+          "en": "Longochuk",
+          "slug": "longochuk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.965",
+      "lon": "33.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070304",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Malual",
+      "en": "Malual",
+      "slug": "malual"
+    },
+    "code": {
+      "id": "SS070304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0703",
+      "level": 2,
+      "name": {
+        "local": "Longochuk",
+        "en": "Longochuk",
+        "slug": "longochuk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0703",
+        "level": 2,
+        "name": {
+          "local": "Longochuk",
+          "en": "Longochuk",
+          "slug": "longochuk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.968",
+      "lon": "33.531"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070305",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pamach",
+      "en": "Pamach",
+      "slug": "pamach"
+    },
+    "code": {
+      "id": "SS070305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0703",
+      "level": 2,
+      "name": {
+        "local": "Longochuk",
+        "en": "Longochuk",
+        "slug": "longochuk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0703",
+        "level": 2,
+        "name": {
+          "local": "Longochuk",
+          "en": "Longochuk",
+          "slug": "longochuk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.025",
+      "lon": "33.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070306",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wudier",
+      "en": "Wudier",
+      "slug": "wudier"
+    },
+    "code": {
+      "id": "SS070306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0703",
+      "level": 2,
+      "name": {
+        "local": "Longochuk",
+        "en": "Longochuk",
+        "slug": "longochuk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0703",
+        "level": 2,
+        "name": {
+          "local": "Longochuk",
+          "en": "Longochuk",
+          "slug": "longochuk"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.291",
+      "lon": "33.715"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

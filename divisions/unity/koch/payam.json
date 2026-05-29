@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS060301",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Boaw",
+      "en": "Boaw",
+      "slug": "boaw"
+    },
+    "code": {
+      "id": "SS060301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0603",
+      "level": 2,
+      "name": {
+        "local": "Koch",
+        "en": "Koch",
+        "slug": "koch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0603",
+        "level": 2,
+        "name": {
+          "local": "Koch",
+          "en": "Koch",
+          "slug": "koch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.766",
+      "lon": "29.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060302",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Gany",
+      "en": "Gany",
+      "slug": "gany"
+    },
+    "code": {
+      "id": "SS060302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0603",
+      "level": 2,
+      "name": {
+        "local": "Koch",
+        "en": "Koch",
+        "slug": "koch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0603",
+        "level": 2,
+        "name": {
+          "local": "Koch",
+          "en": "Koch",
+          "slug": "koch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.535",
+      "lon": "29.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060303",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jaak",
+      "en": "Jaak",
+      "slug": "jaak"
+    },
+    "code": {
+      "id": "SS060303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0603",
+      "level": 2,
+      "name": {
+        "local": "Koch",
+        "en": "Koch",
+        "slug": "koch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0603",
+        "level": 2,
+        "name": {
+          "local": "Koch",
+          "en": "Koch",
+          "slug": "koch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.722",
+      "lon": "30.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060304",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kuachlual",
+      "en": "Kuachlual",
+      "slug": "kuachlual"
+    },
+    "code": {
+      "id": "SS060304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0603",
+      "level": 2,
+      "name": {
+        "local": "Koch",
+        "en": "Koch",
+        "slug": "koch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0603",
+        "level": 2,
+        "name": {
+          "local": "Koch",
+          "en": "Koch",
+          "slug": "koch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.603",
+      "lon": "29.976"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060305",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ngony",
+      "en": "Ngony",
+      "slug": "ngony"
+    },
+    "code": {
+      "id": "SS060305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0603",
+      "level": 2,
+      "name": {
+        "local": "Koch",
+        "en": "Koch",
+        "slug": "koch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0603",
+        "level": 2,
+        "name": {
+          "local": "Koch",
+          "en": "Koch",
+          "slug": "koch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.577",
+      "lon": "30.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060306",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Norbor",
+      "en": "Norbor",
+      "slug": "norbor"
+    },
+    "code": {
+      "id": "SS060306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0603",
+      "level": 2,
+      "name": {
+        "local": "Koch",
+        "en": "Koch",
+        "slug": "koch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0603",
+        "level": 2,
+        "name": {
+          "local": "Koch",
+          "en": "Koch",
+          "slug": "koch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.39",
+      "lon": "29.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060307",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pakur",
+      "en": "Pakur",
+      "slug": "pakur"
+    },
+    "code": {
+      "id": "SS060307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0603",
+      "level": 2,
+      "name": {
+        "local": "Koch",
+        "en": "Koch",
+        "slug": "koch"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0603",
+        "level": 2,
+        "name": {
+          "local": "Koch",
+          "en": "Koch",
+          "slug": "koch"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.629",
+      "lon": "29.519"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

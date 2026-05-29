@@ -1,0 +1,47 @@
+{
+  "id": "SS0206",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Lafon",
+    "en": "Lafon",
+    "slug": "lafon"
+  },
+  "code": {
+    "id": "SS0206",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS02",
+    "level": 1,
+    "name": {
+      "local": "Eastern Equatoria",
+      "en": "Eastern Equatoria",
+      "slug": "eastern-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.157",
+    "lon": "32.705"
+  },
+  "metadata": {},
+  "source": {}
+}

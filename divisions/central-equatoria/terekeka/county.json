@@ -1,0 +1,47 @@
+{
+  "id": "SS0105",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Terekeka",
+    "en": "Terekeka",
+    "slug": "terekeka"
+  },
+  "code": {
+    "id": "SS0105",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS01",
+    "level": 1,
+    "name": {
+      "local": "Central Equatoria",
+      "en": "Central Equatoria",
+      "slug": "central-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS01",
+      "level": 1,
+      "name": {
+        "local": "Central Equatoria",
+        "en": "Central Equatoria",
+        "slug": "central-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.687",
+    "lon": "31.209"
+  },
+  "metadata": {},
+  "source": {}
+}

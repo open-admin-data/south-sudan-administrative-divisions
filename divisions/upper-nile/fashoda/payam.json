@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SS070201",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dethok",
+      "en": "Dethok",
+      "slug": "dethok"
+    },
+    "code": {
+      "id": "SS070201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0702",
+      "level": 2,
+      "name": {
+        "local": "Fashoda",
+        "en": "Fashoda",
+        "slug": "fashoda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0702",
+        "level": 2,
+        "name": {
+          "local": "Fashoda",
+          "en": "Fashoda",
+          "slug": "fashoda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.07",
+      "lon": "32.186"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070202",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kodok",
+      "en": "Kodok",
+      "slug": "kodok"
+    },
+    "code": {
+      "id": "SS070202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0702",
+      "level": 2,
+      "name": {
+        "local": "Fashoda",
+        "en": "Fashoda",
+        "slug": "fashoda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0702",
+        "level": 2,
+        "name": {
+          "local": "Fashoda",
+          "en": "Fashoda",
+          "slug": "fashoda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.058",
+      "lon": "31.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070203",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kodok Town",
+      "en": "Kodok Town",
+      "slug": "kodok-town"
+    },
+    "code": {
+      "id": "SS070203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0702",
+      "level": 2,
+      "name": {
+        "local": "Fashoda",
+        "en": "Fashoda",
+        "slug": "fashoda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0702",
+        "level": 2,
+        "name": {
+          "local": "Fashoda",
+          "en": "Fashoda",
+          "slug": "fashoda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.883",
+      "lon": "32.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070204",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lul",
+      "en": "Lul",
+      "slug": "lul"
+    },
+    "code": {
+      "id": "SS070204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0702",
+      "level": 2,
+      "name": {
+        "local": "Fashoda",
+        "en": "Fashoda",
+        "slug": "fashoda"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0702",
+        "level": 2,
+        "name": {
+          "local": "Fashoda",
+          "en": "Fashoda",
+          "slug": "fashoda"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.922",
+      "lon": "31.72"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

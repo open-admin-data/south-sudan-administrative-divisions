@@ -1,0 +1,47 @@
+{
+  "id": "SS0902",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Raja",
+    "en": "Raja",
+    "slug": "raja"
+  },
+  "code": {
+    "id": "SS0902",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS09",
+    "level": 1,
+    "name": {
+      "local": "Western Bahr el Ghazal",
+      "en": "Western Bahr el Ghazal",
+      "slug": "western-bahr-el-ghazal"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS09",
+      "level": 1,
+      "name": {
+        "local": "Western Bahr el Ghazal",
+        "en": "Western Bahr el Ghazal",
+        "slug": "western-bahr-el-ghazal"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.541",
+    "lon": "25.54"
+  },
+  "metadata": {},
+  "source": {}
+}

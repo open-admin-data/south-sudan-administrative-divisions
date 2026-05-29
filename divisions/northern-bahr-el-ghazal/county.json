@@ -1,0 +1,237 @@
+[
+  {
+    "id": "SS0501",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Aweil Centre",
+      "en": "Aweil Centre",
+      "slug": "aweil-centre"
+    },
+    "code": {
+      "id": "SS0501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS05",
+      "level": 1,
+      "name": {
+        "local": "Northern Bahr el Ghazal",
+        "en": "Northern Bahr el Ghazal",
+        "slug": "northern-bahr-el-ghazal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.427",
+      "lon": "27.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0502",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Aweil East",
+      "en": "Aweil East",
+      "slug": "aweil-east"
+    },
+    "code": {
+      "id": "SS0502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS05",
+      "level": 1,
+      "name": {
+        "local": "Northern Bahr el Ghazal",
+        "en": "Northern Bahr el Ghazal",
+        "slug": "northern-bahr-el-ghazal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.179",
+      "lon": "27.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0503",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Aweil North",
+      "en": "Aweil North",
+      "slug": "aweil-north"
+    },
+    "code": {
+      "id": "SS0503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS05",
+      "level": 1,
+      "name": {
+        "local": "Northern Bahr el Ghazal",
+        "en": "Northern Bahr el Ghazal",
+        "slug": "northern-bahr-el-ghazal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.406",
+      "lon": "26.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0504",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Aweil South",
+      "en": "Aweil South",
+      "slug": "aweil-south"
+    },
+    "code": {
+      "id": "SS0504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS05",
+      "level": 1,
+      "name": {
+        "local": "Northern Bahr el Ghazal",
+        "en": "Northern Bahr el Ghazal",
+        "slug": "northern-bahr-el-ghazal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.666",
+      "lon": "27.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0505",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Aweil West",
+      "en": "Aweil West",
+      "slug": "aweil-west"
+    },
+    "code": {
+      "id": "SS0505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS05",
+      "level": 1,
+      "name": {
+        "local": "Northern Bahr el Ghazal",
+        "en": "Northern Bahr el Ghazal",
+        "slug": "northern-bahr-el-ghazal"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS05",
+        "level": 1,
+        "name": {
+          "local": "Northern Bahr el Ghazal",
+          "en": "Northern Bahr el Ghazal",
+          "slug": "northern-bahr-el-ghazal"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.906",
+      "lon": "26.784"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

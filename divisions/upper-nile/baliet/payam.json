@@ -1,0 +1,488 @@
+[
+  {
+    "id": "SS070101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Abwong",
+      "en": "Abwong",
+      "slug": "abwong"
+    },
+    "code": {
+      "id": "SS070101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0701",
+      "level": 2,
+      "name": {
+        "local": "Baliet",
+        "en": "Baliet",
+        "slug": "baliet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0701",
+        "level": 2,
+        "name": {
+          "local": "Baliet",
+          "en": "Baliet",
+          "slug": "baliet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.933",
+      "lon": "32.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Adong",
+      "en": "Adong",
+      "slug": "adong"
+    },
+    "code": {
+      "id": "SS070102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0701",
+      "level": 2,
+      "name": {
+        "local": "Baliet",
+        "en": "Baliet",
+        "slug": "baliet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0701",
+        "level": 2,
+        "name": {
+          "local": "Baliet",
+          "en": "Baliet",
+          "slug": "baliet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.191",
+      "lon": "32.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Akoka",
+      "en": "Akoka",
+      "slug": "akoka"
+    },
+    "code": {
+      "id": "SS070103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0701",
+      "level": 2,
+      "name": {
+        "local": "Baliet",
+        "en": "Baliet",
+        "slug": "baliet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0701",
+        "level": 2,
+        "name": {
+          "local": "Baliet",
+          "en": "Baliet",
+          "slug": "baliet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.612",
+      "lon": "32.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Akotweng",
+      "en": "Akotweng",
+      "slug": "akotweng"
+    },
+    "code": {
+      "id": "SS070104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0701",
+      "level": 2,
+      "name": {
+        "local": "Baliet",
+        "en": "Baliet",
+        "slug": "baliet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0701",
+        "level": 2,
+        "name": {
+          "local": "Baliet",
+          "en": "Baliet",
+          "slug": "baliet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.595",
+      "lon": "32.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Gel Achiel",
+      "en": "Gel Achiel",
+      "slug": "gel-achiel"
+    },
+    "code": {
+      "id": "SS070105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0701",
+      "level": 2,
+      "name": {
+        "local": "Baliet",
+        "en": "Baliet",
+        "slug": "baliet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0701",
+        "level": 2,
+        "name": {
+          "local": "Baliet",
+          "en": "Baliet",
+          "slug": "baliet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.083",
+      "lon": "32.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070106",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyongkuach",
+      "en": "Nyongkuach",
+      "slug": "nyongkuach"
+    },
+    "code": {
+      "id": "SS070106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0701",
+      "level": 2,
+      "name": {
+        "local": "Baliet",
+        "en": "Baliet",
+        "slug": "baliet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0701",
+        "level": 2,
+        "name": {
+          "local": "Baliet",
+          "en": "Baliet",
+          "slug": "baliet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.276",
+      "lon": "32.075"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070107",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyongrial",
+      "en": "Nyongrial",
+      "slug": "nyongrial"
+    },
+    "code": {
+      "id": "SS070107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0701",
+      "level": 2,
+      "name": {
+        "local": "Baliet",
+        "en": "Baliet",
+        "slug": "baliet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0701",
+        "level": 2,
+        "name": {
+          "local": "Baliet",
+          "en": "Baliet",
+          "slug": "baliet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.47",
+      "lon": "31.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070108",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Rom",
+      "en": "Rom",
+      "slug": "rom"
+    },
+    "code": {
+      "id": "SS070108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0701",
+      "level": 2,
+      "name": {
+        "local": "Baliet",
+        "en": "Baliet",
+        "slug": "baliet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0701",
+        "level": 2,
+        "name": {
+          "local": "Baliet",
+          "en": "Baliet",
+          "slug": "baliet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.829",
+      "lon": "32.167"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070109",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wunthow",
+      "en": "Wunthow",
+      "slug": "wunthow"
+    },
+    "code": {
+      "id": "SS070109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0701",
+      "level": 2,
+      "name": {
+        "local": "Baliet",
+        "en": "Baliet",
+        "slug": "baliet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0701",
+        "level": 2,
+        "name": {
+          "local": "Baliet",
+          "en": "Baliet",
+          "slug": "baliet"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.766",
+      "lon": "32.168"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

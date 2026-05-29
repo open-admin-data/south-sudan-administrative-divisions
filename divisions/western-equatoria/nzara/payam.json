@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS100801",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Basukangbi",
+      "en": "Basukangbi",
+      "slug": "basukangbi"
+    },
+    "code": {
+      "id": "SS100801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1008",
+      "level": 2,
+      "name": {
+        "local": "Nzara",
+        "en": "Nzara",
+        "slug": "nzara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1008",
+        "level": 2,
+        "name": {
+          "local": "Nzara",
+          "en": "Nzara",
+          "slug": "nzara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.704",
+      "lon": "27.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100802",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nzara Centre",
+      "en": "Nzara Centre",
+      "slug": "nzara-centre"
+    },
+    "code": {
+      "id": "SS100802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1008",
+      "level": 2,
+      "name": {
+        "local": "Nzara",
+        "en": "Nzara",
+        "slug": "nzara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1008",
+        "level": 2,
+        "name": {
+          "local": "Nzara",
+          "en": "Nzara",
+          "slug": "nzara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.709",
+      "lon": "28.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100803",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ringasi",
+      "en": "Ringasi",
+      "slug": "ringasi"
+    },
+    "code": {
+      "id": "SS100803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1008",
+      "level": 2,
+      "name": {
+        "local": "Nzara",
+        "en": "Nzara",
+        "slug": "nzara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1008",
+        "level": 2,
+        "name": {
+          "local": "Nzara",
+          "en": "Nzara",
+          "slug": "nzara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.492",
+      "lon": "28.265"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100804",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Sakure",
+      "en": "Sakure",
+      "slug": "sakure"
+    },
+    "code": {
+      "id": "SS100804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1008",
+      "level": 2,
+      "name": {
+        "local": "Nzara",
+        "en": "Nzara",
+        "slug": "nzara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1008",
+        "level": 2,
+        "name": {
+          "local": "Nzara",
+          "en": "Nzara",
+          "slug": "nzara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.469",
+      "lon": "28.202"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100805",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Sangua",
+      "en": "Sangua",
+      "slug": "sangua"
+    },
+    "code": {
+      "id": "SS100805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1008",
+      "level": 2,
+      "name": {
+        "local": "Nzara",
+        "en": "Nzara",
+        "slug": "nzara"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1008",
+        "level": 2,
+        "name": {
+          "local": "Nzara",
+          "en": "Nzara",
+          "slug": "nzara"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.588",
+      "lon": "28.118"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

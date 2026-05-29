@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS040301",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Amongpiny",
+      "en": "Amongpiny",
+      "slug": "amongpiny"
+    },
+    "code": {
+      "id": "SS040301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0403",
+      "level": 2,
+      "name": {
+        "local": "Rumbek Centre",
+        "en": "Rumbek Centre",
+        "slug": "rumbek-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0403",
+        "level": 2,
+        "name": {
+          "local": "Rumbek Centre",
+          "en": "Rumbek Centre",
+          "slug": "rumbek-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.01",
+      "lon": "29.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040302",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jiir",
+      "en": "Jiir",
+      "slug": "jiir"
+    },
+    "code": {
+      "id": "SS040302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0403",
+      "level": 2,
+      "name": {
+        "local": "Rumbek Centre",
+        "en": "Rumbek Centre",
+        "slug": "rumbek-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0403",
+        "level": 2,
+        "name": {
+          "local": "Rumbek Centre",
+          "en": "Rumbek Centre",
+          "slug": "rumbek-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.774",
+      "lon": "29.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040303",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Malek 2",
+      "en": "Malek 2",
+      "slug": "malek-2"
+    },
+    "code": {
+      "id": "SS040303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0403",
+      "level": 2,
+      "name": {
+        "local": "Rumbek Centre",
+        "en": "Rumbek Centre",
+        "slug": "rumbek-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0403",
+        "level": 2,
+        "name": {
+          "local": "Rumbek Centre",
+          "en": "Rumbek Centre",
+          "slug": "rumbek-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.202",
+      "lon": "29.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040304",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Matangai",
+      "en": "Matangai",
+      "slug": "matangai"
+    },
+    "code": {
+      "id": "SS040304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0403",
+      "level": 2,
+      "name": {
+        "local": "Rumbek Centre",
+        "en": "Rumbek Centre",
+        "slug": "rumbek-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0403",
+        "level": 2,
+        "name": {
+          "local": "Rumbek Centre",
+          "en": "Rumbek Centre",
+          "slug": "rumbek-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.874",
+      "lon": "29.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040305",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mayom",
+      "en": "Mayom",
+      "slug": "mayom"
+    },
+    "code": {
+      "id": "SS040305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0403",
+      "level": 2,
+      "name": {
+        "local": "Rumbek Centre",
+        "en": "Rumbek Centre",
+        "slug": "rumbek-centre"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0403",
+        "level": 2,
+        "name": {
+          "local": "Rumbek Centre",
+          "en": "Rumbek Centre",
+          "slug": "rumbek-centre"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.062",
+      "lon": "29.768"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

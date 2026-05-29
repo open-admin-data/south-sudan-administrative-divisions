@@ -1,0 +1,47 @@
+{
+  "id": "SS0901",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Jur River",
+    "en": "Jur River",
+    "slug": "jur-river"
+  },
+  "code": {
+    "id": "SS0901",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS09",
+    "level": 1,
+    "name": {
+      "local": "Western Bahr el Ghazal",
+      "en": "Western Bahr el Ghazal",
+      "slug": "western-bahr-el-ghazal"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS09",
+      "level": 1,
+      "name": {
+        "local": "Western Bahr el Ghazal",
+        "en": "Western Bahr el Ghazal",
+        "slug": "western-bahr-el-ghazal"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.62",
+    "lon": "27.89"
+  },
+  "metadata": {},
+  "source": {}
+}

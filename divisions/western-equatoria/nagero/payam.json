@@ -1,0 +1,110 @@
+[
+  {
+    "id": "SS100701",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nagero",
+      "en": "Nagero",
+      "slug": "nagero"
+    },
+    "code": {
+      "id": "SS100701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1007",
+      "level": 2,
+      "name": {
+        "local": "Nagero",
+        "en": "Nagero",
+        "slug": "nagero"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1007",
+        "level": 2,
+        "name": {
+          "local": "Nagero",
+          "en": "Nagero",
+          "slug": "nagero"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.408",
+      "lon": "27.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100702",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Namutina",
+      "en": "Namutina",
+      "slug": "namutina"
+    },
+    "code": {
+      "id": "SS100702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1007",
+      "level": 2,
+      "name": {
+        "local": "Nagero",
+        "en": "Nagero",
+        "slug": "nagero"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1007",
+        "level": 2,
+        "name": {
+          "local": "Nagero",
+          "en": "Nagero",
+          "slug": "nagero"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.107",
+      "lon": "26.908"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

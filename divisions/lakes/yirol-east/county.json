@@ -1,0 +1,47 @@
+{
+  "id": "SS0407",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Yirol East",
+    "en": "Yirol East",
+    "slug": "yirol-east"
+  },
+  "code": {
+    "id": "SS0407",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS04",
+    "level": 1,
+    "name": {
+      "local": "Lakes",
+      "en": "Lakes",
+      "slug": "lakes"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.774",
+    "lon": "30.849"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,920 @@
+[
+  {
+    "id": "SS010101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bungu",
+      "en": "Bungu",
+      "slug": "bungu"
+    },
+    "code": {
+      "id": "SS010101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.697",
+      "lon": "31.227"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dolo",
+      "en": "Dolo",
+      "slug": "dolo"
+    },
+    "code": {
+      "id": "SS010102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.935",
+      "lon": "31.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ganji",
+      "en": "Ganji",
+      "slug": "ganji"
+    },
+    "code": {
+      "id": "SS010103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.511",
+      "lon": "31.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Gondokoro",
+      "en": "Gondokoro",
+      "slug": "gondokoro"
+    },
+    "code": {
+      "id": "SS010104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.852",
+      "lon": "31.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Juba Town",
+      "en": "Juba Town",
+      "slug": "juba-town"
+    },
+    "code": {
+      "id": "SS010105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.856",
+      "lon": "31.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010106",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kator",
+      "en": "Kator",
+      "slug": "kator"
+    },
+    "code": {
+      "id": "SS010106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.819",
+      "lon": "31.602"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010107",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lirya",
+      "en": "Lirya",
+      "slug": "lirya"
+    },
+    "code": {
+      "id": "SS010107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.675",
+      "lon": "32.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010109",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lobonok",
+      "en": "Lobonok",
+      "slug": "lobonok"
+    },
+    "code": {
+      "id": "SS010109",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.334",
+      "lon": "31.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010108",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lokiliri",
+      "en": "Lokiliri",
+      "slug": "lokiliri"
+    },
+    "code": {
+      "id": "SS010108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.478",
+      "lon": "31.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010117",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mangala North",
+      "en": "Mangala North",
+      "slug": "mangala-north"
+    },
+    "code": {
+      "id": "SS010117",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.266",
+      "lon": "31.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010110",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mangala South",
+      "en": "Mangala South",
+      "slug": "mangala-south"
+    },
+    "code": {
+      "id": "SS010110",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.977",
+      "lon": "31.929"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010111",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Munuki",
+      "en": "Munuki",
+      "slug": "munuki"
+    },
+    "code": {
+      "id": "SS010111",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.835",
+      "lon": "31.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010112",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Northern Bari",
+      "en": "Northern Bari",
+      "slug": "northern-bari"
+    },
+    "code": {
+      "id": "SS010112",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.946",
+      "lon": "31.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010113",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Rejaf",
+      "en": "Rejaf",
+      "slug": "rejaf"
+    },
+    "code": {
+      "id": "SS010113",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.75",
+      "lon": "31.54"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010114",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Rokon",
+      "en": "Rokon",
+      "slug": "rokon"
+    },
+    "code": {
+      "id": "SS010114",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.211",
+      "lon": "31.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010115",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tijor",
+      "en": "Tijor",
+      "slug": "tijor"
+    },
+    "code": {
+      "id": "SS010115",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.138",
+      "lon": "31.407"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010116",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wonduruba",
+      "en": "Wonduruba",
+      "slug": "wonduruba"
+    },
+    "code": {
+      "id": "SS010116",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0101",
+      "level": 2,
+      "name": {
+        "local": "Juba",
+        "en": "Juba",
+        "slug": "juba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0101",
+        "level": 2,
+        "name": {
+          "local": "Juba",
+          "en": "Juba",
+          "slug": "juba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.641",
+      "lon": "30.844"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

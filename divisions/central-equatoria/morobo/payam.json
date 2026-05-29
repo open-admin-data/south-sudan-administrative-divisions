@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS010401",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Gulumbi",
+      "en": "Gulumbi",
+      "slug": "gulumbi"
+    },
+    "code": {
+      "id": "SS010401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0104",
+      "level": 2,
+      "name": {
+        "local": "Morobo",
+        "en": "Morobo",
+        "slug": "morobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0104",
+        "level": 2,
+        "name": {
+          "local": "Morobo",
+          "en": "Morobo",
+          "slug": "morobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.688",
+      "lon": "30.819"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010402",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kimba",
+      "en": "Kimba",
+      "slug": "kimba"
+    },
+    "code": {
+      "id": "SS010402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0104",
+      "level": 2,
+      "name": {
+        "local": "Morobo",
+        "en": "Morobo",
+        "slug": "morobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0104",
+        "level": 2,
+        "name": {
+          "local": "Morobo",
+          "en": "Morobo",
+          "slug": "morobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.606",
+      "lon": "30.892"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010403",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lujulo",
+      "en": "Lujulo",
+      "slug": "lujulo"
+    },
+    "code": {
+      "id": "SS010403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0104",
+      "level": 2,
+      "name": {
+        "local": "Morobo",
+        "en": "Morobo",
+        "slug": "morobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0104",
+        "level": 2,
+        "name": {
+          "local": "Morobo",
+          "en": "Morobo",
+          "slug": "morobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.709",
+      "lon": "30.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010404",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Panyume",
+      "en": "Panyume",
+      "slug": "panyume"
+    },
+    "code": {
+      "id": "SS010404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0104",
+      "level": 2,
+      "name": {
+        "local": "Morobo",
+        "en": "Morobo",
+        "slug": "morobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0104",
+        "level": 2,
+        "name": {
+          "local": "Morobo",
+          "en": "Morobo",
+          "slug": "morobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.818",
+      "lon": "30.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010405",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wudabi",
+      "en": "Wudabi",
+      "slug": "wudabi"
+    },
+    "code": {
+      "id": "SS010405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0104",
+      "level": 2,
+      "name": {
+        "local": "Morobo",
+        "en": "Morobo",
+        "slug": "morobo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0104",
+        "level": 2,
+        "name": {
+          "local": "Morobo",
+          "en": "Morobo",
+          "slug": "morobo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.716",
+      "lon": "30.623"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

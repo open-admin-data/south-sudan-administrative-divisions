@@ -1,0 +1,47 @@
+{
+  "id": "SS0401",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Awerial",
+    "en": "Awerial",
+    "slug": "awerial"
+  },
+  "code": {
+    "id": "SS0401",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS04",
+    "level": 1,
+    "name": {
+      "local": "Lakes",
+      "en": "Lakes",
+      "slug": "lakes"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.188",
+    "lon": "31.155"
+  },
+  "metadata": {},
+  "source": {}
+}

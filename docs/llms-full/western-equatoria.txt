@@ -1,0 +1,247 @@
+# Western Equatoria — South Sudan Administrative Divisions
+
+> 10 countys, 47 payams
+> Code: SS10
+> Coordinates: 5.539, 28.654
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Countys
+
+### Ezo
+
+Code: SS1001, Coordinates: 5.603, 27.878
+Payams: 6
+
+#### Andari
+
+Code: SS100101, Coordinates: 4.952, 27.715
+
+#### Bagidi
+
+Code: SS100102, Coordinates: 5.27, 27.69
+
+#### Bariguna
+
+Code: SS100103, Coordinates: 5.249, 27.411
+
+#### Ezo Centre
+
+Code: SS100104, Coordinates: 5.016, 27.553
+
+#### Naandi
+
+Code: SS100105, Coordinates: 4.893, 27.95
+
+#### Yangiri
+
+Code: SS100106, Coordinates: 5.744, 28.066
+
+### Ibba
+
+Code: SS1002, Coordinates: 5.058, 29.031
+Payams: 5
+
+#### Ibba Centre
+
+Code: SS100201, Coordinates: 4.689, 29.254
+
+#### Madebe
+
+Code: SS100202, Coordinates: 4.772, 28.968
+
+#### Manikakara
+
+Code: SS100203, Coordinates: 5.252, 29.105
+
+#### Maruko
+
+Code: SS100204, Coordinates: 5.268, 28.894
+
+#### Nabanga
+
+Code: SS100205, Coordinates: 4.477, 29.174
+
+### Maridi
+
+Code: SS1003, Coordinates: 5.135, 29.76
+Payams: 5
+
+#### Kozi
+
+Code: SS100301, Coordinates: 5.334, 29.579
+
+#### Landili
+
+Code: SS100302, Coordinates: 4.671, 29.927
+
+#### Mambe
+
+Code: SS100303, Coordinates: 4.988, 29.844
+
+#### Maridi
+
+Code: SS100304, Coordinates: 4.883, 29.471
+
+#### Ngamunde
+
+Code: SS100305, Coordinates: 4.735, 29.556
+
+### Mundri East
+
+Code: SS1004, Coordinates: 5.301, 30.679
+Payams: 5
+
+#### Kediba
+
+Code: SS100401, Coordinates: 5.509, 30.716
+
+#### Lakamadi
+
+Code: SS100402, Coordinates: 5.671, 30.503
+
+#### Lozoh
+
+Code: SS100403, Coordinates: 5.101, 30.532
+
+#### Minga
+
+Code: SS100404, Coordinates: 5.346, 30.838
+
+#### Witto
+
+Code: SS100405, Coordinates: 5.04, 30.732
+
+### Mundri West
+
+Code: SS1005, Coordinates: 5.152, 30.175
+Payams: 4
+
+#### Amadi
+
+Code: SS100501, Coordinates: 5.509, 30.416
+
+#### Bangolo
+
+Code: SS100502, Coordinates: 4.803, 30.313
+
+#### Kotobi
+
+Code: SS100503, Coordinates: 5.162, 30.114
+
+#### Mundri
+
+Code: SS100504, Coordinates: 5.472, 30.113
+
+### Mvolo
+
+Code: SS1006, Coordinates: 5.951, 30.086
+Payams: 7
+
+#### Bagori
+
+Code: SS100602, Coordinates: 5.878, 29.783
+
+#### Bahr El Grindi
+
+Code: SS100601, Coordinates: 6.18, 30.085
+
+#### Dari
+
+Code: SS100603, Coordinates: 5.801, 30.432
+
+#### Kokori
+
+Code: SS100604, Coordinates: 6.233, 29.954
+
+#### Lessi
+
+Code: SS100605, Coordinates: 5.945, 30.323
+
+#### Mvolo
+
+Code: SS100606, Coordinates: 5.998, 29.971
+
+#### Yeri
+
+Code: SS100607, Coordinates: 5.784, 30.089
+
+### Nagero
+
+Code: SS1007, Coordinates: 6.148, 27.393
+Payams: 2
+
+#### Nagero
+
+Code: SS100701, Coordinates: 6.408, 27.782
+
+#### Namutina
+
+Code: SS100702, Coordinates: 6.107, 26.908
+
+### Nzara
+
+Code: SS1008, Coordinates: 5.312, 28.171
+Payams: 5
+
+#### Basukangbi
+
+Code: SS100801, Coordinates: 4.704, 27.946
+
+#### Nzara Centre
+
+Code: SS100802, Coordinates: 4.709, 28.221
+
+#### Ringasi
+
+Code: SS100803, Coordinates: 5.492, 28.265
+
+#### Sakure
+
+Code: SS100804, Coordinates: 4.469, 28.202
+
+#### Sangua
+
+Code: SS100805, Coordinates: 4.588, 28.118
+
+### Tambura
+
+Code: SS1009, Coordinates: 5.721, 27.604
+Payams: 3
+
+#### Mupoi
+
+Code: SS100901, Coordinates: 5.57, 27.669
+
+#### Source Yubu
+
+Code: SS100903, Coordinates: 5.44, 27.374
+
+#### Tambura
+
+Code: SS100904, Coordinates: 5.797, 27.618
+
+### Yambio
+
+Code: SS1010, Coordinates: 5.178, 28.559
+Payams: 5
+
+#### Bangasu
+
+Code: SS101001, Coordinates: 4.723, 28.706
+
+#### Gangura
+
+Code: SS101002, Coordinates: 4.415, 28.447
+
+#### Nadiangere
+
+Code: SS101003, Coordinates: 5.598, 28.537
+
+#### Ri-rangu
+
+Code: SS101004, Coordinates: 4.901, 28.491
+
+#### Yambio Town
+
+Code: SS101005, Coordinates: 4.618, 28.43
+

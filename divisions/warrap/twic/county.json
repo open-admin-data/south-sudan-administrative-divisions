@@ -1,0 +1,47 @@
+{
+  "id": "SS0806",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Twic",
+    "en": "Twic",
+    "slug": "twic"
+  },
+  "code": {
+    "id": "SS0806",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS08",
+    "level": 1,
+    "name": {
+      "local": "Warrap",
+      "en": "Warrap",
+      "slug": "warrap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS08",
+      "level": 1,
+      "name": {
+        "local": "Warrap",
+        "en": "Warrap",
+        "slug": "warrap"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.063",
+    "lon": "28.374"
+  },
+  "metadata": {},
+  "source": {}
+}

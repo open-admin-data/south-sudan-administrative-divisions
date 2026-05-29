@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS020701",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lobone",
+      "en": "Lobone",
+      "slug": "lobone"
+    },
+    "code": {
+      "id": "SS020701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0207",
+      "level": 2,
+      "name": {
+        "local": "Magwi",
+        "en": "Magwi",
+        "slug": "magwi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0207",
+        "level": 2,
+        "name": {
+          "local": "Magwi",
+          "en": "Magwi",
+          "slug": "magwi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.829",
+      "lon": "32.705"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020702",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Magwi",
+      "en": "Magwi",
+      "slug": "magwi"
+    },
+    "code": {
+      "id": "SS020702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0207",
+      "level": 2,
+      "name": {
+        "local": "Magwi",
+        "en": "Magwi",
+        "slug": "magwi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0207",
+        "level": 2,
+        "name": {
+          "local": "Magwi",
+          "en": "Magwi",
+          "slug": "magwi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.056",
+      "lon": "32.344"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020703",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mugali",
+      "en": "Mugali",
+      "slug": "mugali"
+    },
+    "code": {
+      "id": "SS020703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0207",
+      "level": 2,
+      "name": {
+        "local": "Magwi",
+        "en": "Magwi",
+        "slug": "magwi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0207",
+        "level": 2,
+        "name": {
+          "local": "Magwi",
+          "en": "Magwi",
+          "slug": "magwi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.614",
+      "lon": "32.221"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020704",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nimule",
+      "en": "Nimule",
+      "slug": "nimule"
+    },
+    "code": {
+      "id": "SS020704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0207",
+      "level": 2,
+      "name": {
+        "local": "Magwi",
+        "en": "Magwi",
+        "slug": "magwi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0207",
+        "level": 2,
+        "name": {
+          "local": "Magwi",
+          "en": "Magwi",
+          "slug": "magwi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.624",
+      "lon": "32.064"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020705",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pageri",
+      "en": "Pageri",
+      "slug": "pageri"
+    },
+    "code": {
+      "id": "SS020705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0207",
+      "level": 2,
+      "name": {
+        "local": "Magwi",
+        "en": "Magwi",
+        "slug": "magwi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0207",
+        "level": 2,
+        "name": {
+          "local": "Magwi",
+          "en": "Magwi",
+          "slug": "magwi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.015",
+      "lon": "32.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020706",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pajok",
+      "en": "Pajok",
+      "slug": "pajok"
+    },
+    "code": {
+      "id": "SS020706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0207",
+      "level": 2,
+      "name": {
+        "local": "Magwi",
+        "en": "Magwi",
+        "slug": "magwi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0207",
+        "level": 2,
+        "name": {
+          "local": "Magwi",
+          "en": "Magwi",
+          "slug": "magwi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.848",
+      "lon": "32.449"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

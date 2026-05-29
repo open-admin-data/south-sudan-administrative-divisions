@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS060801",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Aliiny",
+      "en": "Aliiny",
+      "slug": "aliiny"
+    },
+    "code": {
+      "id": "SS060801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0608",
+      "level": 2,
+      "name": {
+        "local": "Pariang",
+        "en": "Pariang",
+        "slug": "pariang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0608",
+        "level": 2,
+        "name": {
+          "local": "Pariang",
+          "en": "Pariang",
+          "slug": "pariang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.9",
+      "lon": "29.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060802",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Biu",
+      "en": "Biu",
+      "slug": "biu"
+    },
+    "code": {
+      "id": "SS060802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0608",
+      "level": 2,
+      "name": {
+        "local": "Pariang",
+        "en": "Pariang",
+        "slug": "pariang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0608",
+        "level": 2,
+        "name": {
+          "local": "Pariang",
+          "en": "Pariang",
+          "slug": "pariang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.598",
+      "lon": "30.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060803",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jamjang",
+      "en": "Jamjang",
+      "slug": "jamjang"
+    },
+    "code": {
+      "id": "SS060803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0608",
+      "level": 2,
+      "name": {
+        "local": "Pariang",
+        "en": "Pariang",
+        "slug": "pariang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0608",
+        "level": 2,
+        "name": {
+          "local": "Pariang",
+          "en": "Pariang",
+          "slug": "pariang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.876",
+      "lon": "30.27"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060804",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyeel",
+      "en": "Nyeel",
+      "slug": "nyeel"
+    },
+    "code": {
+      "id": "SS060804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0608",
+      "level": 2,
+      "name": {
+        "local": "Pariang",
+        "en": "Pariang",
+        "slug": "pariang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0608",
+        "level": 2,
+        "name": {
+          "local": "Pariang",
+          "en": "Pariang",
+          "slug": "pariang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.718",
+      "lon": "29.855"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060805",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pariang",
+      "en": "Pariang",
+      "slug": "pariang"
+    },
+    "code": {
+      "id": "SS060805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0608",
+      "level": 2,
+      "name": {
+        "local": "Pariang",
+        "en": "Pariang",
+        "slug": "pariang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0608",
+        "level": 2,
+        "name": {
+          "local": "Pariang",
+          "en": "Pariang",
+          "slug": "pariang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.912",
+      "lon": "29.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060806",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Werthen",
+      "en": "Werthen",
+      "slug": "werthen"
+    },
+    "code": {
+      "id": "SS060806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0608",
+      "level": 2,
+      "name": {
+        "local": "Pariang",
+        "en": "Pariang",
+        "slug": "pariang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0608",
+        "level": 2,
+        "name": {
+          "local": "Pariang",
+          "en": "Pariang",
+          "slug": "pariang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.119",
+      "lon": "29.957"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060807",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wunkur",
+      "en": "Wunkur",
+      "slug": "wunkur"
+    },
+    "code": {
+      "id": "SS060807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0608",
+      "level": 2,
+      "name": {
+        "local": "Pariang",
+        "en": "Pariang",
+        "slug": "pariang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0608",
+        "level": 2,
+        "name": {
+          "local": "Pariang",
+          "en": "Pariang",
+          "slug": "pariang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.702",
+      "lon": "30.654"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

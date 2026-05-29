@@ -1,0 +1,47 @@
+{
+  "id": "SS0408",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Yirol West",
+    "en": "Yirol West",
+    "slug": "yirol-west"
+  },
+  "code": {
+    "id": "SS0408",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS04",
+    "level": 1,
+    "name": {
+      "local": "Lakes",
+      "en": "Lakes",
+      "slug": "lakes"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.386",
+    "lon": "30.483"
+  },
+  "metadata": {},
+  "source": {}
+}

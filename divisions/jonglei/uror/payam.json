@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SS031101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Karam",
+      "en": "Karam",
+      "slug": "karam"
+    },
+    "code": {
+      "id": "SS031101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0311",
+      "level": 2,
+      "name": {
+        "local": "Uror",
+        "en": "Uror",
+        "slug": "uror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0311",
+        "level": 2,
+        "name": {
+          "local": "Uror",
+          "en": "Uror",
+          "slug": "uror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.245",
+      "lon": "31.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Motot",
+      "en": "Motot",
+      "slug": "motot"
+    },
+    "code": {
+      "id": "SS031102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0311",
+      "level": 2,
+      "name": {
+        "local": "Uror",
+        "en": "Uror",
+        "slug": "uror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0311",
+        "level": 2,
+        "name": {
+          "local": "Uror",
+          "en": "Uror",
+          "slug": "uror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.226",
+      "lon": "32.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pathai",
+      "en": "Pathai",
+      "slug": "pathai"
+    },
+    "code": {
+      "id": "SS031103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0311",
+      "level": 2,
+      "name": {
+        "local": "Uror",
+        "en": "Uror",
+        "slug": "uror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0311",
+        "level": 2,
+        "name": {
+          "local": "Uror",
+          "en": "Uror",
+          "slug": "uror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.074",
+      "lon": "31.746"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Payai",
+      "en": "Payai",
+      "slug": "payai"
+    },
+    "code": {
+      "id": "SS031104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0311",
+      "level": 2,
+      "name": {
+        "local": "Uror",
+        "en": "Uror",
+        "slug": "uror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0311",
+        "level": 2,
+        "name": {
+          "local": "Uror",
+          "en": "Uror",
+          "slug": "uror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.536",
+      "lon": "32.222"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pieri",
+      "en": "Pieri",
+      "slug": "pieri"
+    },
+    "code": {
+      "id": "SS031105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0311",
+      "level": 2,
+      "name": {
+        "local": "Uror",
+        "en": "Uror",
+        "slug": "uror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0311",
+        "level": 2,
+        "name": {
+          "local": "Uror",
+          "en": "Uror",
+          "slug": "uror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.601",
+      "lon": "32.363"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031106",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Puolchuol",
+      "en": "Puolchuol",
+      "slug": "puolchuol"
+    },
+    "code": {
+      "id": "SS031106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0311",
+      "level": 2,
+      "name": {
+        "local": "Uror",
+        "en": "Uror",
+        "slug": "uror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0311",
+        "level": 2,
+        "name": {
+          "local": "Uror",
+          "en": "Uror",
+          "slug": "uror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.115",
+      "lon": "31.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031107",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tiam",
+      "en": "Tiam",
+      "slug": "tiam"
+    },
+    "code": {
+      "id": "SS031107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0311",
+      "level": 2,
+      "name": {
+        "local": "Uror",
+        "en": "Uror",
+        "slug": "uror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0311",
+        "level": 2,
+        "name": {
+          "local": "Uror",
+          "en": "Uror",
+          "slug": "uror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.471",
+      "lon": "31.857"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS031108",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Uror",
+      "en": "Uror",
+      "slug": "uror"
+    },
+    "code": {
+      "id": "SS031108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0311",
+      "level": 2,
+      "name": {
+        "local": "Uror",
+        "en": "Uror",
+        "slug": "uror"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0311",
+        "level": 2,
+        "name": {
+          "local": "Uror",
+          "en": "Uror",
+          "slug": "uror"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.861",
+      "lon": "31.797"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

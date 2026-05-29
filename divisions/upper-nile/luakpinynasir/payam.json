@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SS070401",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dingkar",
+      "en": "Dingkar",
+      "slug": "dingkar"
+    },
+    "code": {
+      "id": "SS070401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0704",
+      "level": 2,
+      "name": {
+        "local": "Luakpiny/Nasir",
+        "en": "Luakpiny/Nasir",
+        "slug": "luakpinynasir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0704",
+        "level": 2,
+        "name": {
+          "local": "Luakpiny/Nasir",
+          "en": "Luakpiny/Nasir",
+          "slug": "luakpinynasir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.751",
+      "lon": "32.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070402",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jikmir",
+      "en": "Jikmir",
+      "slug": "jikmir"
+    },
+    "code": {
+      "id": "SS070402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0704",
+      "level": 2,
+      "name": {
+        "local": "Luakpiny/Nasir",
+        "en": "Luakpiny/Nasir",
+        "slug": "luakpinynasir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0704",
+        "level": 2,
+        "name": {
+          "local": "Luakpiny/Nasir",
+          "en": "Luakpiny/Nasir",
+          "slug": "luakpinynasir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.58",
+      "lon": "33.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070403",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kiech Kuon",
+      "en": "Kiech Kuon",
+      "slug": "kiech-kuon"
+    },
+    "code": {
+      "id": "SS070403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0704",
+      "level": 2,
+      "name": {
+        "local": "Luakpiny/Nasir",
+        "en": "Luakpiny/Nasir",
+        "slug": "luakpinynasir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0704",
+        "level": 2,
+        "name": {
+          "local": "Luakpiny/Nasir",
+          "en": "Luakpiny/Nasir",
+          "slug": "luakpinynasir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.969",
+      "lon": "33.003"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070404",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kuerenge-Ke",
+      "en": "Kuerenge-Ke",
+      "slug": "kuerenge-ke"
+    },
+    "code": {
+      "id": "SS070404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0704",
+      "level": 2,
+      "name": {
+        "local": "Luakpiny/Nasir",
+        "en": "Luakpiny/Nasir",
+        "slug": "luakpinynasir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0704",
+        "level": 2,
+        "name": {
+          "local": "Luakpiny/Nasir",
+          "en": "Luakpiny/Nasir",
+          "slug": "luakpinynasir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.514",
+      "lon": "33.145"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070405",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mading",
+      "en": "Mading",
+      "slug": "mading"
+    },
+    "code": {
+      "id": "SS070405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0704",
+      "level": 2,
+      "name": {
+        "local": "Luakpiny/Nasir",
+        "en": "Luakpiny/Nasir",
+        "slug": "luakpinynasir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0704",
+        "level": 2,
+        "name": {
+          "local": "Luakpiny/Nasir",
+          "en": "Luakpiny/Nasir",
+          "slug": "luakpinynasir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.884",
+      "lon": "33.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070406",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Maker",
+      "en": "Maker",
+      "slug": "maker"
+    },
+    "code": {
+      "id": "SS070406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0704",
+      "level": 2,
+      "name": {
+        "local": "Luakpiny/Nasir",
+        "en": "Luakpiny/Nasir",
+        "slug": "luakpinynasir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0704",
+        "level": 2,
+        "name": {
+          "local": "Luakpiny/Nasir",
+          "en": "Luakpiny/Nasir",
+          "slug": "luakpinynasir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.642",
+      "lon": "33.465"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070407",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nasir",
+      "en": "Nasir",
+      "slug": "nasir"
+    },
+    "code": {
+      "id": "SS070407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0704",
+      "level": 2,
+      "name": {
+        "local": "Luakpiny/Nasir",
+        "en": "Luakpiny/Nasir",
+        "slug": "luakpinynasir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0704",
+        "level": 2,
+        "name": {
+          "local": "Luakpiny/Nasir",
+          "en": "Luakpiny/Nasir",
+          "slug": "luakpinynasir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.63",
+      "lon": "33.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS070408",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Roam",
+      "en": "Roam",
+      "slug": "roam"
+    },
+    "code": {
+      "id": "SS070408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0704",
+      "level": 2,
+      "name": {
+        "local": "Luakpiny/Nasir",
+        "en": "Luakpiny/Nasir",
+        "slug": "luakpinynasir"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0704",
+        "level": 2,
+        "name": {
+          "local": "Luakpiny/Nasir",
+          "en": "Luakpiny/Nasir",
+          "slug": "luakpinynasir"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.917",
+      "lon": "33.079"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

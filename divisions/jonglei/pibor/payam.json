@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SS030801",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Boma",
+      "en": "Boma",
+      "slug": "boma"
+    },
+    "code": {
+      "id": "SS030801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0308",
+      "level": 2,
+      "name": {
+        "local": "Pibor",
+        "en": "Pibor",
+        "slug": "pibor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0308",
+        "level": 2,
+        "name": {
+          "local": "Pibor",
+          "en": "Pibor",
+          "slug": "pibor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.458",
+      "lon": "34.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030802",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Gumuruk",
+      "en": "Gumuruk",
+      "slug": "gumuruk"
+    },
+    "code": {
+      "id": "SS030802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0308",
+      "level": 2,
+      "name": {
+        "local": "Pibor",
+        "en": "Pibor",
+        "slug": "pibor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0308",
+        "level": 2,
+        "name": {
+          "local": "Pibor",
+          "en": "Pibor",
+          "slug": "pibor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.437",
+      "lon": "32.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030803",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kiziongora",
+      "en": "Kiziongora",
+      "slug": "kiziongora"
+    },
+    "code": {
+      "id": "SS030803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0308",
+      "level": 2,
+      "name": {
+        "local": "Pibor",
+        "en": "Pibor",
+        "slug": "pibor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0308",
+        "level": 2,
+        "name": {
+          "local": "Pibor",
+          "en": "Pibor",
+          "slug": "pibor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.225",
+      "lon": "34.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030804",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lekuangole",
+      "en": "Lekuangole",
+      "slug": "lekuangole"
+    },
+    "code": {
+      "id": "SS030804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0308",
+      "level": 2,
+      "name": {
+        "local": "Pibor",
+        "en": "Pibor",
+        "slug": "pibor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0308",
+        "level": 2,
+        "name": {
+          "local": "Pibor",
+          "en": "Pibor",
+          "slug": "pibor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.124",
+      "lon": "32.91"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030805",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Marow",
+      "en": "Marow",
+      "slug": "marow"
+    },
+    "code": {
+      "id": "SS030805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0308",
+      "level": 2,
+      "name": {
+        "local": "Pibor",
+        "en": "Pibor",
+        "slug": "pibor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0308",
+        "level": 2,
+        "name": {
+          "local": "Pibor",
+          "en": "Pibor",
+          "slug": "pibor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.535",
+      "lon": "34.047"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030806",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mewun",
+      "en": "Mewun",
+      "slug": "mewun"
+    },
+    "code": {
+      "id": "SS030806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0308",
+      "level": 2,
+      "name": {
+        "local": "Pibor",
+        "en": "Pibor",
+        "slug": "pibor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0308",
+        "level": 2,
+        "name": {
+          "local": "Pibor",
+          "en": "Pibor",
+          "slug": "pibor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.176",
+      "lon": "34.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030807",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pibor",
+      "en": "Pibor",
+      "slug": "pibor"
+    },
+    "code": {
+      "id": "SS030807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0308",
+      "level": 2,
+      "name": {
+        "local": "Pibor",
+        "en": "Pibor",
+        "slug": "pibor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0308",
+        "level": 2,
+        "name": {
+          "local": "Pibor",
+          "en": "Pibor",
+          "slug": "pibor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.595",
+      "lon": "33.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030808",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Verteth",
+      "en": "Verteth",
+      "slug": "verteth"
+    },
+    "code": {
+      "id": "SS030808",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0308",
+      "level": 2,
+      "name": {
+        "local": "Pibor",
+        "en": "Pibor",
+        "slug": "pibor"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0308",
+        "level": 2,
+        "name": {
+          "local": "Pibor",
+          "en": "Pibor",
+          "slug": "pibor"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.251",
+      "lon": "33.272"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

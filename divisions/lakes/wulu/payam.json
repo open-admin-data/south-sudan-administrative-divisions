@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SS040601",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bargel",
+      "en": "Bargel",
+      "slug": "bargel"
+    },
+    "code": {
+      "id": "SS040601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0406",
+      "level": 2,
+      "name": {
+        "local": "Wulu",
+        "en": "Wulu",
+        "slug": "wulu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0406",
+        "level": 2,
+        "name": {
+          "local": "Wulu",
+          "en": "Wulu",
+          "slug": "wulu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.27",
+      "lon": "29.027"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040602",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Domoloto",
+      "en": "Domoloto",
+      "slug": "domoloto"
+    },
+    "code": {
+      "id": "SS040602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0406",
+      "level": 2,
+      "name": {
+        "local": "Wulu",
+        "en": "Wulu",
+        "slug": "wulu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0406",
+        "level": 2,
+        "name": {
+          "local": "Wulu",
+          "en": "Wulu",
+          "slug": "wulu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.057",
+      "lon": "29.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040603",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Makundi",
+      "en": "Makundi",
+      "slug": "makundi"
+    },
+    "code": {
+      "id": "SS040603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0406",
+      "level": 2,
+      "name": {
+        "local": "Wulu",
+        "en": "Wulu",
+        "slug": "wulu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0406",
+        "level": 2,
+        "name": {
+          "local": "Wulu",
+          "en": "Wulu",
+          "slug": "wulu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.338",
+      "lon": "29.88"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040604",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wulu",
+      "en": "Wulu",
+      "slug": "wulu"
+    },
+    "code": {
+      "id": "SS040604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0406",
+      "level": 2,
+      "name": {
+        "local": "Wulu",
+        "en": "Wulu",
+        "slug": "wulu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0406",
+        "level": 2,
+        "name": {
+          "local": "Wulu",
+          "en": "Wulu",
+          "slug": "wulu"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.445",
+      "lon": "29.563"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

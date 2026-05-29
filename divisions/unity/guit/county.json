@@ -1,0 +1,47 @@
+{
+  "id": "SS0602",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Guit",
+    "en": "Guit",
+    "slug": "guit"
+  },
+  "code": {
+    "id": "SS0602",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS06",
+    "level": 1,
+    "name": {
+      "local": "Unity",
+      "en": "Unity",
+      "slug": "unity"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.198",
+    "lon": "30.103"
+  },
+  "metadata": {},
+  "source": {}
+}

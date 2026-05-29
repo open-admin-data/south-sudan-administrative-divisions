@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS020201",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Hatire",
+      "en": "Hatire",
+      "slug": "hatire"
+    },
+    "code": {
+      "id": "SS020201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0202",
+      "level": 2,
+      "name": {
+        "local": "Ikotos",
+        "en": "Ikotos",
+        "slug": "ikotos"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0202",
+        "level": 2,
+        "name": {
+          "local": "Ikotos",
+          "en": "Ikotos",
+          "slug": "ikotos"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.978",
+      "lon": "32.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020202",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ikotos",
+      "en": "Ikotos",
+      "slug": "ikotos"
+    },
+    "code": {
+      "id": "SS020202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0202",
+      "level": 2,
+      "name": {
+        "local": "Ikotos",
+        "en": "Ikotos",
+        "slug": "ikotos"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0202",
+        "level": 2,
+        "name": {
+          "local": "Ikotos",
+          "en": "Ikotos",
+          "slug": "ikotos"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.02",
+      "lon": "33.077"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020203",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Imotong",
+      "en": "Imotong",
+      "slug": "imotong"
+    },
+    "code": {
+      "id": "SS020203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0202",
+      "level": 2,
+      "name": {
+        "local": "Ikotos",
+        "en": "Ikotos",
+        "slug": "ikotos"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0202",
+        "level": 2,
+        "name": {
+          "local": "Ikotos",
+          "en": "Ikotos",
+          "slug": "ikotos"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.21",
+      "lon": "32.853"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020204",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lomohidang North",
+      "en": "Lomohidang North",
+      "slug": "lomohidang-north"
+    },
+    "code": {
+      "id": "SS020204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0202",
+      "level": 2,
+      "name": {
+        "local": "Ikotos",
+        "en": "Ikotos",
+        "slug": "ikotos"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0202",
+        "level": 2,
+        "name": {
+          "local": "Ikotos",
+          "en": "Ikotos",
+          "slug": "ikotos"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.288",
+      "lon": "33.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020205",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lomohidang South",
+      "en": "Lomohidang South",
+      "slug": "lomohidang-south"
+    },
+    "code": {
+      "id": "SS020205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0202",
+      "level": 2,
+      "name": {
+        "local": "Ikotos",
+        "en": "Ikotos",
+        "slug": "ikotos"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0202",
+        "level": 2,
+        "name": {
+          "local": "Ikotos",
+          "en": "Ikotos",
+          "slug": "ikotos"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.172",
+      "lon": "33.173"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020206",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Losite",
+      "en": "Losite",
+      "slug": "losite"
+    },
+    "code": {
+      "id": "SS020206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0202",
+      "level": 2,
+      "name": {
+        "local": "Ikotos",
+        "en": "Ikotos",
+        "slug": "ikotos"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0202",
+        "level": 2,
+        "name": {
+          "local": "Ikotos",
+          "en": "Ikotos",
+          "slug": "ikotos"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.921",
+      "lon": "33.401"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

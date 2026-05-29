@@ -1,0 +1,190 @@
+# Northern Bahr el Ghazal — South Sudan Administrative Divisions
+
+> 5 countys, 39 payams
+> Code: SS05
+> Coordinates: 8.894, 27.086
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Countys
+
+### Aweil Centre
+
+Code: SS0501, Coordinates: 8.427, 27.011
+Payams: 7
+
+#### Abul
+
+Code: SS050101, Coordinates: 8.191, 26.933
+
+#### Achana
+
+Code: SS050102, Coordinates: 8.435, 26.516
+
+#### Aroyo
+
+Code: SS050103, Coordinates: 8.58, 26.95
+
+#### Awiil
+
+Code: SS050104, Coordinates: 8.691, 27.379
+
+#### Bahr Mayen
+
+Code: SS050105, Coordinates: 8.45, 27.59
+
+#### Chel South
+
+Code: SS050106, Coordinates: 8.765, 26.764
+
+#### Nyalath
+
+Code: SS050107, Coordinates: 8.476, 27.273
+
+### Aweil East
+
+Code: SS0502, Coordinates: 9.179, 27.608
+Payams: 8
+
+#### Baach
+
+Code: SS050201, Coordinates: 9.217, 27.524
+
+#### Madhol
+
+Code: SS050202, Coordinates: 9.201, 27.721
+
+#### Malual-bai
+
+Code: SS050203, Coordinates: 9.234, 27.862
+
+#### Mangar-tong I
+
+Code: SS050204, Coordinates: 9.307, 27.453
+
+#### Mangok
+
+Code: SS050205, Coordinates: 9.086, 27.349
+
+#### Mayom-wel
+
+Code: SS050208, Coordinates: 8.818, 27.543
+
+#### Wunlang
+
+Code: SS050206, Coordinates: 9.161, 27.428
+
+#### Yargot
+
+Code: SS050207, Coordinates: 9.221, 27.347
+
+### Aweil North
+
+Code: SS0503, Coordinates: 9.406, 26.766
+Payams: 5
+
+#### Ariath
+
+Code: SS050301, Coordinates: 9.196, 27.153
+
+#### Malual Centre
+
+Code: SS050302, Coordinates: 9.386, 27.028
+
+#### Malual East
+
+Code: SS050303, Coordinates: 9.271, 27.184
+
+#### Malual North
+
+Code: SS050304, Coordinates: 9.34, 26.849
+
+#### Malual West
+
+Code: SS050305, Coordinates: 9.446, 26.515
+
+### Aweil South
+
+Code: SS0504, Coordinates: 8.666, 27.7
+Payams: 9
+
+#### Ayai
+
+Code: SS050401, Coordinates: 8.781, 27.685
+
+#### Gakrol
+
+Code: SS050402, Coordinates: 8.577, 27.678
+
+#### Nyieth
+
+Code: SS050403, Coordinates: 8.808, 27.779
+
+#### Nyocawany I
+
+Code: SS050404, Coordinates: 8.717, 27.545
+
+#### Nyocawany II
+
+Code: SS050405, Coordinates: 8.526, 27.587
+
+#### Panthou
+
+Code: SS050406, Coordinates: 8.722, 27.784
+
+#### Tar-weng
+
+Code: SS050407, Coordinates: 8.594, 27.811
+
+#### Tiar-aleit
+
+Code: SS050408, Coordinates: 8.796, 27.912
+
+#### Wathmuok
+
+Code: SS050409, Coordinates: 8.657, 27.552
+
+### Aweil West
+
+Code: SS0505, Coordinates: 8.906, 26.784
+Payams: 10
+
+#### Achana 2
+
+Code: SS050501, Coordinates: 8.906, 26.329
+
+#### Aweil Town
+
+Code: SS050502, Coordinates: 8.765, 27.394
+
+#### Ayat Centre
+
+Code: SS050503, Coordinates: 8.973, 26.666
+
+#### Ayat East
+
+Code: SS050504, Coordinates: 9.057, 26.839
+
+#### Ayat West
+
+Code: SS050505, Coordinates: 8.943, 26.481
+
+#### Gomjuer Centre
+
+Code: SS050506, Coordinates: 9.042, 26.996
+
+#### Gomjuer East
+
+Code: SS050507, Coordinates: 9.032, 27.106
+
+#### Gomjuer West
+
+Code: SS050508, Coordinates: 8.977, 26.829
+
+#### Mariem East
+
+Code: SS050509, Coordinates: 8.805, 27.298
+
+#### Mariem West
+
+Code: SS050510, Coordinates: 8.851, 27.148
+

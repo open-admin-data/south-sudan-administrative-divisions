@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS071007",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Anakdiar",
+      "en": "Anakdiar",
+      "slug": "anakdiar"
+    },
+    "code": {
+      "id": "SS071007",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0710",
+      "level": 2,
+      "name": {
+        "local": "Panyikang",
+        "en": "Panyikang",
+        "slug": "panyikang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0710",
+        "level": 2,
+        "name": {
+          "local": "Panyikang",
+          "en": "Panyikang",
+          "slug": "panyikang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.377",
+      "lon": "31.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071001",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dheteim",
+      "en": "Dheteim",
+      "slug": "dheteim"
+    },
+    "code": {
+      "id": "SS071001",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0710",
+      "level": 2,
+      "name": {
+        "local": "Panyikang",
+        "en": "Panyikang",
+        "slug": "panyikang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0710",
+        "level": 2,
+        "name": {
+          "local": "Panyikang",
+          "en": "Panyikang",
+          "slug": "panyikang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.592",
+      "lon": "31.483"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071002",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kuel",
+      "en": "Kuel",
+      "slug": "kuel"
+    },
+    "code": {
+      "id": "SS071002",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0710",
+      "level": 2,
+      "name": {
+        "local": "Panyikang",
+        "en": "Panyikang",
+        "slug": "panyikang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0710",
+        "level": 2,
+        "name": {
+          "local": "Panyikang",
+          "en": "Panyikang",
+          "slug": "panyikang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.106",
+      "lon": "31.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071003",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pakang",
+      "en": "Pakang",
+      "slug": "pakang"
+    },
+    "code": {
+      "id": "SS071003",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0710",
+      "level": 2,
+      "name": {
+        "local": "Panyikang",
+        "en": "Panyikang",
+        "slug": "panyikang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0710",
+        "level": 2,
+        "name": {
+          "local": "Panyikang",
+          "en": "Panyikang",
+          "slug": "panyikang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.557",
+      "lon": "31.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071004",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Panyidwoi",
+      "en": "Panyidwoi",
+      "slug": "panyidwoi"
+    },
+    "code": {
+      "id": "SS071004",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0710",
+      "level": 2,
+      "name": {
+        "local": "Panyikang",
+        "en": "Panyikang",
+        "slug": "panyikang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0710",
+        "level": 2,
+        "name": {
+          "local": "Panyikang",
+          "en": "Panyikang",
+          "slug": "panyikang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.353",
+      "lon": "31.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071005",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Panyikang",
+      "en": "Panyikang",
+      "slug": "panyikang"
+    },
+    "code": {
+      "id": "SS071005",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0710",
+      "level": 2,
+      "name": {
+        "local": "Panyikang",
+        "en": "Panyikang",
+        "slug": "panyikang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0710",
+        "level": 2,
+        "name": {
+          "local": "Panyikang",
+          "en": "Panyikang",
+          "slug": "panyikang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.551",
+      "lon": "31.251"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071006",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tonga",
+      "en": "Tonga",
+      "slug": "tonga"
+    },
+    "code": {
+      "id": "SS071006",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0710",
+      "level": 2,
+      "name": {
+        "local": "Panyikang",
+        "en": "Panyikang",
+        "slug": "panyikang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0710",
+        "level": 2,
+        "name": {
+          "local": "Panyikang",
+          "en": "Panyikang",
+          "slug": "panyikang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.582",
+      "lon": "30.981"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "SS0903",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Wau",
+    "en": "Wau",
+    "slug": "wau"
+  },
+  "code": {
+    "id": "SS0903",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS09",
+    "level": 1,
+    "name": {
+      "local": "Western Bahr el Ghazal",
+      "en": "Western Bahr el Ghazal",
+      "slug": "western-bahr-el-ghazal"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS09",
+      "level": 1,
+      "name": {
+        "local": "Western Bahr el Ghazal",
+        "en": "Western Bahr el Ghazal",
+        "slug": "western-bahr-el-ghazal"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.398",
+    "lon": "27.269"
+  },
+  "metadata": {},
+  "source": {}
+}

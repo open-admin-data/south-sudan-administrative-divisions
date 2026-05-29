@@ -1,0 +1,488 @@
+[
+  {
+    "id": "SS060502",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bor 2",
+      "en": "Bor 2",
+      "slug": "bor-2"
+    },
+    "code": {
+      "id": "SS060502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0605",
+      "level": 2,
+      "name": {
+        "local": "Mayendit",
+        "en": "Mayendit",
+        "slug": "mayendit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0605",
+        "level": 2,
+        "name": {
+          "local": "Mayendit",
+          "en": "Mayendit",
+          "slug": "mayendit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.12",
+      "lon": "30.036"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060503",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dablual",
+      "en": "Dablual",
+      "slug": "dablual"
+    },
+    "code": {
+      "id": "SS060503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0605",
+      "level": 2,
+      "name": {
+        "local": "Mayendit",
+        "en": "Mayendit",
+        "slug": "mayendit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0605",
+        "level": 2,
+        "name": {
+          "local": "Mayendit",
+          "en": "Mayendit",
+          "slug": "mayendit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.297",
+      "lon": "30.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060504",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Luom",
+      "en": "Luom",
+      "slug": "luom"
+    },
+    "code": {
+      "id": "SS060504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0605",
+      "level": 2,
+      "name": {
+        "local": "Mayendit",
+        "en": "Mayendit",
+        "slug": "mayendit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0605",
+        "level": 2,
+        "name": {
+          "local": "Mayendit",
+          "en": "Mayendit",
+          "slug": "mayendit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.467",
+      "lon": "30.228"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060505",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Maal",
+      "en": "Maal",
+      "slug": "maal"
+    },
+    "code": {
+      "id": "SS060505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0605",
+      "level": 2,
+      "name": {
+        "local": "Mayendit",
+        "en": "Mayendit",
+        "slug": "mayendit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0605",
+        "level": 2,
+        "name": {
+          "local": "Mayendit",
+          "en": "Mayendit",
+          "slug": "mayendit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.115",
+      "lon": "29.839"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060501",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pabuong",
+      "en": "Pabuong",
+      "slug": "pabuong"
+    },
+    "code": {
+      "id": "SS060501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0605",
+      "level": 2,
+      "name": {
+        "local": "Mayendit",
+        "en": "Mayendit",
+        "slug": "mayendit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0605",
+        "level": 2,
+        "name": {
+          "local": "Mayendit",
+          "en": "Mayendit",
+          "slug": "mayendit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.912",
+      "lon": "29.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060506",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Rubkuay",
+      "en": "Rubkuay",
+      "slug": "rubkuay"
+    },
+    "code": {
+      "id": "SS060506",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0605",
+      "level": 2,
+      "name": {
+        "local": "Mayendit",
+        "en": "Mayendit",
+        "slug": "mayendit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0605",
+        "level": 2,
+        "name": {
+          "local": "Mayendit",
+          "en": "Mayendit",
+          "slug": "mayendit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.411",
+      "lon": "30.076"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060507",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Thaker",
+      "en": "Thaker",
+      "slug": "thaker"
+    },
+    "code": {
+      "id": "SS060507",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0605",
+      "level": 2,
+      "name": {
+        "local": "Mayendit",
+        "en": "Mayendit",
+        "slug": "mayendit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0605",
+        "level": 2,
+        "name": {
+          "local": "Mayendit",
+          "en": "Mayendit",
+          "slug": "mayendit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.402",
+      "lon": "30.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060508",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tharjiath",
+      "en": "Tharjiath",
+      "slug": "tharjiath"
+    },
+    "code": {
+      "id": "SS060508",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0605",
+      "level": 2,
+      "name": {
+        "local": "Mayendit",
+        "en": "Mayendit",
+        "slug": "mayendit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0605",
+        "level": 2,
+        "name": {
+          "local": "Mayendit",
+          "en": "Mayendit",
+          "slug": "mayendit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.267",
+      "lon": "29.835"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS060509",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tutnyang",
+      "en": "Tutnyang",
+      "slug": "tutnyang"
+    },
+    "code": {
+      "id": "SS060509",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0605",
+      "level": 2,
+      "name": {
+        "local": "Mayendit",
+        "en": "Mayendit",
+        "slug": "mayendit"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      },
+      {
+        "id": "SS0605",
+        "level": 2,
+        "name": {
+          "local": "Mayendit",
+          "en": "Mayendit",
+          "slug": "mayendit"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.357",
+      "lon": "30.096"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

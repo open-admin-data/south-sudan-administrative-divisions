@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS040801",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Abang",
+      "en": "Abang",
+      "slug": "abang"
+    },
+    "code": {
+      "id": "SS040801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0408",
+      "level": 2,
+      "name": {
+        "local": "Yirol West",
+        "en": "Yirol West",
+        "slug": "yirol-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0408",
+        "level": 2,
+        "name": {
+          "local": "Yirol West",
+          "en": "Yirol West",
+          "slug": "yirol-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.583",
+      "lon": "30.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040802",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Aluakluak",
+      "en": "Aluakluak",
+      "slug": "aluakluak"
+    },
+    "code": {
+      "id": "SS040802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0408",
+      "level": 2,
+      "name": {
+        "local": "Yirol West",
+        "en": "Yirol West",
+        "slug": "yirol-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0408",
+        "level": 2,
+        "name": {
+          "local": "Yirol West",
+          "en": "Yirol West",
+          "slug": "yirol-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.46",
+      "lon": "30.06"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040803",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Anuol",
+      "en": "Anuol",
+      "slug": "anuol"
+    },
+    "code": {
+      "id": "SS040803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0408",
+      "level": 2,
+      "name": {
+        "local": "Yirol West",
+        "en": "Yirol West",
+        "slug": "yirol-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0408",
+        "level": 2,
+        "name": {
+          "local": "Yirol West",
+          "en": "Yirol West",
+          "slug": "yirol-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.221",
+      "lon": "30.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040804",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Geng-geng",
+      "en": "Geng-geng",
+      "slug": "geng-geng"
+    },
+    "code": {
+      "id": "SS040804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0408",
+      "level": 2,
+      "name": {
+        "local": "Yirol West",
+        "en": "Yirol West",
+        "slug": "yirol-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0408",
+        "level": 2,
+        "name": {
+          "local": "Yirol West",
+          "en": "Yirol West",
+          "slug": "yirol-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.453",
+      "lon": "30.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040805",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Gher",
+      "en": "Gher",
+      "slug": "gher"
+    },
+    "code": {
+      "id": "SS040805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0408",
+      "level": 2,
+      "name": {
+        "local": "Yirol West",
+        "en": "Yirol West",
+        "slug": "yirol-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0408",
+        "level": 2,
+        "name": {
+          "local": "Yirol West",
+          "en": "Yirol West",
+          "slug": "yirol-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.473",
+      "lon": "30.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040806",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mapuordit",
+      "en": "Mapuordit",
+      "slug": "mapuordit"
+    },
+    "code": {
+      "id": "SS040806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0408",
+      "level": 2,
+      "name": {
+        "local": "Yirol West",
+        "en": "Yirol West",
+        "slug": "yirol-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0408",
+        "level": 2,
+        "name": {
+          "local": "Yirol West",
+          "en": "Yirol West",
+          "slug": "yirol-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.307",
+      "lon": "30.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040807",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Yirol",
+      "en": "Yirol",
+      "slug": "yirol"
+    },
+    "code": {
+      "id": "SS040807",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0408",
+      "level": 2,
+      "name": {
+        "local": "Yirol West",
+        "en": "Yirol West",
+        "slug": "yirol-west"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0408",
+        "level": 2,
+        "name": {
+          "local": "Yirol West",
+          "en": "Yirol West",
+          "slug": "yirol-west"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.5",
+      "lon": "30.395"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

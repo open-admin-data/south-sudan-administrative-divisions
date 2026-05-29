@@ -1,0 +1,30 @@
+{
+  "id": "SS01",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Central Equatoria",
+    "en": "Central Equatoria",
+    "slug": "central-equatoria"
+  },
+  "code": {
+    "id": "SS01",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 6,
+    "payam": 46
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.869",
+    "lon": "30.985"
+  },
+  "metadata": {},
+  "source": {}
+}

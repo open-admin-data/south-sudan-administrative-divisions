@@ -1,0 +1,164 @@
+[
+  {
+    "id": "SS100901",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mupoi",
+      "en": "Mupoi",
+      "slug": "mupoi"
+    },
+    "code": {
+      "id": "SS100901",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1009",
+      "level": 2,
+      "name": {
+        "local": "Tambura",
+        "en": "Tambura",
+        "slug": "tambura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1009",
+        "level": 2,
+        "name": {
+          "local": "Tambura",
+          "en": "Tambura",
+          "slug": "tambura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.57",
+      "lon": "27.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100903",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Source Yubu",
+      "en": "Source Yubu",
+      "slug": "source-yubu"
+    },
+    "code": {
+      "id": "SS100903",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1009",
+      "level": 2,
+      "name": {
+        "local": "Tambura",
+        "en": "Tambura",
+        "slug": "tambura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1009",
+        "level": 2,
+        "name": {
+          "local": "Tambura",
+          "en": "Tambura",
+          "slug": "tambura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.44",
+      "lon": "27.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100904",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tambura",
+      "en": "Tambura",
+      "slug": "tambura"
+    },
+    "code": {
+      "id": "SS100904",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1009",
+      "level": 2,
+      "name": {
+        "local": "Tambura",
+        "en": "Tambura",
+        "slug": "tambura"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1009",
+        "level": 2,
+        "name": {
+          "local": "Tambura",
+          "en": "Tambura",
+          "slug": "tambura"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.797",
+      "lon": "27.618"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

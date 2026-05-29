@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS080101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyang",
+      "en": "Nyang",
+      "slug": "nyang"
+    },
+    "code": {
+      "id": "SS080101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0801",
+      "level": 2,
+      "name": {
+        "local": "Gogrial East",
+        "en": "Gogrial East",
+        "slug": "gogrial-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0801",
+        "level": 2,
+        "name": {
+          "local": "Gogrial East",
+          "en": "Gogrial East",
+          "slug": "gogrial-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.588",
+      "lon": "28.608"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pathuon East",
+      "en": "Pathuon East",
+      "slug": "pathuon-east"
+    },
+    "code": {
+      "id": "SS080102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0801",
+      "level": 2,
+      "name": {
+        "local": "Gogrial East",
+        "en": "Gogrial East",
+        "slug": "gogrial-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0801",
+        "level": 2,
+        "name": {
+          "local": "Gogrial East",
+          "en": "Gogrial East",
+          "slug": "gogrial-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.334",
+      "lon": "28.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pathuon West",
+      "en": "Pathuon West",
+      "slug": "pathuon-west"
+    },
+    "code": {
+      "id": "SS080103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0801",
+      "level": 2,
+      "name": {
+        "local": "Gogrial East",
+        "en": "Gogrial East",
+        "slug": "gogrial-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0801",
+        "level": 2,
+        "name": {
+          "local": "Gogrial East",
+          "en": "Gogrial East",
+          "slug": "gogrial-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.18",
+      "lon": "28.312"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Toch East",
+      "en": "Toch East",
+      "slug": "toch-east"
+    },
+    "code": {
+      "id": "SS080104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0801",
+      "level": 2,
+      "name": {
+        "local": "Gogrial East",
+        "en": "Gogrial East",
+        "slug": "gogrial-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0801",
+        "level": 2,
+        "name": {
+          "local": "Gogrial East",
+          "en": "Gogrial East",
+          "slug": "gogrial-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.681",
+      "lon": "28.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Toch North",
+      "en": "Toch North",
+      "slug": "toch-north"
+    },
+    "code": {
+      "id": "SS080105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0801",
+      "level": 2,
+      "name": {
+        "local": "Gogrial East",
+        "en": "Gogrial East",
+        "slug": "gogrial-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0801",
+        "level": 2,
+        "name": {
+          "local": "Gogrial East",
+          "en": "Gogrial East",
+          "slug": "gogrial-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.679",
+      "lon": "28.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080106",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Toch West",
+      "en": "Toch West",
+      "slug": "toch-west"
+    },
+    "code": {
+      "id": "SS080106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0801",
+      "level": 2,
+      "name": {
+        "local": "Gogrial East",
+        "en": "Gogrial East",
+        "slug": "gogrial-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0801",
+        "level": 2,
+        "name": {
+          "local": "Gogrial East",
+          "en": "Gogrial East",
+          "slug": "gogrial-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.482",
+      "lon": "28.321"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

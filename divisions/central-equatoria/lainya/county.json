@@ -1,0 +1,47 @@
+{
+  "id": "SS0103",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Lainya",
+    "en": "Lainya",
+    "slug": "lainya"
+  },
+  "code": {
+    "id": "SS0103",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS01",
+    "level": 1,
+    "name": {
+      "local": "Central Equatoria",
+      "en": "Central Equatoria",
+      "slug": "central-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS01",
+      "level": 1,
+      "name": {
+        "local": "Central Equatoria",
+        "en": "Central Equatoria",
+        "slug": "central-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.203",
+    "lon": "30.836"
+  },
+  "metadata": {},
+  "source": {}
+}

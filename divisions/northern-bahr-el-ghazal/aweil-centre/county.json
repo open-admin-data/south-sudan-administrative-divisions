@@ -1,0 +1,47 @@
+{
+  "id": "SS0501",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Aweil Centre",
+    "en": "Aweil Centre",
+    "slug": "aweil-centre"
+  },
+  "code": {
+    "id": "SS0501",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS05",
+    "level": 1,
+    "name": {
+      "local": "Northern Bahr el Ghazal",
+      "en": "Northern Bahr el Ghazal",
+      "slug": "northern-bahr-el-ghazal"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS05",
+      "level": 1,
+      "name": {
+        "local": "Northern Bahr el Ghazal",
+        "en": "Northern Bahr el Ghazal",
+        "slug": "northern-bahr-el-ghazal"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.427",
+    "lon": "27.011"
+  },
+  "metadata": {},
+  "source": {}
+}

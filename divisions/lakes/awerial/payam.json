@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SS040101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Abuyong",
+      "en": "Abuyong",
+      "slug": "abuyong"
+    },
+    "code": {
+      "id": "SS040101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0401",
+      "level": 2,
+      "name": {
+        "local": "Awerial",
+        "en": "Awerial",
+        "slug": "awerial"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0401",
+        "level": 2,
+        "name": {
+          "local": "Awerial",
+          "en": "Awerial",
+          "slug": "awerial"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.399",
+      "lon": "31.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040108",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Alel I",
+      "en": "Alel I",
+      "slug": "alel-i"
+    },
+    "code": {
+      "id": "SS040108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0401",
+      "level": 2,
+      "name": {
+        "local": "Awerial",
+        "en": "Awerial",
+        "slug": "awerial"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0401",
+        "level": 2,
+        "name": {
+          "local": "Awerial",
+          "en": "Awerial",
+          "slug": "awerial"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.25",
+      "lon": "31.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Alel II",
+      "en": "Alel II",
+      "slug": "alel-ii"
+    },
+    "code": {
+      "id": "SS040102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0401",
+      "level": 2,
+      "name": {
+        "local": "Awerial",
+        "en": "Awerial",
+        "slug": "awerial"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0401",
+        "level": 2,
+        "name": {
+          "local": "Awerial",
+          "en": "Awerial",
+          "slug": "awerial"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.248",
+      "lon": "30.942"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bun-agok",
+      "en": "Bun-agok",
+      "slug": "bun-agok"
+    },
+    "code": {
+      "id": "SS040103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0401",
+      "level": 2,
+      "name": {
+        "local": "Awerial",
+        "en": "Awerial",
+        "slug": "awerial"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0401",
+        "level": 2,
+        "name": {
+          "local": "Awerial",
+          "en": "Awerial",
+          "slug": "awerial"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.169",
+      "lon": "30.893"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Dor",
+      "en": "Dor",
+      "slug": "dor"
+    },
+    "code": {
+      "id": "SS040104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0401",
+      "level": 2,
+      "name": {
+        "local": "Awerial",
+        "en": "Awerial",
+        "slug": "awerial"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0401",
+        "level": 2,
+        "name": {
+          "local": "Awerial",
+          "en": "Awerial",
+          "slug": "awerial"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.033",
+      "lon": "31.212"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Magok",
+      "en": "Magok",
+      "slug": "magok"
+    },
+    "code": {
+      "id": "SS040105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0401",
+      "level": 2,
+      "name": {
+        "local": "Awerial",
+        "en": "Awerial",
+        "slug": "awerial"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0401",
+        "level": 2,
+        "name": {
+          "local": "Awerial",
+          "en": "Awerial",
+          "slug": "awerial"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.005",
+      "lon": "31.091"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040106",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nile",
+      "en": "Nile",
+      "slug": "nile"
+    },
+    "code": {
+      "id": "SS040106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0401",
+      "level": 2,
+      "name": {
+        "local": "Awerial",
+        "en": "Awerial",
+        "slug": "awerial"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0401",
+        "level": 2,
+        "name": {
+          "local": "Awerial",
+          "en": "Awerial",
+          "slug": "awerial"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.205",
+      "lon": "31.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040107",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Puluk",
+      "en": "Puluk",
+      "slug": "puluk"
+    },
+    "code": {
+      "id": "SS040107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0401",
+      "level": 2,
+      "name": {
+        "local": "Awerial",
+        "en": "Awerial",
+        "slug": "awerial"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0401",
+        "level": 2,
+        "name": {
+          "local": "Awerial",
+          "en": "Awerial",
+          "slug": "awerial"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.986",
+      "lon": "31.495"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

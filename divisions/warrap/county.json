@@ -1,0 +1,284 @@
+[
+  {
+    "id": "SS0801",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gogrial East",
+      "en": "Gogrial East",
+      "slug": "gogrial-east"
+    },
+    "code": {
+      "id": "SS0801",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS08",
+      "level": 1,
+      "name": {
+        "local": "Warrap",
+        "en": "Warrap",
+        "slug": "warrap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.516",
+      "lon": "28.659"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0802",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Gogrial West",
+      "en": "Gogrial West",
+      "slug": "gogrial-west"
+    },
+    "code": {
+      "id": "SS0802",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS08",
+      "level": 1,
+      "name": {
+        "local": "Warrap",
+        "en": "Warrap",
+        "slug": "warrap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.576",
+      "lon": "28.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0803",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tonj East",
+      "en": "Tonj East",
+      "slug": "tonj-east"
+    },
+    "code": {
+      "id": "SS0803",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS08",
+      "level": 1,
+      "name": {
+        "local": "Warrap",
+        "en": "Warrap",
+        "slug": "warrap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.837",
+      "lon": "29.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0804",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tonj North",
+      "en": "Tonj North",
+      "slug": "tonj-north"
+    },
+    "code": {
+      "id": "SS0804",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS08",
+      "level": 1,
+      "name": {
+        "local": "Warrap",
+        "en": "Warrap",
+        "slug": "warrap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.246",
+      "lon": "28.924"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0805",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Tonj South",
+      "en": "Tonj South",
+      "slug": "tonj-south"
+    },
+    "code": {
+      "id": "SS0805",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS08",
+      "level": 1,
+      "name": {
+        "local": "Warrap",
+        "en": "Warrap",
+        "slug": "warrap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.089",
+      "lon": "28.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0806",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Twic",
+      "en": "Twic",
+      "slug": "twic"
+    },
+    "code": {
+      "id": "SS0806",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS08",
+      "level": 1,
+      "name": {
+        "local": "Warrap",
+        "en": "Warrap",
+        "slug": "warrap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.063",
+      "lon": "28.374"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

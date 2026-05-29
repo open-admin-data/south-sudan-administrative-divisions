@@ -1,0 +1,47 @@
+{
+  "id": "SS0101",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Juba",
+    "en": "Juba",
+    "slug": "juba"
+  },
+  "code": {
+    "id": "SS0101",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS01",
+    "level": 1,
+    "name": {
+      "local": "Central Equatoria",
+      "en": "Central Equatoria",
+      "slug": "central-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS01",
+      "level": 1,
+      "name": {
+        "local": "Central Equatoria",
+        "en": "Central Equatoria",
+        "slug": "central-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.711",
+    "lon": "31.343"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS080601",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ajak-kuac",
+      "en": "Ajak-kuac",
+      "slug": "ajak-kuac"
+    },
+    "code": {
+      "id": "SS080601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0806",
+      "level": 2,
+      "name": {
+        "local": "Twic",
+        "en": "Twic",
+        "slug": "twic"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0806",
+        "level": 2,
+        "name": {
+          "local": "Twic",
+          "en": "Twic",
+          "slug": "twic"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.237",
+      "lon": "28.685"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080602",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Akoc",
+      "en": "Akoc",
+      "slug": "akoc"
+    },
+    "code": {
+      "id": "SS080602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0806",
+      "level": 2,
+      "name": {
+        "local": "Twic",
+        "en": "Twic",
+        "slug": "twic"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0806",
+        "level": 2,
+        "name": {
+          "local": "Twic",
+          "en": "Twic",
+          "slug": "twic"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.172",
+      "lon": "28.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080603",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Aweeng",
+      "en": "Aweeng",
+      "slug": "aweeng"
+    },
+    "code": {
+      "id": "SS080603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0806",
+      "level": 2,
+      "name": {
+        "local": "Twic",
+        "en": "Twic",
+        "slug": "twic"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0806",
+        "level": 2,
+        "name": {
+          "local": "Twic",
+          "en": "Twic",
+          "slug": "twic"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.067",
+      "lon": "28.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080604",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pannyok",
+      "en": "Pannyok",
+      "slug": "pannyok"
+    },
+    "code": {
+      "id": "SS080604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0806",
+      "level": 2,
+      "name": {
+        "local": "Twic",
+        "en": "Twic",
+        "slug": "twic"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0806",
+        "level": 2,
+        "name": {
+          "local": "Twic",
+          "en": "Twic",
+          "slug": "twic"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.145",
+      "lon": "28.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080605",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Turalei",
+      "en": "Turalei",
+      "slug": "turalei"
+    },
+    "code": {
+      "id": "SS080605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0806",
+      "level": 2,
+      "name": {
+        "local": "Twic",
+        "en": "Twic",
+        "slug": "twic"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0806",
+        "level": 2,
+        "name": {
+          "local": "Twic",
+          "en": "Twic",
+          "slug": "twic"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.061",
+      "lon": "28.451"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080606",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wunrok",
+      "en": "Wunrok",
+      "slug": "wunrok"
+    },
+    "code": {
+      "id": "SS080606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0806",
+      "level": 2,
+      "name": {
+        "local": "Twic",
+        "en": "Twic",
+        "slug": "twic"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0806",
+        "level": 2,
+        "name": {
+          "local": "Twic",
+          "en": "Twic",
+          "slug": "twic"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.117",
+      "lon": "28.358"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

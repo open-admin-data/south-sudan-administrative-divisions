@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS020301",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Jie",
+      "en": "Jie",
+      "slug": "jie"
+    },
+    "code": {
+      "id": "SS020301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0203",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta East",
+        "en": "Kapoeta East",
+        "slug": "kapoeta-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0203",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta East",
+          "en": "Kapoeta East",
+          "slug": "kapoeta-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.467",
+      "lon": "33.946"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020302",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Katodori",
+      "en": "Katodori",
+      "slug": "katodori"
+    },
+    "code": {
+      "id": "SS020302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0203",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta East",
+        "en": "Kapoeta East",
+        "slug": "kapoeta-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0203",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta East",
+          "en": "Kapoeta East",
+          "slug": "kapoeta-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.693",
+      "lon": "33.867"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020303",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kauto",
+      "en": "Kauto",
+      "slug": "kauto"
+    },
+    "code": {
+      "id": "SS020303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0203",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta East",
+        "en": "Kapoeta East",
+        "slug": "kapoeta-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0203",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta East",
+          "en": "Kapoeta East",
+          "slug": "kapoeta-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.475",
+      "lon": "34.537"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020304",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lotimor",
+      "en": "Lotimor",
+      "slug": "lotimor"
+    },
+    "code": {
+      "id": "SS020304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0203",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta East",
+        "en": "Kapoeta East",
+        "slug": "kapoeta-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0203",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta East",
+          "en": "Kapoeta East",
+          "slug": "kapoeta-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.447",
+      "lon": "35.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020305",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mogos",
+      "en": "Mogos",
+      "slug": "mogos"
+    },
+    "code": {
+      "id": "SS020305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0203",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta East",
+        "en": "Kapoeta East",
+        "slug": "kapoeta-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0203",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta East",
+          "en": "Kapoeta East",
+          "slug": "kapoeta-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.1",
+      "lon": "33.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020306",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Narus",
+      "en": "Narus",
+      "slug": "narus"
+    },
+    "code": {
+      "id": "SS020306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0203",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta East",
+        "en": "Kapoeta East",
+        "slug": "kapoeta-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0203",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta East",
+          "en": "Kapoeta East",
+          "slug": "kapoeta-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.816",
+      "lon": "34.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020307",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Natinga",
+      "en": "Natinga",
+      "slug": "natinga"
+    },
+    "code": {
+      "id": "SS020307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0203",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta East",
+        "en": "Kapoeta East",
+        "slug": "kapoeta-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0203",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta East",
+          "en": "Kapoeta East",
+          "slug": "kapoeta-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.37",
+      "lon": "33.979"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

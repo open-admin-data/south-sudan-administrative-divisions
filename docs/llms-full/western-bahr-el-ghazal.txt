@@ -1,0 +1,84 @@
+# Western Bahr el Ghazal — South Sudan Administrative Divisions
+
+> 3 countys, 15 payams
+> Code: SS09
+> Coordinates: 8.541, 26.343
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Countys
+
+### Jur River
+
+Code: SS0901, Coordinates: 7.62, 27.89
+Payams: 6
+
+#### Kangi
+
+Code: SS090101, Coordinates: 8.222, 27.581
+
+#### Kuajiena
+
+Code: SS090103, Coordinates: 7.22, 28.259
+
+#### Marial Bai
+
+Code: SS090104, Coordinates: 7.849, 28.041
+
+#### Rocrocdong
+
+Code: SS090105, Coordinates: 7.484, 28.134
+
+#### Udici
+
+Code: SS090106, Coordinates: 7.953, 27.669
+
+#### Wau Bai
+
+Code: SS090107, Coordinates: 7.942, 28.019
+
+### Raja
+
+Code: SS0902, Coordinates: 8.541, 25.54
+Payams: 4
+
+#### Ere
+
+Code: SS090201, Coordinates: 9.514, 25.387
+
+#### Raga
+
+Code: SS090202, Coordinates: 8.531, 25.697
+
+#### Ringi
+
+Code: SS090203, Coordinates: 8.536, 24.801
+
+#### Uyujuku
+
+Code: SS090204, Coordinates: 7.541, 26.048
+
+### Wau
+
+Code: SS0903, Coordinates: 7.398, 27.269
+Payams: 5
+
+#### Bagari
+
+Code: SS090301, Coordinates: 7.227, 27.255
+
+#### Besselia
+
+Code: SS090302, Coordinates: 7.872, 27.431
+
+#### Kpaile
+
+Code: SS090303, Coordinates: 7.094, 27.517
+
+#### Wau North
+
+Code: SS090304, Coordinates: 7.713, 27.98
+
+#### Wau South
+
+Code: SS090305, Coordinates: 7.655, 28.005
+

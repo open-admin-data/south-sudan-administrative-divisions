@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS100201",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ibba Centre",
+      "en": "Ibba Centre",
+      "slug": "ibba-centre"
+    },
+    "code": {
+      "id": "SS100201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1002",
+      "level": 2,
+      "name": {
+        "local": "Ibba",
+        "en": "Ibba",
+        "slug": "ibba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1002",
+        "level": 2,
+        "name": {
+          "local": "Ibba",
+          "en": "Ibba",
+          "slug": "ibba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.689",
+      "lon": "29.254"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100202",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Madebe",
+      "en": "Madebe",
+      "slug": "madebe"
+    },
+    "code": {
+      "id": "SS100202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1002",
+      "level": 2,
+      "name": {
+        "local": "Ibba",
+        "en": "Ibba",
+        "slug": "ibba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1002",
+        "level": 2,
+        "name": {
+          "local": "Ibba",
+          "en": "Ibba",
+          "slug": "ibba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.772",
+      "lon": "28.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100203",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Manikakara",
+      "en": "Manikakara",
+      "slug": "manikakara"
+    },
+    "code": {
+      "id": "SS100203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1002",
+      "level": 2,
+      "name": {
+        "local": "Ibba",
+        "en": "Ibba",
+        "slug": "ibba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1002",
+        "level": 2,
+        "name": {
+          "local": "Ibba",
+          "en": "Ibba",
+          "slug": "ibba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.252",
+      "lon": "29.105"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100204",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Maruko",
+      "en": "Maruko",
+      "slug": "maruko"
+    },
+    "code": {
+      "id": "SS100204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1002",
+      "level": 2,
+      "name": {
+        "local": "Ibba",
+        "en": "Ibba",
+        "slug": "ibba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1002",
+        "level": 2,
+        "name": {
+          "local": "Ibba",
+          "en": "Ibba",
+          "slug": "ibba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.268",
+      "lon": "28.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100205",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nabanga",
+      "en": "Nabanga",
+      "slug": "nabanga"
+    },
+    "code": {
+      "id": "SS100205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1002",
+      "level": 2,
+      "name": {
+        "local": "Ibba",
+        "en": "Ibba",
+        "slug": "ibba"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1002",
+        "level": 2,
+        "name": {
+          "local": "Ibba",
+          "en": "Ibba",
+          "slug": "ibba"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.477",
+      "lon": "29.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

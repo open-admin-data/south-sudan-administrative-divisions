@@ -1,0 +1,47 @@
+{
+  "id": "SS0601",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Abiemnhom",
+    "en": "Abiemnhom",
+    "slug": "abiemnhom"
+  },
+  "code": {
+    "id": "SS0601",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS06",
+    "level": 1,
+    "name": {
+      "local": "Unity",
+      "en": "Unity",
+      "slug": "unity"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.53",
+    "lon": "29.153"
+  },
+  "metadata": {},
+  "source": {}
+}

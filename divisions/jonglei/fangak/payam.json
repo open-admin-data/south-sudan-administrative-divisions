@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS030601",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Manajang",
+      "en": "Manajang",
+      "slug": "manajang"
+    },
+    "code": {
+      "id": "SS030601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0306",
+      "level": 2,
+      "name": {
+        "local": "Fangak",
+        "en": "Fangak",
+        "slug": "fangak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0306",
+        "level": 2,
+        "name": {
+          "local": "Fangak",
+          "en": "Fangak",
+          "slug": "fangak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.322",
+      "lon": "30.912"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030602",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mareang",
+      "en": "Mareang",
+      "slug": "mareang"
+    },
+    "code": {
+      "id": "SS030602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0306",
+      "level": 2,
+      "name": {
+        "local": "Fangak",
+        "en": "Fangak",
+        "slug": "fangak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0306",
+        "level": 2,
+        "name": {
+          "local": "Fangak",
+          "en": "Fangak",
+          "slug": "fangak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.801",
+      "lon": "30.555"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030603",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Old Fangak",
+      "en": "Old Fangak",
+      "slug": "old-fangak"
+    },
+    "code": {
+      "id": "SS030603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0306",
+      "level": 2,
+      "name": {
+        "local": "Fangak",
+        "en": "Fangak",
+        "slug": "fangak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0306",
+        "level": 2,
+        "name": {
+          "local": "Fangak",
+          "en": "Fangak",
+          "slug": "fangak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.031",
+      "lon": "30.96"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030604",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Paguir",
+      "en": "Paguir",
+      "slug": "paguir"
+    },
+    "code": {
+      "id": "SS030604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0306",
+      "level": 2,
+      "name": {
+        "local": "Fangak",
+        "en": "Fangak",
+        "slug": "fangak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0306",
+        "level": 2,
+        "name": {
+          "local": "Fangak",
+          "en": "Fangak",
+          "slug": "fangak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.156",
+      "lon": "30.521"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030605",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Phom",
+      "en": "Phom",
+      "slug": "phom"
+    },
+    "code": {
+      "id": "SS030605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0306",
+      "level": 2,
+      "name": {
+        "local": "Fangak",
+        "en": "Fangak",
+        "slug": "fangak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0306",
+        "level": 2,
+        "name": {
+          "local": "Fangak",
+          "en": "Fangak",
+          "slug": "fangak"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.389",
+      "lon": "31.144"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

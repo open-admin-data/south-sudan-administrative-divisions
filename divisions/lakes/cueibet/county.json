@@ -1,0 +1,47 @@
+{
+  "id": "SS0402",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Cueibet",
+    "en": "Cueibet",
+    "slug": "cueibet"
+  },
+  "code": {
+    "id": "SS0402",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS04",
+    "level": 1,
+    "name": {
+      "local": "Lakes",
+      "en": "Lakes",
+      "slug": "lakes"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.096",
+    "lon": "29.231"
+  },
+  "metadata": {},
+  "source": {}
+}

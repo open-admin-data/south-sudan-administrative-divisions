@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS030201",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ayod",
+      "en": "Ayod",
+      "slug": "ayod"
+    },
+    "code": {
+      "id": "SS030201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0302",
+      "level": 2,
+      "name": {
+        "local": "Ayod",
+        "en": "Ayod",
+        "slug": "ayod"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0302",
+        "level": 2,
+        "name": {
+          "local": "Ayod",
+          "en": "Ayod",
+          "slug": "ayod"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.248",
+      "lon": "31.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030203",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kuach-deng",
+      "en": "Kuach-deng",
+      "slug": "kuach-deng"
+    },
+    "code": {
+      "id": "SS030203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0302",
+      "level": 2,
+      "name": {
+        "local": "Ayod",
+        "en": "Ayod",
+        "slug": "ayod"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0302",
+        "level": 2,
+        "name": {
+          "local": "Ayod",
+          "en": "Ayod",
+          "slug": "ayod"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.233",
+      "lon": "31.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030202",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kurwai",
+      "en": "Kurwai",
+      "slug": "kurwai"
+    },
+    "code": {
+      "id": "SS030202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0302",
+      "level": 2,
+      "name": {
+        "local": "Ayod",
+        "en": "Ayod",
+        "slug": "ayod"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0302",
+        "level": 2,
+        "name": {
+          "local": "Ayod",
+          "en": "Ayod",
+          "slug": "ayod"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.521",
+      "lon": "30.716"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030204",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mogok",
+      "en": "Mogok",
+      "slug": "mogok"
+    },
+    "code": {
+      "id": "SS030204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0302",
+      "level": 2,
+      "name": {
+        "local": "Ayod",
+        "en": "Ayod",
+        "slug": "ayod"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0302",
+        "level": 2,
+        "name": {
+          "local": "Ayod",
+          "en": "Ayod",
+          "slug": "ayod"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.532",
+      "lon": "31.308"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030205",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pagil",
+      "en": "Pagil",
+      "slug": "pagil"
+    },
+    "code": {
+      "id": "SS030205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0302",
+      "level": 2,
+      "name": {
+        "local": "Ayod",
+        "en": "Ayod",
+        "slug": "ayod"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0302",
+        "level": 2,
+        "name": {
+          "local": "Ayod",
+          "en": "Ayod",
+          "slug": "ayod"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.711",
+      "lon": "31.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030206",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pajiek",
+      "en": "Pajiek",
+      "slug": "pajiek"
+    },
+    "code": {
+      "id": "SS030206",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0302",
+      "level": 2,
+      "name": {
+        "local": "Ayod",
+        "en": "Ayod",
+        "slug": "ayod"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0302",
+        "level": 2,
+        "name": {
+          "local": "Ayod",
+          "en": "Ayod",
+          "slug": "ayod"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.968",
+      "lon": "30.899"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030207",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wau",
+      "en": "Wau",
+      "slug": "wau"
+    },
+    "code": {
+      "id": "SS030207",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0302",
+      "level": 2,
+      "name": {
+        "local": "Ayod",
+        "en": "Ayod",
+        "slug": "ayod"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0302",
+        "level": 2,
+        "name": {
+          "local": "Ayod",
+          "en": "Ayod",
+          "slug": "ayod"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.256",
+      "lon": "30.848"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "SS0709",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Melut",
+    "en": "Melut",
+    "slug": "melut"
+  },
+  "code": {
+    "id": "SS0709",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS07",
+    "level": 1,
+    "name": {
+      "local": "Upper Nile",
+      "en": "Upper Nile",
+      "slug": "upper-nile"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.371",
+    "lon": "32.557"
+  },
+  "metadata": {},
+  "source": {}
+}

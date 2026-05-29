@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS040701",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Adior",
+      "en": "Adior",
+      "slug": "adior"
+    },
+    "code": {
+      "id": "SS040701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0407",
+      "level": 2,
+      "name": {
+        "local": "Yirol East",
+        "en": "Yirol East",
+        "slug": "yirol-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0407",
+        "level": 2,
+        "name": {
+          "local": "Yirol East",
+          "en": "Yirol East",
+          "slug": "yirol-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.962",
+      "lon": "30.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040702",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lekakedu",
+      "en": "Lekakedu",
+      "slug": "lekakedu"
+    },
+    "code": {
+      "id": "SS040702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0407",
+      "level": 2,
+      "name": {
+        "local": "Yirol East",
+        "en": "Yirol East",
+        "slug": "yirol-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0407",
+        "level": 2,
+        "name": {
+          "local": "Yirol East",
+          "en": "Yirol East",
+          "slug": "yirol-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.685",
+      "lon": "30.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040703",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Malek",
+      "en": "Malek",
+      "slug": "malek"
+    },
+    "code": {
+      "id": "SS040703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0407",
+      "level": 2,
+      "name": {
+        "local": "Yirol East",
+        "en": "Yirol East",
+        "slug": "yirol-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0407",
+        "level": 2,
+        "name": {
+          "local": "Yirol East",
+          "en": "Yirol East",
+          "slug": "yirol-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.604",
+      "lon": "31.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040704",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pagarau",
+      "en": "Pagarau",
+      "slug": "pagarau"
+    },
+    "code": {
+      "id": "SS040704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0407",
+      "level": 2,
+      "name": {
+        "local": "Yirol East",
+        "en": "Yirol East",
+        "slug": "yirol-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0407",
+        "level": 2,
+        "name": {
+          "local": "Yirol East",
+          "en": "Yirol East",
+          "slug": "yirol-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.879",
+      "lon": "30.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040705",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Tinagau",
+      "en": "Tinagau",
+      "slug": "tinagau"
+    },
+    "code": {
+      "id": "SS040705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0407",
+      "level": 2,
+      "name": {
+        "local": "Yirol East",
+        "en": "Yirol East",
+        "slug": "yirol-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0407",
+        "level": 2,
+        "name": {
+          "local": "Yirol East",
+          "en": "Yirol East",
+          "slug": "yirol-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.926",
+      "lon": "30.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040706",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Yali",
+      "en": "Yali",
+      "slug": "yali"
+    },
+    "code": {
+      "id": "SS040706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0407",
+      "level": 2,
+      "name": {
+        "local": "Yirol East",
+        "en": "Yirol East",
+        "slug": "yirol-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0407",
+        "level": 2,
+        "name": {
+          "local": "Yirol East",
+          "en": "Yirol East",
+          "slug": "yirol-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.664",
+      "lon": "30.442"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

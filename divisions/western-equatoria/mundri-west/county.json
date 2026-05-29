@@ -1,0 +1,47 @@
+{
+  "id": "SS1005",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Mundri West",
+    "en": "Mundri West",
+    "slug": "mundri-west"
+  },
+  "code": {
+    "id": "SS1005",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS10",
+    "level": 1,
+    "name": {
+      "local": "Western Equatoria",
+      "en": "Western Equatoria",
+      "slug": "western-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS10",
+      "level": 1,
+      "name": {
+        "local": "Western Equatoria",
+        "en": "Western Equatoria",
+        "slug": "western-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.152",
+    "lon": "30.175"
+  },
+  "metadata": {},
+  "source": {}
+}

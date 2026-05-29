@@ -1,0 +1,378 @@
+[
+  {
+    "id": "SS0401",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Awerial",
+      "en": "Awerial",
+      "slug": "awerial"
+    },
+    "code": {
+      "id": "SS0401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.188",
+      "lon": "31.155"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0402",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Cueibet",
+      "en": "Cueibet",
+      "slug": "cueibet"
+    },
+    "code": {
+      "id": "SS0402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.096",
+      "lon": "29.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0403",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rumbek Centre",
+      "en": "Rumbek Centre",
+      "slug": "rumbek-centre"
+    },
+    "code": {
+      "id": "SS0403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.986",
+      "lon": "29.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0404",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rumbek East",
+      "en": "Rumbek East",
+      "slug": "rumbek-east"
+    },
+    "code": {
+      "id": "SS0404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.745",
+      "lon": "29.969"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0405",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rumbek North",
+      "en": "Rumbek North",
+      "slug": "rumbek-north"
+    },
+    "code": {
+      "id": "SS0405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.541",
+      "lon": "29.657"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0406",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Wulu",
+      "en": "Wulu",
+      "slug": "wulu"
+    },
+    "code": {
+      "id": "SS0406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.219",
+      "lon": "29.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0407",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yirol East",
+      "en": "Yirol East",
+      "slug": "yirol-east"
+    },
+    "code": {
+      "id": "SS0407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.774",
+      "lon": "30.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0408",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yirol West",
+      "en": "Yirol West",
+      "slug": "yirol-west"
+    },
+    "code": {
+      "id": "SS0408",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS04",
+      "level": 1,
+      "name": {
+        "local": "Lakes",
+        "en": "Lakes",
+        "slug": "lakes"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.386",
+      "lon": "30.483"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

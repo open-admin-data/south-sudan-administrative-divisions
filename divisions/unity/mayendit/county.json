@@ -1,0 +1,47 @@
+{
+  "id": "SS0605",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Mayendit",
+    "en": "Mayendit",
+    "slug": "mayendit"
+  },
+  "code": {
+    "id": "SS0605",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS06",
+    "level": 1,
+    "name": {
+      "local": "Unity",
+      "en": "Unity",
+      "slug": "unity"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.125",
+    "lon": "30.01"
+  },
+  "metadata": {},
+  "source": {}
+}

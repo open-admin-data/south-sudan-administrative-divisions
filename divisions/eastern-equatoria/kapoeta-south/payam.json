@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS020501",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kapoeta Town",
+      "en": "Kapoeta Town",
+      "slug": "kapoeta-town"
+    },
+    "code": {
+      "id": "SS020501",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0205",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta South",
+        "en": "Kapoeta South",
+        "slug": "kapoeta-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0205",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta South",
+          "en": "Kapoeta South",
+          "slug": "kapoeta-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.791",
+      "lon": "33.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020502",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Longeleya",
+      "en": "Longeleya",
+      "slug": "longeleya"
+    },
+    "code": {
+      "id": "SS020502",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0205",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta South",
+        "en": "Kapoeta South",
+        "slug": "kapoeta-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0205",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta South",
+          "en": "Kapoeta South",
+          "slug": "kapoeta-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.663",
+      "lon": "33.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020503",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Machi One",
+      "en": "Machi One",
+      "slug": "machi-one"
+    },
+    "code": {
+      "id": "SS020503",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0205",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta South",
+        "en": "Kapoeta South",
+        "slug": "kapoeta-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0205",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta South",
+          "en": "Kapoeta South",
+          "slug": "kapoeta-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.689",
+      "lon": "33.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020504",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Machi Two",
+      "en": "Machi Two",
+      "slug": "machi-two"
+    },
+    "code": {
+      "id": "SS020504",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0205",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta South",
+        "en": "Kapoeta South",
+        "slug": "kapoeta-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0205",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta South",
+          "en": "Kapoeta South",
+          "slug": "kapoeta-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.745",
+      "lon": "33.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020505",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pwata",
+      "en": "Pwata",
+      "slug": "pwata"
+    },
+    "code": {
+      "id": "SS020505",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0205",
+      "level": 2,
+      "name": {
+        "local": "Kapoeta South",
+        "en": "Kapoeta South",
+        "slug": "kapoeta-south"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0205",
+        "level": 2,
+        "name": {
+          "local": "Kapoeta South",
+          "en": "Kapoeta South",
+          "slug": "kapoeta-south"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.449",
+      "lon": "33.763"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

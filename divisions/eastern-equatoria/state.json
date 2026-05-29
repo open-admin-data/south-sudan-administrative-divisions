@@ -1,0 +1,30 @@
+{
+  "id": "SS02",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Eastern Equatoria",
+    "en": "Eastern Equatoria",
+    "slug": "eastern-equatoria"
+  },
+  "code": {
+    "id": "SS02",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 8,
+    "payam": 53
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.756",
+    "lon": "33.838"
+  },
+  "metadata": {},
+  "source": {}
+}

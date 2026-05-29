@@ -1,0 +1,47 @@
+{
+  "id": "SS0609",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Rubkona",
+    "en": "Rubkona",
+    "slug": "rubkona"
+  },
+  "code": {
+    "id": "SS0609",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS06",
+    "level": 1,
+    "name": {
+      "local": "Unity",
+      "en": "Unity",
+      "slug": "unity"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.304",
+    "lon": "29.632"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,272 @@
+[
+  {
+    "id": "SS010201",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kangapo I",
+      "en": "Kangapo I",
+      "slug": "kangapo-i"
+    },
+    "code": {
+      "id": "SS010201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0102",
+      "level": 2,
+      "name": {
+        "local": "Kajo-keji",
+        "en": "Kajo-keji",
+        "slug": "kajo-keji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0102",
+        "level": 2,
+        "name": {
+          "local": "Kajo-keji",
+          "en": "Kajo-keji",
+          "slug": "kajo-keji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.828",
+      "lon": "31.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010202",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kangapo II",
+      "en": "Kangapo II",
+      "slug": "kangapo-ii"
+    },
+    "code": {
+      "id": "SS010202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0102",
+      "level": 2,
+      "name": {
+        "local": "Kajo-keji",
+        "en": "Kajo-keji",
+        "slug": "kajo-keji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0102",
+        "level": 2,
+        "name": {
+          "local": "Kajo-keji",
+          "en": "Kajo-keji",
+          "slug": "kajo-keji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.764",
+      "lon": "31.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010203",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lire",
+      "en": "Lire",
+      "slug": "lire"
+    },
+    "code": {
+      "id": "SS010203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0102",
+      "level": 2,
+      "name": {
+        "local": "Kajo-keji",
+        "en": "Kajo-keji",
+        "slug": "kajo-keji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0102",
+        "level": 2,
+        "name": {
+          "local": "Kajo-keji",
+          "en": "Kajo-keji",
+          "slug": "kajo-keji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.937",
+      "lon": "31.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010204",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Liwolo",
+      "en": "Liwolo",
+      "slug": "liwolo"
+    },
+    "code": {
+      "id": "SS010204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0102",
+      "level": 2,
+      "name": {
+        "local": "Kajo-keji",
+        "en": "Kajo-keji",
+        "slug": "kajo-keji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0102",
+        "level": 2,
+        "name": {
+          "local": "Kajo-keji",
+          "en": "Kajo-keji",
+          "slug": "kajo-keji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.905",
+      "lon": "31.306"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS010205",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyepo",
+      "en": "Nyepo",
+      "slug": "nyepo"
+    },
+    "code": {
+      "id": "SS010205",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0102",
+      "level": 2,
+      "name": {
+        "local": "Kajo-keji",
+        "en": "Kajo-keji",
+        "slug": "kajo-keji"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      },
+      {
+        "id": "SS0102",
+        "level": 2,
+        "name": {
+          "local": "Kajo-keji",
+          "en": "Kajo-keji",
+          "slug": "kajo-keji"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.992",
+      "lon": "31.511"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

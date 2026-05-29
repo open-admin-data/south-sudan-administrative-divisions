@@ -1,0 +1,218 @@
+[
+  {
+    "id": "SS071201",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Doma",
+      "en": "Doma",
+      "slug": "doma"
+    },
+    "code": {
+      "id": "SS071201",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0712",
+      "level": 2,
+      "name": {
+        "local": "Ulang",
+        "en": "Ulang",
+        "slug": "ulang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0712",
+        "level": 2,
+        "name": {
+          "local": "Ulang",
+          "en": "Ulang",
+          "slug": "ulang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.975",
+      "lon": "32.642"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071202",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kurmuot",
+      "en": "Kurmuot",
+      "slug": "kurmuot"
+    },
+    "code": {
+      "id": "SS071202",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0712",
+      "level": 2,
+      "name": {
+        "local": "Ulang",
+        "en": "Ulang",
+        "slug": "ulang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0712",
+        "level": 2,
+        "name": {
+          "local": "Ulang",
+          "en": "Ulang",
+          "slug": "ulang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.345",
+      "lon": "32.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071203",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ulang",
+      "en": "Ulang",
+      "slug": "ulang"
+    },
+    "code": {
+      "id": "SS071203",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0712",
+      "level": 2,
+      "name": {
+        "local": "Ulang",
+        "en": "Ulang",
+        "slug": "ulang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0712",
+        "level": 2,
+        "name": {
+          "local": "Ulang",
+          "en": "Ulang",
+          "slug": "ulang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.694",
+      "lon": "32.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS071204",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Yomding",
+      "en": "Yomding",
+      "slug": "yomding"
+    },
+    "code": {
+      "id": "SS071204",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0712",
+      "level": 2,
+      "name": {
+        "local": "Ulang",
+        "en": "Ulang",
+        "slug": "ulang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      },
+      {
+        "id": "SS0712",
+        "level": 2,
+        "name": {
+          "local": "Ulang",
+          "en": "Ulang",
+          "slug": "ulang"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.555",
+      "lon": "32.762"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

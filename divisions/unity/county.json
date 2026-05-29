@@ -1,0 +1,425 @@
+[
+  {
+    "id": "SS0601",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Abiemnhom",
+      "en": "Abiemnhom",
+      "slug": "abiemnhom"
+    },
+    "code": {
+      "id": "SS0601",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.53",
+      "lon": "29.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0602",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Guit",
+      "en": "Guit",
+      "slug": "guit"
+    },
+    "code": {
+      "id": "SS0602",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.198",
+      "lon": "30.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0603",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Koch",
+      "en": "Koch",
+      "slug": "koch"
+    },
+    "code": {
+      "id": "SS0603",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.602",
+      "lon": "29.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0604",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Leer",
+      "en": "Leer",
+      "slug": "leer"
+    },
+    "code": {
+      "id": "SS0604",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.189",
+      "lon": "30.246"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0605",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mayendit",
+      "en": "Mayendit",
+      "slug": "mayendit"
+    },
+    "code": {
+      "id": "SS0605",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.125",
+      "lon": "30.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0606",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Mayom",
+      "en": "Mayom",
+      "slug": "mayom"
+    },
+    "code": {
+      "id": "SS0606",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.075",
+      "lon": "29.151"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0607",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Panyijiar",
+      "en": "Panyijiar",
+      "slug": "panyijiar"
+    },
+    "code": {
+      "id": "SS0607",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.529",
+      "lon": "30.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0608",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Pariang",
+      "en": "Pariang",
+      "slug": "pariang"
+    },
+    "code": {
+      "id": "SS0608",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.838",
+      "lon": "30.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0609",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Rubkona",
+      "en": "Rubkona",
+      "slug": "rubkona"
+    },
+    "code": {
+      "id": "SS0609",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS06",
+      "level": 1,
+      "name": {
+        "local": "Unity",
+        "en": "Unity",
+        "slug": "unity"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS06",
+        "level": 1,
+        "name": {
+          "local": "Unity",
+          "en": "Unity",
+          "slug": "unity"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.304",
+      "lon": "29.632"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

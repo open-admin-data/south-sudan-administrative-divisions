@@ -1,0 +1,47 @@
+{
+  "id": "SS0309",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Pochalla",
+    "en": "Pochalla",
+    "slug": "pochalla"
+  },
+  "code": {
+    "id": "SS0309",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS03",
+    "level": 1,
+    "name": {
+      "local": "Jonglei",
+      "en": "Jonglei",
+      "slug": "jonglei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS03",
+      "level": 1,
+      "name": {
+        "local": "Jonglei",
+        "en": "Jonglei",
+        "slug": "jonglei"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.205",
+    "lon": "33.88"
+  },
+  "metadata": {},
+  "source": {}
+}

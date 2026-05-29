@@ -1,0 +1,47 @@
+{
+  "id": "SS0706",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Maiwut",
+    "en": "Maiwut",
+    "slug": "maiwut"
+  },
+  "code": {
+    "id": "SS0706",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS07",
+    "level": 1,
+    "name": {
+      "local": "Upper Nile",
+      "en": "Upper Nile",
+      "slug": "upper-nile"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.784",
+    "lon": "33.805"
+  },
+  "metadata": {},
+  "source": {}
+}

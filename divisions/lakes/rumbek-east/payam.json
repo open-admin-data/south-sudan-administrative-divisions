@@ -1,0 +1,380 @@
+[
+  {
+    "id": "SS040401",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Aduel",
+      "en": "Aduel",
+      "slug": "aduel"
+    },
+    "code": {
+      "id": "SS040401",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0404",
+      "level": 2,
+      "name": {
+        "local": "Rumbek East",
+        "en": "Rumbek East",
+        "slug": "rumbek-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0404",
+        "level": 2,
+        "name": {
+          "local": "Rumbek East",
+          "en": "Rumbek East",
+          "slug": "rumbek-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.517",
+      "lon": "29.823"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040402",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Akot",
+      "en": "Akot",
+      "slug": "akot"
+    },
+    "code": {
+      "id": "SS040402",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0404",
+      "level": 2,
+      "name": {
+        "local": "Rumbek East",
+        "en": "Rumbek East",
+        "slug": "rumbek-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0404",
+        "level": 2,
+        "name": {
+          "local": "Rumbek East",
+          "en": "Rumbek East",
+          "slug": "rumbek-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.499",
+      "lon": "30.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040403",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Atiaba",
+      "en": "Atiaba",
+      "slug": "atiaba"
+    },
+    "code": {
+      "id": "SS040403",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0404",
+      "level": 2,
+      "name": {
+        "local": "Rumbek East",
+        "en": "Rumbek East",
+        "slug": "rumbek-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0404",
+        "level": 2,
+        "name": {
+          "local": "Rumbek East",
+          "en": "Rumbek East",
+          "slug": "rumbek-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.595",
+      "lon": "29.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040404",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Cueicok",
+      "en": "Cueicok",
+      "slug": "cueicok"
+    },
+    "code": {
+      "id": "SS040404",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0404",
+      "level": 2,
+      "name": {
+        "local": "Rumbek East",
+        "en": "Rumbek East",
+        "slug": "rumbek-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0404",
+        "level": 2,
+        "name": {
+          "local": "Rumbek East",
+          "en": "Rumbek East",
+          "slug": "rumbek-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.74",
+      "lon": "29.782"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040405",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Maleng-agok",
+      "en": "Maleng-agok",
+      "slug": "maleng-agok"
+    },
+    "code": {
+      "id": "SS040405",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0404",
+      "level": 2,
+      "name": {
+        "local": "Rumbek East",
+        "en": "Rumbek East",
+        "slug": "rumbek-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0404",
+        "level": 2,
+        "name": {
+          "local": "Rumbek East",
+          "en": "Rumbek East",
+          "slug": "rumbek-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.63",
+      "lon": "29.689"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040406",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pacong",
+      "en": "Pacong",
+      "slug": "pacong"
+    },
+    "code": {
+      "id": "SS040406",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0404",
+      "level": 2,
+      "name": {
+        "local": "Rumbek East",
+        "en": "Rumbek East",
+        "slug": "rumbek-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0404",
+        "level": 2,
+        "name": {
+          "local": "Rumbek East",
+          "en": "Rumbek East",
+          "slug": "rumbek-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.624",
+      "lon": "29.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS040407",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Paloc",
+      "en": "Paloc",
+      "slug": "paloc"
+    },
+    "code": {
+      "id": "SS040407",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0404",
+      "level": 2,
+      "name": {
+        "local": "Rumbek East",
+        "en": "Rumbek East",
+        "slug": "rumbek-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS04",
+        "level": 1,
+        "name": {
+          "local": "Lakes",
+          "en": "Lakes",
+          "slug": "lakes"
+        }
+      },
+      {
+        "id": "SS0404",
+        "level": 2,
+        "name": {
+          "local": "Rumbek East",
+          "en": "Rumbek East",
+          "slug": "rumbek-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.83",
+      "lon": "30.174"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

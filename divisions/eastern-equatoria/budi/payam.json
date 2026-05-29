@@ -1,0 +1,434 @@
+[
+  {
+    "id": "SS020101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Kimotong",
+      "en": "Kimotong",
+      "slug": "kimotong"
+    },
+    "code": {
+      "id": "SS020101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0201",
+      "level": 2,
+      "name": {
+        "local": "Budi",
+        "en": "Budi",
+        "slug": "budi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0201",
+        "level": 2,
+        "name": {
+          "local": "Budi",
+          "en": "Budi",
+          "slug": "budi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.587",
+      "lon": "33.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Komori",
+      "en": "Komori",
+      "slug": "komori"
+    },
+    "code": {
+      "id": "SS020102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0201",
+      "level": 2,
+      "name": {
+        "local": "Budi",
+        "en": "Budi",
+        "slug": "budi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0201",
+        "level": 2,
+        "name": {
+          "local": "Budi",
+          "en": "Budi",
+          "slug": "budi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.108",
+      "lon": "33.458"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Loriyok",
+      "en": "Loriyok",
+      "slug": "loriyok"
+    },
+    "code": {
+      "id": "SS020104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0201",
+      "level": 2,
+      "name": {
+        "local": "Budi",
+        "en": "Budi",
+        "slug": "budi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0201",
+        "level": 2,
+        "name": {
+          "local": "Budi",
+          "en": "Budi",
+          "slug": "budi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.558",
+      "lon": "33.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Lotukei",
+      "en": "Lotukei",
+      "slug": "lotukei"
+    },
+    "code": {
+      "id": "SS020105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0201",
+      "level": 2,
+      "name": {
+        "local": "Budi",
+        "en": "Budi",
+        "slug": "budi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0201",
+        "level": 2,
+        "name": {
+          "local": "Budi",
+          "en": "Budi",
+          "slug": "budi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.129",
+      "lon": "33.771"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020106",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Loudo",
+      "en": "Loudo",
+      "slug": "loudo"
+    },
+    "code": {
+      "id": "SS020106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0201",
+      "level": 2,
+      "name": {
+        "local": "Budi",
+        "en": "Budi",
+        "slug": "budi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0201",
+        "level": 2,
+        "name": {
+          "local": "Budi",
+          "en": "Budi",
+          "slug": "budi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.275",
+      "lon": "33.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020107",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nagishot",
+      "en": "Nagishot",
+      "slug": "nagishot"
+    },
+    "code": {
+      "id": "SS020107",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0201",
+      "level": 2,
+      "name": {
+        "local": "Budi",
+        "en": "Budi",
+        "slug": "budi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0201",
+        "level": 2,
+        "name": {
+          "local": "Budi",
+          "en": "Budi",
+          "slug": "budi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.278",
+      "lon": "33.578"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020108",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Napak",
+      "en": "Napak",
+      "slug": "napak"
+    },
+    "code": {
+      "id": "SS020108",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0201",
+      "level": 2,
+      "name": {
+        "local": "Budi",
+        "en": "Budi",
+        "slug": "budi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0201",
+        "level": 2,
+        "name": {
+          "local": "Budi",
+          "en": "Budi",
+          "slug": "budi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.725",
+      "lon": "33.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS020103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nauro",
+      "en": "Nauro",
+      "slug": "nauro"
+    },
+    "code": {
+      "id": "SS020103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0201",
+      "level": 2,
+      "name": {
+        "local": "Budi",
+        "en": "Budi",
+        "slug": "budi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS02",
+        "level": 1,
+        "name": {
+          "local": "Eastern Equatoria",
+          "en": "Eastern Equatoria",
+          "slug": "eastern-equatoria"
+        }
+      },
+      {
+        "id": "SS0201",
+        "level": 2,
+        "name": {
+          "local": "Budi",
+          "en": "Budi",
+          "slug": "budi"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.446",
+      "lon": "33.578"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

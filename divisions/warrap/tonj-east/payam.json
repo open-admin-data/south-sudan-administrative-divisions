@@ -1,0 +1,596 @@
+[
+  {
+    "id": "SS080301",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ananatak",
+      "en": "Ananatak",
+      "slug": "ananatak"
+    },
+    "code": {
+      "id": "SS080301",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.72",
+      "lon": "29.095"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080302",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Makuac",
+      "en": "Makuac",
+      "slug": "makuac"
+    },
+    "code": {
+      "id": "SS080302",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.911",
+      "lon": "29.536"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080303",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Malualcum",
+      "en": "Malualcum",
+      "slug": "malualcum"
+    },
+    "code": {
+      "id": "SS080303",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.95",
+      "lon": "29.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080304",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Maparah",
+      "en": "Maparah",
+      "slug": "maparah"
+    },
+    "code": {
+      "id": "SS080304",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.847",
+      "lon": "29.443"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080305",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Mayen 2",
+      "en": "Mayen 2",
+      "slug": "mayen-2"
+    },
+    "code": {
+      "id": "SS080305",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.784",
+      "lon": "29.391"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080306",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pagor 2",
+      "en": "Pagor 2",
+      "slug": "pagor-2"
+    },
+    "code": {
+      "id": "SS080306",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.048",
+      "lon": "29.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080307",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Palal",
+      "en": "Palal",
+      "slug": "palal"
+    },
+    "code": {
+      "id": "SS080307",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.69",
+      "lon": "28.98"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080308",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Paliang",
+      "en": "Paliang",
+      "slug": "paliang"
+    },
+    "code": {
+      "id": "SS080308",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.958",
+      "lon": "29.317"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080309",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pannhial",
+      "en": "Pannhial",
+      "slug": "pannhial"
+    },
+    "code": {
+      "id": "SS080309",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.055",
+      "lon": "29.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080310",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Paweng",
+      "en": "Paweng",
+      "slug": "paweng"
+    },
+    "code": {
+      "id": "SS080310",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.112",
+      "lon": "29.408"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS080311",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Wun-liit",
+      "en": "Wun-liit",
+      "slug": "wun-liit"
+    },
+    "code": {
+      "id": "SS080311",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0803",
+      "level": 2,
+      "name": {
+        "local": "Tonj East",
+        "en": "Tonj East",
+        "slug": "tonj-east"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS08",
+        "level": 1,
+        "name": {
+          "local": "Warrap",
+          "en": "Warrap",
+          "slug": "warrap"
+        }
+      },
+      {
+        "id": "SS0803",
+        "level": 2,
+        "name": {
+          "local": "Tonj East",
+          "en": "Tonj East",
+          "slug": "tonj-east"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.717",
+      "lon": "29.221"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

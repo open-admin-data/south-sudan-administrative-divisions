@@ -1,0 +1,302 @@
+[
+  {
+    "id": "SS01",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Central Equatoria",
+      "en": "Central Equatoria",
+      "slug": "central-equatoria"
+    },
+    "code": {
+      "id": "SS01",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 6,
+      "payam": 46
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.869",
+      "lon": "30.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS02",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Eastern Equatoria",
+      "en": "Eastern Equatoria",
+      "slug": "eastern-equatoria"
+    },
+    "code": {
+      "id": "SS02",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 8,
+      "payam": 53
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.756",
+      "lon": "33.838"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS03",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Jonglei",
+      "en": "Jonglei",
+      "slug": "jonglei"
+    },
+    "code": {
+      "id": "SS03",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 11,
+      "payam": 72
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.62",
+      "lon": "32.616"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS04",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Lakes",
+      "en": "Lakes",
+      "slug": "lakes"
+    },
+    "code": {
+      "id": "SS04",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 8,
+      "payam": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.754",
+      "lon": "30.08"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS05",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Northern Bahr el Ghazal",
+      "en": "Northern Bahr el Ghazal",
+      "slug": "northern-bahr-el-ghazal"
+    },
+    "code": {
+      "id": "SS05",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 5,
+      "payam": 39
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.894",
+      "lon": "27.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS06",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Unity",
+      "en": "Unity",
+      "slug": "unity"
+    },
+    "code": {
+      "id": "SS06",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 9,
+      "payam": 73
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.678",
+      "lon": "29.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS07",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Upper Nile",
+      "en": "Upper Nile",
+      "slug": "upper-nile"
+    },
+    "code": {
+      "id": "SS07",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 12,
+      "payam": 69
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.112",
+      "lon": "32.452"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS08",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Warrap",
+      "en": "Warrap",
+      "slug": "warrap"
+    },
+    "code": {
+      "id": "SS08",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 6,
+      "payam": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.87",
+      "lon": "28.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS09",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Western Bahr el Ghazal",
+      "en": "Western Bahr el Ghazal",
+      "slug": "western-bahr-el-ghazal"
+    },
+    "code": {
+      "id": "SS09",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 3,
+      "payam": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.541",
+      "lon": "26.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS10",
+    "level": 1,
+    "level_name": {
+      "local": "State",
+      "en": "State"
+    },
+    "name": {
+      "local": "Western Equatoria",
+      "en": "Western Equatoria",
+      "slug": "western-equatoria"
+    },
+    "code": {
+      "id": "SS10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "county": 10,
+      "payam": 47
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.539",
+      "lon": "28.654"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

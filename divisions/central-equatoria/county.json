@@ -1,0 +1,284 @@
+[
+  {
+    "id": "SS0101",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Juba",
+      "en": "Juba",
+      "slug": "juba"
+    },
+    "code": {
+      "id": "SS0101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS01",
+      "level": 1,
+      "name": {
+        "local": "Central Equatoria",
+        "en": "Central Equatoria",
+        "slug": "central-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.711",
+      "lon": "31.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0102",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Kajo-keji",
+      "en": "Kajo-keji",
+      "slug": "kajo-keji"
+    },
+    "code": {
+      "id": "SS0102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS01",
+      "level": 1,
+      "name": {
+        "local": "Central Equatoria",
+        "en": "Central Equatoria",
+        "slug": "central-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.883",
+      "lon": "31.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0103",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Lainya",
+      "en": "Lainya",
+      "slug": "lainya"
+    },
+    "code": {
+      "id": "SS0103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS01",
+      "level": 1,
+      "name": {
+        "local": "Central Equatoria",
+        "en": "Central Equatoria",
+        "slug": "central-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.203",
+      "lon": "30.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0104",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Morobo",
+      "en": "Morobo",
+      "slug": "morobo"
+    },
+    "code": {
+      "id": "SS0104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS01",
+      "level": 1,
+      "name": {
+        "local": "Central Equatoria",
+        "en": "Central Equatoria",
+        "slug": "central-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "3.718",
+      "lon": "30.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0105",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Terekeka",
+      "en": "Terekeka",
+      "slug": "terekeka"
+    },
+    "code": {
+      "id": "SS0105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS01",
+      "level": 1,
+      "name": {
+        "local": "Central Equatoria",
+        "en": "Central Equatoria",
+        "slug": "central-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.687",
+      "lon": "31.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0106",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Yei",
+      "en": "Yei",
+      "slug": "yei"
+    },
+    "code": {
+      "id": "SS0106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS01",
+      "level": 1,
+      "name": {
+        "local": "Central Equatoria",
+        "en": "Central Equatoria",
+        "slug": "central-equatoria"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS01",
+        "level": 1,
+        "name": {
+          "local": "Central Equatoria",
+          "en": "Central Equatoria",
+          "slug": "central-equatoria"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.243",
+      "lon": "30.363"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "SS0203",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Kapoeta East",
+    "en": "Kapoeta East",
+    "slug": "kapoeta-east"
+  },
+  "code": {
+    "id": "SS0203",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS02",
+    "level": 1,
+    "name": {
+      "local": "Eastern Equatoria",
+      "en": "Eastern Equatoria",
+      "slug": "eastern-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.094",
+    "lon": "34.789"
+  },
+  "metadata": {},
+  "source": {}
+}

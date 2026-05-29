@@ -1,0 +1,47 @@
+{
+  "id": "SS0304",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Canal/Pigi",
+    "en": "Canal/Pigi",
+    "slug": "canalpigi"
+  },
+  "code": {
+    "id": "SS0304",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS03",
+    "level": 1,
+    "name": {
+      "local": "Jonglei",
+      "en": "Jonglei",
+      "slug": "jonglei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS03",
+      "level": 1,
+      "name": {
+        "local": "Jonglei",
+        "en": "Jonglei",
+        "slug": "jonglei"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.096",
+    "lon": "31.451"
+  },
+  "metadata": {},
+  "source": {}
+}

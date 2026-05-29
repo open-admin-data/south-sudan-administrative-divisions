@@ -1,0 +1,47 @@
+{
+  "id": "SS0208",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Torit",
+    "en": "Torit",
+    "slug": "torit"
+  },
+  "code": {
+    "id": "SS0208",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS02",
+    "level": 1,
+    "name": {
+      "local": "Eastern Equatoria",
+      "en": "Eastern Equatoria",
+      "slug": "eastern-equatoria"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS02",
+      "level": 1,
+      "name": {
+        "local": "Eastern Equatoria",
+        "en": "Eastern Equatoria",
+        "slug": "eastern-equatoria"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "4.383",
+    "lon": "32.53"
+  },
+  "metadata": {},
+  "source": {}
+}

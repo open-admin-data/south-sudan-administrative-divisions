@@ -1,0 +1,47 @@
+{
+  "id": "SS0311",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Uror",
+    "en": "Uror",
+    "slug": "uror"
+  },
+  "code": {
+    "id": "SS0311",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS03",
+    "level": 1,
+    "name": {
+      "local": "Jonglei",
+      "en": "Jonglei",
+      "slug": "jonglei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS03",
+      "level": 1,
+      "name": {
+        "local": "Jonglei",
+        "en": "Jonglei",
+        "slug": "jonglei"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.693",
+    "lon": "32.148"
+  },
+  "metadata": {},
+  "source": {}
+}

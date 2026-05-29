@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS030701",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Chuil",
+      "en": "Chuil",
+      "slug": "chuil"
+    },
+    "code": {
+      "id": "SS030701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0307",
+      "level": 2,
+      "name": {
+        "local": "Nyirol",
+        "en": "Nyirol",
+        "slug": "nyirol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0307",
+        "level": 2,
+        "name": {
+          "local": "Nyirol",
+          "en": "Nyirol",
+          "slug": "nyirol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.82",
+      "lon": "32.395"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030702",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Nyambor",
+      "en": "Nyambor",
+      "slug": "nyambor"
+    },
+    "code": {
+      "id": "SS030702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0307",
+      "level": 2,
+      "name": {
+        "local": "Nyirol",
+        "en": "Nyirol",
+        "slug": "nyirol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0307",
+        "level": 2,
+        "name": {
+          "local": "Nyirol",
+          "en": "Nyirol",
+          "slug": "nyirol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.543",
+      "lon": "31.744"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030703",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pading",
+      "en": "Pading",
+      "slug": "pading"
+    },
+    "code": {
+      "id": "SS030703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0307",
+      "level": 2,
+      "name": {
+        "local": "Nyirol",
+        "en": "Nyirol",
+        "slug": "nyirol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0307",
+        "level": 2,
+        "name": {
+          "local": "Nyirol",
+          "en": "Nyirol",
+          "slug": "nyirol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.391",
+      "lon": "31.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030704",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Pulturuk",
+      "en": "Pulturuk",
+      "slug": "pulturuk"
+    },
+    "code": {
+      "id": "SS030704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0307",
+      "level": 2,
+      "name": {
+        "local": "Nyirol",
+        "en": "Nyirol",
+        "slug": "nyirol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0307",
+        "level": 2,
+        "name": {
+          "local": "Nyirol",
+          "en": "Nyirol",
+          "slug": "nyirol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.694",
+      "lon": "31.789"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030705",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Thol",
+      "en": "Thol",
+      "slug": "thol"
+    },
+    "code": {
+      "id": "SS030705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0307",
+      "level": 2,
+      "name": {
+        "local": "Nyirol",
+        "en": "Nyirol",
+        "slug": "nyirol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0307",
+        "level": 2,
+        "name": {
+          "local": "Nyirol",
+          "en": "Nyirol",
+          "slug": "nyirol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.553",
+      "lon": "32.309"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS030706",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Waat",
+      "en": "Waat",
+      "slug": "waat"
+    },
+    "code": {
+      "id": "SS030706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS0307",
+      "level": 2,
+      "name": {
+        "local": "Nyirol",
+        "en": "Nyirol",
+        "slug": "nyirol"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS03",
+        "level": 1,
+        "name": {
+          "local": "Jonglei",
+          "en": "Jonglei",
+          "slug": "jonglei"
+        }
+      },
+      {
+        "id": "SS0307",
+        "level": 2,
+        "name": {
+          "local": "Nyirol",
+          "en": "Nyirol",
+          "slug": "nyirol"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.218",
+      "lon": "32.139"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,566 @@
+[
+  {
+    "id": "SS0701",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Baliet",
+      "en": "Baliet",
+      "slug": "baliet"
+    },
+    "code": {
+      "id": "SS0701",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.407",
+      "lon": "32.351"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0702",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Fashoda",
+      "en": "Fashoda",
+      "slug": "fashoda"
+    },
+    "code": {
+      "id": "SS0702",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.988",
+      "lon": "31.858"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0703",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Longochuk",
+      "en": "Longochuk",
+      "slug": "longochuk"
+    },
+    "code": {
+      "id": "SS0703",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.303",
+      "lon": "33.525"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0704",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Luakpiny/Nasir",
+      "en": "Luakpiny/Nasir",
+      "slug": "luakpinynasir"
+    },
+    "code": {
+      "id": "SS0704",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.902",
+      "lon": "33.216"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0705",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Maban",
+      "en": "Maban",
+      "slug": "maban"
+    },
+    "code": {
+      "id": "SS0705",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.017",
+      "lon": "33.478"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0706",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Maiwut",
+      "en": "Maiwut",
+      "slug": "maiwut"
+    },
+    "code": {
+      "id": "SS0706",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.784",
+      "lon": "33.805"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0707",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Malakal",
+      "en": "Malakal",
+      "slug": "malakal"
+    },
+    "code": {
+      "id": "SS0707",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.673",
+      "lon": "31.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0708",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Manyo",
+      "en": "Manyo",
+      "slug": "manyo"
+    },
+    "code": {
+      "id": "SS0708",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.036",
+      "lon": "32.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0709",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Melut",
+      "en": "Melut",
+      "slug": "melut"
+    },
+    "code": {
+      "id": "SS0709",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.371",
+      "lon": "32.557"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0710",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Panyikang",
+      "en": "Panyikang",
+      "slug": "panyikang"
+    },
+    "code": {
+      "id": "SS0710",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.347",
+      "lon": "31.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0711",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Renk",
+      "en": "Renk",
+      "slug": "renk"
+    },
+    "code": {
+      "id": "SS0711",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.291",
+      "lon": "32.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS0712",
+    "level": 2,
+    "level_name": {
+      "local": "County",
+      "en": "County"
+    },
+    "name": {
+      "local": "Ulang",
+      "en": "Ulang",
+      "slug": "ulang"
+    },
+    "code": {
+      "id": "SS0712",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS07",
+        "level": 1,
+        "name": {
+          "local": "Upper Nile",
+          "en": "Upper Nile",
+          "slug": "upper-nile"
+        }
+      }
+    ],
+    "children_count": {
+      "payam": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.552",
+      "lon": "32.815"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

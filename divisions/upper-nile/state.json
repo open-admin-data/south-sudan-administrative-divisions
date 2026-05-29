@@ -1,0 +1,30 @@
+{
+  "id": "SS07",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Upper Nile",
+    "en": "Upper Nile",
+    "slug": "upper-nile"
+  },
+  "code": {
+    "id": "SS07",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 12,
+    "payam": 69
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.112",
+    "lon": "32.452"
+  },
+  "metadata": {},
+  "source": {}
+}

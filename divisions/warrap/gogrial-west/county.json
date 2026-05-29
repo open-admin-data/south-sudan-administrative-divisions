@@ -1,0 +1,47 @@
+{
+  "id": "SS0802",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Gogrial West",
+    "en": "Gogrial West",
+    "slug": "gogrial-west"
+  },
+  "code": {
+    "id": "SS0802",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS08",
+    "level": 1,
+    "name": {
+      "local": "Warrap",
+      "en": "Warrap",
+      "slug": "warrap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS08",
+      "level": 1,
+      "name": {
+        "local": "Warrap",
+        "en": "Warrap",
+        "slug": "warrap"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.576",
+    "lon": "28.161"
+  },
+  "metadata": {},
+  "source": {}
+}

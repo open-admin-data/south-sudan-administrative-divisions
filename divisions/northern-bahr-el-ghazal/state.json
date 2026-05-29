@@ -1,0 +1,30 @@
+{
+  "id": "SS05",
+  "level": 1,
+  "level_name": {
+    "local": "State",
+    "en": "State"
+  },
+  "name": {
+    "local": "Northern Bahr el Ghazal",
+    "en": "Northern Bahr el Ghazal",
+    "slug": "northern-bahr-el-ghazal"
+  },
+  "code": {
+    "id": "SS05",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "county": 5,
+    "payam": 39
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.894",
+    "lon": "27.086"
+  },
+  "metadata": {},
+  "source": {}
+}

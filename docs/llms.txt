@@ -1,0 +1,72 @@
+# South Sudan Administrative Divisions
+
+> Open dataset of South Sudan's administrative hierarchy:
+> 10 states, 79 countys, 512 payams.
+> CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total states: 10
+- Total countys: 79
+- Total payams: 512
+- Coordinates: included (all levels)
+- Last updated: 2026-05-29
+- License: CC-BY-4.0
+
+## Aggregate Data Files
+
+- [All states (JSON)](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/data/all-state.json)
+- [All countys (JSON)](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/data/all-county.json)
+- [All payams (JSON)](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/data/all-payam.json)
+- [Flat array (NDJSON)](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/data/schema.json)
+
+## Browse by State
+
+- [Central Equatoria](https://github.com/open-admin-data/south-sudan-administrative-divisions/tree/main/divisions/central-equatoria/) — 6 countys, 46 payams
+- [Eastern Equatoria](https://github.com/open-admin-data/south-sudan-administrative-divisions/tree/main/divisions/eastern-equatoria/) — 8 countys, 53 payams
+- [Jonglei](https://github.com/open-admin-data/south-sudan-administrative-divisions/tree/main/divisions/jonglei/) — 11 countys, 72 payams
+- [Lakes](https://github.com/open-admin-data/south-sudan-administrative-divisions/tree/main/divisions/lakes/) — 8 countys, 50 payams
+- [Northern Bahr el Ghazal](https://github.com/open-admin-data/south-sudan-administrative-divisions/tree/main/divisions/northern-bahr-el-ghazal/) — 5 countys, 39 payams
+- [Unity](https://github.com/open-admin-data/south-sudan-administrative-divisions/tree/main/divisions/unity/) — 9 countys, 73 payams
+- [Upper Nile](https://github.com/open-admin-data/south-sudan-administrative-divisions/tree/main/divisions/upper-nile/) — 12 countys, 69 payams
+- [Warrap](https://github.com/open-admin-data/south-sudan-administrative-divisions/tree/main/divisions/warrap/) — 6 countys, 47 payams
+- [Western Bahr el Ghazal](https://github.com/open-admin-data/south-sudan-administrative-divisions/tree/main/divisions/western-bahr-el-ghazal/) — 3 countys, 15 payams
+- [Western Equatoria](https://github.com/open-admin-data/south-sudan-administrative-divisions/tree/main/divisions/western-equatoria/) — 10 countys, 47 payams
+
+## Per-State Full Data
+
+- [Central Equatoria](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/docs/llms-full/central-equatoria.txt)
+- [Eastern Equatoria](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/docs/llms-full/eastern-equatoria.txt)
+- [Jonglei](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/docs/llms-full/jonglei.txt)
+- [Lakes](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/docs/llms-full/lakes.txt)
+- [Northern Bahr el Ghazal](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/docs/llms-full/northern-bahr-el-ghazal.txt)
+- [Unity](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/docs/llms-full/unity.txt)
+- [Upper Nile](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/docs/llms-full/upper-nile.txt)
+- [Warrap](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/docs/llms-full/warrap.txt)
+- [Western Bahr el Ghazal](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/docs/llms-full/western-bahr-el-ghazal.txt)
+- [Western Equatoria](https://raw.githubusercontent.com/open-admin-data/south-sudan-administrative-divisions/main/docs/llms-full/western-equatoria.txt)
+
+## Schema Fields
+
+- id: Unique identifier
+- level: 1 (state), 2 (county), 3 (payam)
+- name: Local and English names with URL slug
+- code: Government codes
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of children per level
+- zip_codes: Postal codes (where available)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+
+## Citation
+
+South Sudan Administrative Divisions Dataset (CC-BY-4.0)
+URL: https://github.com/open-admin-data/south-sudan-administrative-divisions
+
+## Related
+
+- [ListBase](https://www.listbase.org) — Structured reference data for every country
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN
+- [thailand-administrative-divisions](https://github.com/open-admin-data/thailand-administrative-divisions)

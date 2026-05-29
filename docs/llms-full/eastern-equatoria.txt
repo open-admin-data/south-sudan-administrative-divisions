@@ -1,0 +1,261 @@
+# Eastern Equatoria — South Sudan Administrative Divisions
+
+> 8 countys, 53 payams
+> Code: SS02
+> Coordinates: 4.756, 33.838
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Countys
+
+### Budi
+
+Code: SS0201, Coordinates: 4.372, 33.469
+Payams: 8
+
+#### Kimotong
+
+Code: SS020101, Coordinates: 4.587, 33.268
+
+#### Komori
+
+Code: SS020102, Coordinates: 4.108, 33.458
+
+#### Loriyok
+
+Code: SS020104, Coordinates: 4.558, 33.323
+
+#### Lotukei
+
+Code: SS020105, Coordinates: 4.129, 33.771
+
+#### Loudo
+
+Code: SS020106, Coordinates: 4.275, 33.707
+
+#### Nagishot
+
+Code: SS020107, Coordinates: 4.278, 33.578
+
+#### Napak
+
+Code: SS020108, Coordinates: 4.725, 33.235
+
+#### Nauro
+
+Code: SS020103, Coordinates: 4.446, 33.578
+
+### Ikotos
+
+Code: SS0202, Coordinates: 4.082, 33.185
+Payams: 6
+
+#### Hatire
+
+Code: SS020201, Coordinates: 3.978, 32.956
+
+#### Ikotos
+
+Code: SS020202, Coordinates: 4.02, 33.077
+
+#### Imotong
+
+Code: SS020203, Coordinates: 4.21, 32.853
+
+#### Lomohidang North
+
+Code: SS020204, Coordinates: 4.288, 33.041
+
+#### Lomohidang South
+
+Code: SS020205, Coordinates: 4.172, 33.173
+
+#### Losite
+
+Code: SS020206, Coordinates: 3.921, 33.401
+
+### Kapoeta East
+
+Code: SS0203, Coordinates: 5.094, 34.789
+Payams: 7
+
+#### Jie
+
+Code: SS020301, Coordinates: 5.467, 33.946
+
+#### Katodori
+
+Code: SS020302, Coordinates: 4.693, 33.867
+
+#### Kauto
+
+Code: SS020303, Coordinates: 5.475, 34.537
+
+#### Lotimor
+
+Code: SS020304, Coordinates: 5.447, 35.264
+
+#### Mogos
+
+Code: SS020305, Coordinates: 5.1, 33.97
+
+#### Narus
+
+Code: SS020306, Coordinates: 4.816, 34.961
+
+#### Natinga
+
+Code: SS020307, Coordinates: 4.37, 33.979
+
+### Kapoeta North
+
+Code: SS0204, Coordinates: 5.308, 33.456
+Payams: 6
+
+#### Chumakori
+
+Code: SS020401, Coordinates: 4.931, 33.606
+
+#### Karukomuge
+
+Code: SS020402, Coordinates: 5.399, 33.456
+
+#### Lomeyen
+
+Code: SS020403, Coordinates: 5.011, 33.352
+
+#### Mosingo
+
+Code: SS020404, Coordinates: 4.886, 33.391
+
+#### Najie
+
+Code: SS020405, Coordinates: 4.938, 33.517
+
+#### Paringa
+
+Code: SS020406, Coordinates: 4.889, 33.62
+
+### Kapoeta South
+
+Code: SS0205, Coordinates: 4.545, 33.681
+Payams: 5
+
+#### Kapoeta Town
+
+Code: SS020501, Coordinates: 4.791, 33.616
+
+#### Longeleya
+
+Code: SS020502, Coordinates: 4.663, 33.616
+
+#### Machi One
+
+Code: SS020503, Coordinates: 4.689, 33.547
+
+#### Machi Two
+
+Code: SS020504, Coordinates: 4.745, 33.51
+
+#### Pwata
+
+Code: SS020505, Coordinates: 4.449, 33.763
+
+### Lafon
+
+Code: SS0206, Coordinates: 5.157, 32.705
+Payams: 8
+
+#### Arihilo
+
+Code: SS020601, Coordinates: 4.914, 32.95
+
+#### Burgilo
+
+Code: SS020602, Coordinates: 5.388, 32.705
+
+#### Imehejek
+
+Code: SS020603, Coordinates: 4.766, 32.909
+
+#### Kurumi
+
+Code: SS020604, Coordinates: 4.896, 32.317
+
+#### Lohutok
+
+Code: SS020605, Coordinates: 4.595, 32.932
+
+#### Longiro
+
+Code: SS020606, Coordinates: 4.81, 32.668
+
+#### Marguna
+
+Code: SS020607, Coordinates: 5.058, 32.72
+
+#### Pachidi
+
+Code: SS020608, Coordinates: 4.72, 32.314
+
+### Magwi
+
+Code: SS0207, Coordinates: 3.937, 32.304
+Payams: 6
+
+#### Lobone
+
+Code: SS020701, Coordinates: 3.829, 32.705
+
+#### Magwi
+
+Code: SS020702, Coordinates: 4.056, 32.344
+
+#### Mugali
+
+Code: SS020703, Coordinates: 3.614, 32.221
+
+#### Nimule
+
+Code: SS020704, Coordinates: 3.624, 32.064
+
+#### Pageri
+
+Code: SS020705, Coordinates: 4.015, 32.01
+
+#### Pajok
+
+Code: SS020706, Coordinates: 3.848, 32.449
+
+### Torit
+
+Code: SS0208, Coordinates: 4.383, 32.53
+Payams: 7
+
+#### Bur
+
+Code: SS020801, Coordinates: 4.685, 32.6
+
+#### Himodonge
+
+Code: SS020803, Coordinates: 4.133, 32.711
+
+#### Hiyala
+
+Code: SS020802, Coordinates: 4.451, 32.832
+
+#### Ifwotu
+
+Code: SS020804, Coordinates: 4.111, 32.596
+
+#### Imurok
+
+Code: SS020805, Coordinates: 4.333, 32.392
+
+#### Kudo
+
+Code: SS020806, Coordinates: 4.387, 32.216
+
+#### Torit
+
+Code: SS020807, Coordinates: 4.412, 32.559
+

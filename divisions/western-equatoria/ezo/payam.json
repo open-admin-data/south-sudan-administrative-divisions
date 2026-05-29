@@ -1,0 +1,326 @@
+[
+  {
+    "id": "SS100101",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Andari",
+      "en": "Andari",
+      "slug": "andari"
+    },
+    "code": {
+      "id": "SS100101",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1001",
+      "level": 2,
+      "name": {
+        "local": "Ezo",
+        "en": "Ezo",
+        "slug": "ezo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1001",
+        "level": 2,
+        "name": {
+          "local": "Ezo",
+          "en": "Ezo",
+          "slug": "ezo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.952",
+      "lon": "27.715"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100102",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bagidi",
+      "en": "Bagidi",
+      "slug": "bagidi"
+    },
+    "code": {
+      "id": "SS100102",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1001",
+      "level": 2,
+      "name": {
+        "local": "Ezo",
+        "en": "Ezo",
+        "slug": "ezo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1001",
+        "level": 2,
+        "name": {
+          "local": "Ezo",
+          "en": "Ezo",
+          "slug": "ezo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.27",
+      "lon": "27.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100103",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Bariguna",
+      "en": "Bariguna",
+      "slug": "bariguna"
+    },
+    "code": {
+      "id": "SS100103",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1001",
+      "level": 2,
+      "name": {
+        "local": "Ezo",
+        "en": "Ezo",
+        "slug": "ezo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1001",
+        "level": 2,
+        "name": {
+          "local": "Ezo",
+          "en": "Ezo",
+          "slug": "ezo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.249",
+      "lon": "27.411"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100104",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Ezo Centre",
+      "en": "Ezo Centre",
+      "slug": "ezo-centre"
+    },
+    "code": {
+      "id": "SS100104",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1001",
+      "level": 2,
+      "name": {
+        "local": "Ezo",
+        "en": "Ezo",
+        "slug": "ezo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1001",
+        "level": 2,
+        "name": {
+          "local": "Ezo",
+          "en": "Ezo",
+          "slug": "ezo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.016",
+      "lon": "27.553"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100105",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Naandi",
+      "en": "Naandi",
+      "slug": "naandi"
+    },
+    "code": {
+      "id": "SS100105",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1001",
+      "level": 2,
+      "name": {
+        "local": "Ezo",
+        "en": "Ezo",
+        "slug": "ezo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1001",
+        "level": 2,
+        "name": {
+          "local": "Ezo",
+          "en": "Ezo",
+          "slug": "ezo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "4.893",
+      "lon": "27.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "SS100106",
+    "level": 3,
+    "level_name": {
+      "local": "Payam",
+      "en": "Payam"
+    },
+    "name": {
+      "local": "Yangiri",
+      "en": "Yangiri",
+      "slug": "yangiri"
+    },
+    "code": {
+      "id": "SS100106",
+      "iso": null
+    },
+    "parent": {
+      "id": "SS1001",
+      "level": 2,
+      "name": {
+        "local": "Ezo",
+        "en": "Ezo",
+        "slug": "ezo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "SS10",
+        "level": 1,
+        "name": {
+          "local": "Western Equatoria",
+          "en": "Western Equatoria",
+          "slug": "western-equatoria"
+        }
+      },
+      {
+        "id": "SS1001",
+        "level": 2,
+        "name": {
+          "local": "Ezo",
+          "en": "Ezo",
+          "slug": "ezo"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [],
+    "geo": {
+      "lat": "5.744",
+      "lon": "28.066"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

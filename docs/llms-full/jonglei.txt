@@ -1,0 +1,352 @@
+# Jonglei — South Sudan Administrative Divisions
+
+> 11 countys, 72 payams
+> Code: SS03
+> Coordinates: 7.62, 32.616
+> Last updated: 2026-05-29. License: CC-BY-4.0.
+
+## Countys
+
+### Akobo
+
+Code: SS0301, Coordinates: 7.816, 32.845
+Payams: 8
+
+#### Alali
+
+Code: SS030101, Coordinates: 7.654, 33.303
+
+#### Barmach
+
+Code: SS030102, Coordinates: 8.292, 32.296
+
+#### Bilkey
+
+Code: SS030103, Coordinates: 7.624, 32.837
+
+#### Buong
+
+Code: SS030104, Coordinates: 8.225, 32.42
+
+#### Dengjok
+
+Code: SS030105, Coordinates: 7.851, 32.817
+
+#### Diror
+
+Code: SS030106, Coordinates: 8.155, 32.577
+
+#### Nyandit
+
+Code: SS030107, Coordinates: 7.472, 33.173
+
+#### Walgak
+
+Code: SS030108, Coordinates: 8.17, 32.212
+
+### Ayod
+
+Code: SS0302, Coordinates: 8.272, 30.99
+Payams: 7
+
+#### Ayod
+
+Code: SS030201, Coordinates: 8.248, 31.506
+
+#### Kuach-deng
+
+Code: SS030203, Coordinates: 8.233, 31.268
+
+#### Kurwai
+
+Code: SS030202, Coordinates: 8.521, 30.716
+
+#### Mogok
+
+Code: SS030204, Coordinates: 8.532, 31.308
+
+#### Pagil
+
+Code: SS030205, Coordinates: 8.711, 31.029
+
+#### Pajiek
+
+Code: SS030206, Coordinates: 7.968, 30.899
+
+#### Wau
+
+Code: SS030207, Coordinates: 8.256, 30.848
+
+### Bor South
+
+Code: SS0303, Coordinates: 6.474, 31.973
+Payams: 6
+
+#### Anyidi
+
+Code: SS030301, Coordinates: 6.272, 32.04
+
+#### Baidit
+
+Code: SS030302, Coordinates: 6.705, 31.905
+
+#### Bor
+
+Code: SS030303, Coordinates: 6.245, 31.577
+
+#### Jalle
+
+Code: SS030304, Coordinates: 6.626, 31.491
+
+#### Kolnyang
+
+Code: SS030305, Coordinates: 6.063, 32.041
+
+#### Makuach
+
+Code: SS030306, Coordinates: 6.661, 32.116
+
+### Canal/Pigi
+
+Code: SS0304, Coordinates: 9.096, 31.451
+Payams: 8
+
+#### Alam
+
+Code: SS030401, Coordinates: 8.988, 31.29
+
+#### Atar
+
+Code: SS030402, Coordinates: 9.25, 31.314
+
+#### Belewach
+
+Code: SS030403, Coordinates: 9.137, 31.783
+
+#### Kaldak
+
+Code: SS030404, Coordinates: 9.321, 31.509
+
+#### Korwach
+
+Code: SS030405, Coordinates: 9.237, 31.207
+
+#### Mareng
+
+Code: SS030406, Coordinates: 9.113, 31.628
+
+#### Nyainthokmalual
+
+Code: SS030407, Coordinates: 9.313, 31.57
+
+#### Wunlem
+
+Code: SS030408, Coordinates: 8.944, 31.627
+
+### Duk
+
+Code: SS0305, Coordinates: 7.661, 31.13
+Payams: 6
+
+#### Ageer
+
+Code: SS030501, Coordinates: 7.448, 31.234
+
+#### Dongchak
+
+Code: SS030502, Coordinates: 7.556, 30.966
+
+#### Padiet
+
+Code: SS030503, Coordinates: 7.825, 31.314
+
+#### Pagak
+
+Code: SS030505, Coordinates: 7.898, 31.566
+
+#### Panyang
+
+Code: SS030506, Coordinates: 7.692, 31.589
+
+#### Payuel
+
+Code: SS030504, Coordinates: 7.544, 31.483
+
+### Fangak
+
+Code: SS0306, Coordinates: 9.045, 30.693
+Payams: 5
+
+#### Manajang
+
+Code: SS030601, Coordinates: 9.322, 30.912
+
+#### Mareang
+
+Code: SS030602, Coordinates: 8.801, 30.555
+
+#### Old Fangak
+
+Code: SS030603, Coordinates: 9.031, 30.96
+
+#### Paguir
+
+Code: SS030604, Coordinates: 9.156, 30.521
+
+#### Phom
+
+Code: SS030605, Coordinates: 9.389, 31.144
+
+### Nyirol
+
+Code: SS0307, Coordinates: 8.567, 32.068
+Payams: 6
+
+#### Chuil
+
+Code: SS030701, Coordinates: 8.82, 32.395
+
+#### Nyambor
+
+Code: SS030702, Coordinates: 8.543, 31.744
+
+#### Pading
+
+Code: SS030703, Coordinates: 8.391, 31.761
+
+#### Pulturuk
+
+Code: SS030704, Coordinates: 8.694, 31.789
+
+#### Thol
+
+Code: SS030705, Coordinates: 8.553, 32.309
+
+#### Waat
+
+Code: SS030706, Coordinates: 8.218, 32.139
+
+### Pibor
+
+Code: SS0308, Coordinates: 6.56, 33.705
+Payams: 8
+
+#### Boma
+
+Code: SS030801, Coordinates: 6.458, 34.648
+
+#### Gumuruk
+
+Code: SS030802, Coordinates: 6.437, 32.689
+
+#### Kiziongora
+
+Code: SS030803, Coordinates: 6.225, 34.014
+
+#### Lekuangole
+
+Code: SS030804, Coordinates: 7.124, 32.91
+
+#### Marow
+
+Code: SS030805, Coordinates: 6.535, 34.047
+
+#### Mewun
+
+Code: SS030806, Coordinates: 6.176, 34.709
+
+#### Pibor
+
+Code: SS030807, Coordinates: 6.595, 33.28
+
+#### Verteth
+
+Code: SS030808, Coordinates: 6.251, 33.272
+
+### Pochalla
+
+Code: SS0309, Coordinates: 7.205, 33.88
+Payams: 5
+
+#### Adongo
+
+Code: SS030901, Coordinates: 7.161, 33.638
+
+#### Akiela
+
+Code: SS030902, Coordinates: 6.87, 34.393
+
+#### Burator
+
+Code: SS030903, Coordinates: 7.421, 33.835
+
+#### Omiela
+
+Code: SS030904, Coordinates: 7.528, 33.644
+
+#### Pochalla
+
+Code: SS030905, Coordinates: 6.949, 33.939
+
+### Twic East
+
+Code: SS0310, Coordinates: 7.04, 31.241
+Payams: 5
+
+#### Ajuong
+
+Code: SS031001, Coordinates: 7.088, 31.069
+
+#### Kongor
+
+Code: SS031002, Coordinates: 7.184, 31.339
+
+#### Lith
+
+Code: SS031003, Coordinates: 7.316, 31.427
+
+#### Nyuak
+
+Code: SS031004, Coordinates: 7.111, 31.453
+
+#### Pakeer
+
+Code: SS031005, Coordinates: 6.866, 31.46
+
+### Uror
+
+Code: SS0311, Coordinates: 7.693, 32.148
+Payams: 8
+
+#### Karam
+
+Code: SS031101, Coordinates: 8.245, 31.792
+
+#### Motot
+
+Code: SS031102, Coordinates: 8.226, 32.038
+
+#### Pathai
+
+Code: SS031103, Coordinates: 8.074, 31.746
+
+#### Payai
+
+Code: SS031104, Coordinates: 7.536, 32.222
+
+#### Pieri
+
+Code: SS031105, Coordinates: 7.601, 32.363
+
+#### Puolchuol
+
+Code: SS031106, Coordinates: 8.115, 31.96
+
+#### Tiam
+
+Code: SS031107, Coordinates: 7.471, 31.857
+
+#### Uror
+
+Code: SS031108, Coordinates: 7.861, 31.797
+

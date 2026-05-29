@@ -1,0 +1,47 @@
+{
+  "id": "SS0710",
+  "level": 2,
+  "level_name": {
+    "local": "County",
+    "en": "County"
+  },
+  "name": {
+    "local": "Panyikang",
+    "en": "Panyikang",
+    "slug": "panyikang"
+  },
+  "code": {
+    "id": "SS0710",
+    "iso": null
+  },
+  "parent": {
+    "id": "SS07",
+    "level": 1,
+    "name": {
+      "local": "Upper Nile",
+      "en": "Upper Nile",
+      "slug": "upper-nile"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "SS07",
+      "level": 1,
+      "name": {
+        "local": "Upper Nile",
+        "en": "Upper Nile",
+        "slug": "upper-nile"
+      }
+    }
+  ],
+  "children_count": {
+    "payam": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.347",
+    "lon": "31.417"
+  },
+  "metadata": {},
+  "source": {}
+}
