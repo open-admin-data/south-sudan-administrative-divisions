@@ -3,7 +3,7 @@
 > 12 countys, 69 payams
 > Code: SS07
 > Coordinates: 10.112, 32.452
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Countys
 

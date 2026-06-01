@@ -26,5 +26,9 @@
     "lon": "26.343"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ss/states/western-bahr-el-ghazal/",
+    "api": "https://openadmindata.org/api/ss/"
+  }
 }

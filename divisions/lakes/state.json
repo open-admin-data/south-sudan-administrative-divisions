@@ -26,5 +26,9 @@
     "lon": "30.08"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ss/states/lakes/",
+    "api": "https://openadmindata.org/api/ss/"
+  }
 }

@@ -27,7 +27,11 @@
       "lon": "30.985"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ss/states/central-equatoria/",
+      "api": "https://openadmindata.org/api/ss/"
+    }
   },
   {
     "id": "SS02",
@@ -57,7 +61,11 @@
       "lon": "33.838"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ss/states/eastern-equatoria/",
+      "api": "https://openadmindata.org/api/ss/"
+    }
   },
   {
     "id": "SS03",
@@ -87,7 +95,11 @@
       "lon": "32.616"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ss/states/jonglei/",
+      "api": "https://openadmindata.org/api/ss/"
+    }
   },
   {
     "id": "SS04",
@@ -117,7 +129,11 @@
       "lon": "30.08"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ss/states/lakes/",
+      "api": "https://openadmindata.org/api/ss/"
+    }
   },
   {
     "id": "SS05",
@@ -147,7 +163,11 @@
       "lon": "27.086"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ss/states/northern-bahr-el-ghazal/",
+      "api": "https://openadmindata.org/api/ss/"
+    }
   },
   {
     "id": "SS06",
@@ -177,7 +197,11 @@
       "lon": "29.77"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ss/states/unity/",
+      "api": "https://openadmindata.org/api/ss/"
+    }
   },
   {
     "id": "SS07",
@@ -207,7 +231,11 @@
       "lon": "32.452"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ss/states/upper-nile/",
+      "api": "https://openadmindata.org/api/ss/"
+    }
   },
   {
     "id": "SS08",
@@ -237,7 +265,11 @@
       "lon": "28.78"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ss/states/warrap/",
+      "api": "https://openadmindata.org/api/ss/"
+    }
   },
   {
     "id": "SS09",
@@ -267,7 +299,11 @@
       "lon": "26.343"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ss/states/western-bahr-el-ghazal/",
+      "api": "https://openadmindata.org/api/ss/"
+    }
   },
   {
     "id": "SS10",
@@ -297,6 +333,10 @@
       "lon": "28.654"
     },
     "metadata": {},
-    "source": {}
+    "source": {
+      "name": "Open Admin Data",
+      "url": "https://openadmindata.org/ss/states/western-equatoria/",
+      "api": "https://openadmindata.org/api/ss/"
+    }
   }
 ]

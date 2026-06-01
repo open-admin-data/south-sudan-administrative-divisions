@@ -26,5 +26,9 @@
     "lon": "28.654"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ss/states/western-equatoria/",
+    "api": "https://openadmindata.org/api/ss/"
+  }
 }

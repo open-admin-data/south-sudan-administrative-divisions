@@ -26,5 +26,9 @@
     "lon": "29.77"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ss/states/unity/",
+    "api": "https://openadmindata.org/api/ss/"
+  }
 }

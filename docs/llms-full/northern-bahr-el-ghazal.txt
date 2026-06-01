@@ -3,7 +3,7 @@
 > 5 countys, 39 payams
 > Code: SS05
 > Coordinates: 8.894, 27.086
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Countys
 

@@ -26,5 +26,9 @@
     "lon": "33.838"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ss/states/eastern-equatoria/",
+    "api": "https://openadmindata.org/api/ss/"
+  }
 }

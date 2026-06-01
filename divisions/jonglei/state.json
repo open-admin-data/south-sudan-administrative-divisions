@@ -26,5 +26,9 @@
     "lon": "32.616"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ss/states/jonglei/",
+    "api": "https://openadmindata.org/api/ss/"
+  }
 }

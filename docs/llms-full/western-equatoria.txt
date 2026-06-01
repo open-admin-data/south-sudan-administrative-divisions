@@ -3,7 +3,7 @@
 > 10 countys, 47 payams
 > Code: SS10
 > Coordinates: 5.539, 28.654
-> Last updated: 2026-05-29. License: CC-BY-4.0.
+> Last updated: 2026-06-01. License: CC-BY-4.0.
 
 ## Countys
 

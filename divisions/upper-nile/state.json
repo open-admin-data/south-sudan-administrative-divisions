@@ -26,5 +26,9 @@
     "lon": "32.452"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ss/states/upper-nile/",
+    "api": "https://openadmindata.org/api/ss/"
+  }
 }

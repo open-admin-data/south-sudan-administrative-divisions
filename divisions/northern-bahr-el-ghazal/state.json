@@ -26,5 +26,9 @@
     "lon": "27.086"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ss/states/northern-bahr-el-ghazal/",
+    "api": "https://openadmindata.org/api/ss/"
+  }
 }

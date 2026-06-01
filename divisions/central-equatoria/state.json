@@ -26,5 +26,9 @@
     "lon": "30.985"
   },
   "metadata": {},
-  "source": {}
+  "source": {
+    "name": "Open Admin Data",
+    "url": "https://openadmindata.org/ss/states/central-equatoria/",
+    "api": "https://openadmindata.org/api/ss/"
+  }
 }
