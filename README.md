@@ -12,9 +12,10 @@
 | Coordinates | ✅ Included (all levels) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-08-19 |
+| Last Updated | 2026-08-20 |
 | Website | [openadmindata.org/ss](https://openadmindata.org/ss/) |
 | API | [openadmindata.org/api/ss](https://openadmindata.org/api/ss/) |
+| Flag | [PNG](https://onlygames.me/flags-png/ss/) · [SVG](https://onlygames.me/flags-svg/ss/) · [PDF](https://onlygames.me/flags-pdf/ss/) |
 | National Anthem | [🎵 Listen & Download South Sudan National Anthem MP3](https://onlygames.me/national-anthems/ss/) |
 
 ## Browse by State
