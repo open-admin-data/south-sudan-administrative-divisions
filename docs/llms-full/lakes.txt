@@ -3,7 +3,7 @@
 > 8 countys, 50 payams
 > Code: SS04
 > Coordinates: 6.754, 30.08
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Countys
 

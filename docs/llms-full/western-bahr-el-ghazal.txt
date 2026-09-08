@@ -3,7 +3,7 @@
 > 3 countys, 15 payams
 > Code: SS09
 > Coordinates: 8.541, 26.343
-> Last updated: 2026-08-20. License: CC-BY-4.0.
+> Last updated: 2026-09-02. License: CC-BY-4.0.
 
 ## Countys
 
